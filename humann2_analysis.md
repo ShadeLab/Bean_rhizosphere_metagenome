@@ -1,5 +1,22 @@
 # How to analyze HUMAnN2 outputs
 
+For running humann2 I have installed the tool with all dependancies using conda.
+```
+conda create --name humann_2
+conda activate humann_2
+conda install python=3.6
+pip install humann2
+conda install -c bioconda diamond
+conda install -c bioconda metaphlan2
+
+DIR=~/humann_db
+humann2_databases --download chocophlan full $DIR
+humann2_databases --download uniref uniref50_diamond $DIR
+humann2_databases --download utility_mapping full $DIR
+
+```
+
+ 
 __From Yurgel et al. 2019 (Frontier in Microbiology)__:
 
 1. HUMAnN2 0.11.2 (Franzosa et al., 2018) was run on these filtered reads to identify the number of __reads per kilobase (RPK)__ of UniRef50 gene families (Suzek et al., 2015) in each sample. UniRef50 gene families were then converted into KEGG orthologs using HUMAnN2’s built in mapping files. 
