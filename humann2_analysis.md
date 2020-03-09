@@ -1,6 +1,6 @@
 # How to analyze HUMAnN2 outputs
 
-For running humann2 I have installed the tool with all dependancies using conda.
+For running humann2 I have installed the tool with all dependancies using conda. What the commands bellow will do is to creat a new conda environment named `humann_s` and within install the python version 3.6, humann2, diamond and metaphlan2 tools. Additionally we need to download databases whichare done using humann2_databases commands (see [instructions](http://huttenhower.sph.harvard.edu/humann))
 ```
 conda create --name humann_2
 conda activate humann_2
