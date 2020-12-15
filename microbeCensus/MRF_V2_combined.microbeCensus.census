@@ -1,0 +1,13 @@
+Parameters
+metagenome:	MRF_V2_combined.fastq_QC_filtered.fq
+reads_sampled:	100000000
+trimmed_length:	150
+min_quality:	-5
+mean_quality:	-5
+filter_dups:	False
+max_unknown:	100
+
+Results
+average_genome_size:	5318039.4877
+total_bases:	47055454900
+genome_equivalents:	8848.27106094
