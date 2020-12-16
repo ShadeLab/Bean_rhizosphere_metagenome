@@ -22,6 +22,7 @@ library(circlize)
 library(tidyverse)
 library(treeio)
 library(gameofthrones)
+library(ggtreeExtra)
 
 ################################################################################
 # Downloading custom functions
@@ -70,6 +71,7 @@ names(metabat.taxonomy)
 
 #Merge datasets
 taxonomy.all <- rbind(GTDB.taxonomy,metabat.taxonomy)
+taxonomy.all<- taxonomy.all[taxonomy.all$Kingdom !='d__Archaea',] #removing Archaea from the taxonomy file
 
 #Isolate and inspect tip labels. Each tip is a genomic placement. 
 tips <- tree$tip.label
@@ -77,14 +79,16 @@ head(tips)
 
 #Filter only taxa present in the tree
 filtered.taxonomy=taxonomy.all[taxonomy.all$GenomeID %in% tips,]
-
+tips.keep <- tips[tips %in% filtered.taxonomy$GenomeID]
+tree.bact <- ape::keep.tip(tree, tips.keep)
+tree <- tree.bact
 
 #One more thing: adding bootstrap values to trees
-tree$node.label <- parse_bootstraps(tree, method = "parse")
+#tree$node.label <- parse_bootstraps(tree, method = "parse")
 
 #Find and parse tree boostraps
-bs_count <- parse_bootstraps(tree, method = "count")
-tail(bs_count)
+#bs_count <- parse_bootstraps(tree, method = "count")
+#tail(bs_count)
 
 Class.nodes <- collapse_nodes("Class", tree, filtered.taxonomy)
 coreClass_node <- Class.nodes[which(Class.nodes$Group %in% unique(core16s$Class)),]$Node
@@ -109,7 +113,7 @@ row.names(markingData) <- NULL
 
 pal <- got(7, option = "Daenerys") # generating 7 colors for highlighting phyla
 
-tree.plot <- ggtree(tree, layout = 'circular', color="grey70") + 
+tree.plot <- ggtree(tree, layout = 'circular', color="darkgrey", size=.2) + 
   xlim(0,4)  +
   geom_cladelabel(node=acido_node, label="Acidobacteriota",align=TRUE, offset=.5) +
   geom_cladelabel(node=actiono_node, label="Actinobacteriota",align=TRUE, offset=.5) +
@@ -131,8 +135,76 @@ treeFig <- tree.plot %<+% markingData +
   scale_fill_manual(values = c('gold', 'transparent')) +
   scale_color_manual(values = c('gold', 'transparent')) 
 
+#' First figure showing all the MAGs bined by metabat and 1500bp threshold
 treeFig
 
+# Now plot only the MAGs without the references and include the completness bars
+
+# Import checkM results
+metabat.checkM <- read.csv('data/metabat1500_checkm.csv', header = T)
+head(metabat.checkM)
+class(metabat.taxonomy$Kingdom)
+dat1 <- left_join(metabat.checkM, metabat.taxonomy, by="GenomeID")
+dat1 <- dat1[complete.cases(dat1$Kingdom), ]
+dat1$GenomeID=as.character(dat1$GenomeID)
+# Subset tree to MAGs only
+tips.mags <- tips[tips %in% dat1$GenomeID]
+tree.metabat <- ape::keep.tip(tree, tips.mags)
+
+dat2  <- melt(dat1[c(1:4,6)], id.vars = c("GenomeID",'Phylum'))
+head(dat2)
+
+# Make same order of tip labels and GenomeIDs
+dat2$GenomeID <- factor(dat2$GenomeID, 
+                                   levels = tree.metabat$tip.label)
+dat2$variable <- factor(dat2$variable, 
+                                   levels = rev(unique(dat2$variable)))
+
+completness <- dat2[dat2$variable == 'Completeness',]
+
+completnessFig <- ggplot(completness, aes(x = fct_reorder(GenomeID, -value), y = value, fill = variable, group=Phylum)) +
+  geom_bar(stat = "identity", color = "black") + #The "black" color provides the border. 
+  theme_classic()+
+  scale_fill_manual(values = c("cadetblue", "gold")) + #Manually assign fill for residual and completeness
+  theme(legend.position = "none") + #We don't need a legend for these data
+  coord_flip() +
+  ylab("Completeness")+
+  xlab('GenomeID') #Add label 
+
+contamination <- dat2[dat2$variable == 'Contamination',]
+
+contaminationFig <- ggplot(contamination, aes(x = fct_reorder(GenomeID, -value), y = value, fill = variable, group=Phylum)) +
+  geom_bar(stat = "identity", color = "black") + #The "black" color provides the border. 
+  theme_classic()+
+  scale_fill_manual(values = c("gold")) + #Manually assign fill for residual and completeness
+  theme(legend.position = "none") + #We don't need a legend for these data
+  coord_flip() +
+  ylab("Completeness")+
+  xlab('GenomeID') #Add label 
+
+
+
+Phyla.nodes <- collapse_nodes("Phylum", tree.metabat, dat1)
+unique(dat1$Phylum)
+metabatTree <- ggtree(tree.metabat, ladderize=F) + geom_tiplab(size = 3)
+Fig2 <- clade_labels(metabatTree, Phyla.nodes, tiplimit = 1, fontsize = 4)
+  
+
+ggtree(tree.metabat, layout= 'circular', branch.length='none') +
+  geom_fruit(
+    data=completness, # The abundance of dat1 will be mapped to x, 
+    geom=geom_bar,
+    mapping=aes(y=GenomeID, x=Abundance, fill=Phylum),
+    stat="identity")
+  
+  geom_fruit(data=completness, 
+             geom=geom_bar,
+             mapping=aes(fill=value),
+    starstroke=0.2
+  )
+  
+  
+  
 
 ################################################################################
 # Plot the reduced tree with ggtree
@@ -143,7 +215,8 @@ tree.plot <- ggtree(tree + xlim(0,4)
 tree.plot
 
 #Plot the tree using ciculat layout
-ggtree(tree.subset, layout="circular")
+ggtree(tree.subset, layout="circular") 
+  
 
 #add tip labels with geom_tiplab()
 tree.plot + geom_tiplab(size = 2)
