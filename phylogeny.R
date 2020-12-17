@@ -138,8 +138,8 @@ treeFig <- tree.plot %<+% markingData +
 #' First figure showing all the MAGs binned by metabat and 1500bp threshold
 treeFig
 
-# Now plot only the MAGs without the references and include the completness bars
 
+# Now plot only the MAGs without the references and include the completeness bars
 # Import checkM results
 metabat.checkM <- read.csv('data/metabat1500_checkm.csv', header = T)
 head(metabat.checkM)
@@ -408,3 +408,36 @@ SamAssembly.Fig=melt(samtoolsAssembly[c(1,40,42)], id.vars = 'Sample', variable.
   theme(axis.text.x = element_blank(),
         legend.position = 'top')+
   labs(y='% reads', fill=NULL)
+
+
+# Now plot only the MAGs without the references and include the completeness bars
+# Import checkM results
+MAG.checkM <- read.csv('data/MAG_checkm.csv', header = T)
+head(MAG.checkM)
+
+completness.mag.Fig <- ggplot(MAG.checkM, aes(x = fct_reorder(GeneID, -Completeness), 
+                                 y = Completeness), fill='cadetblue') +
+  geom_bar(stat='identity', color = "black") + #The "black" color provides the border. 
+  theme_classic()+
+  geom_hline(yintercept=70, color='grey70', linetype='dashed')+
+  theme(legend.position = "none",
+        axis.text.y= element_blank()) + #We don't need a legend for these data
+  coord_flip() +
+  ylab("Completeness")+
+  xlab('Genome ID') #Add label 
+
+contamination.mag.Fig <- ggplot(MAG.checkM, aes(x =fct_reorder(GeneID, -Completeness), 
+                                   y = Contamination)) +
+  geom_bar(stat = "identity", color = "black", fill='brown3') + #The "black" color provides the border. 
+  theme_classic()+
+  theme(legend.position = "none", 
+        axis.text.y= element_blank(),
+        axis.title.y = element_blank()) + #We don't need a legend for these data
+  geom_hline(yintercept=10, color='grey70', linetype='dashed')+
+  coord_flip() +
+  scale_y_continuous(limits=c(0,100),oob = rescale_none)+
+  ylab("Contamination")+
+  xlab('Genome ID') #Add label 
+
+grid.arrange(completness.mag.Fig, contamination.mag.Fig, widths=c(2,2))
+
