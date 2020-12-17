@@ -221,9 +221,6 @@ ggtree(tree.metabat, layout= 'circular', branch.length='none') +
              mapping=aes(fill=value),
     starstroke=0.2
   )
-  
-  
-  
 
 ################################################################################
 # Plot the reduced tree with ggtree
@@ -406,8 +403,8 @@ SamAssembly.Fig=melt(samtoolsAssembly[c(1,40,42)], id.vars = 'Sample', variable.
   scale_fill_manual(values =c('brown3', 'cadetblue'), ) +
   theme_bw()+
   theme(axis.text.x = element_blank(),
-        legend.position = 'top')+
-  labs(y='% reads', fill=NULL)
+        legend.position = 'bottom')+
+  labs(y='% reads', fill=NULL, title='Whole assembly mapping statistics')
 
 
 # Now plot only the MAGs without the references and include the completeness bars
