@@ -135,7 +135,7 @@ treeFig <- tree.plot %<+% markingData +
   scale_fill_manual(values = c('gold', 'transparent')) +
   scale_color_manual(values = c('gold', 'transparent')) 
 
-#' First figure showing all the MAGs bined by metabat and 1500bp threshold
+#' First figure showing all the MAGs binned by metabat and 1500bp threshold
 treeFig
 
 # Now plot only the MAGs without the references and include the completness bars
@@ -161,28 +161,47 @@ dat2$variable <- factor(dat2$variable,
                                    levels = rev(unique(dat2$variable)))
 
 completness <- dat2[dat2$variable == 'Completeness',]
-
-completnessFig <- ggplot(completness, aes(x = fct_reorder(GenomeID, -value), y = value, fill = variable, group=Phylum)) +
-  geom_bar(stat = "identity", color = "black") + #The "black" color provides the border. 
-  theme_classic()+
-  scale_fill_manual(values = c("cadetblue", "gold")) + #Manually assign fill for residual and completeness
-  theme(legend.position = "none") + #We don't need a legend for these data
-  coord_flip() +
-  ylab("Completeness")+
-  xlab('GenomeID') #Add label 
-
 contamination <- dat2[dat2$variable == 'Contamination',]
+names(completness)[4]='completness'
+names(contamination)[4]='contamination'
 
-contaminationFig <- ggplot(contamination, aes(x = fct_reorder(GenomeID, -value), y = value, fill = variable, group=Phylum)) +
-  geom_bar(stat = "identity", color = "black") + #The "black" color provides the border. 
+df <- left_join(completness[-3], contamination[-3])
+head(df)
+
+completnessFig <- ggplot(df, aes(x = fct_reorder(GenomeID, -completness), 
+                                 y = completness), fill='cadetblue') +
+  geom_bar(stat='identity', color = "black") + #The "black" color provides the border. 
   theme_classic()+
-  scale_fill_manual(values = c("gold")) + #Manually assign fill for residual and completeness
-  theme(legend.position = "none") + #We don't need a legend for these data
+  geom_hline(yintercept=70, color='grey70', linetype='dashed')+
+    theme(legend.position = "none",
+          axis.text.y= element_blank()) + #We don't need a legend for these data
   coord_flip() +
   ylab("Completeness")+
   xlab('GenomeID') #Add label 
 
+library(scales)
 
+contaminationFig <- ggplot(df, aes(x =fct_reorder(GenomeID, -completness), 
+                                   y = contamination)) +
+  geom_bar(stat = "identity", color = "black", fill='brown3') + #The "black" color provides the border. 
+  theme_classic()+
+  theme(legend.position = "none", 
+        axis.text.y= element_blank(),
+        axis.title.y = element_blank()) + #We don't need a legend for these data
+  geom_hline(yintercept=10, color='grey70', linetype='dashed')+
+  coord_flip() +
+  scale_y_continuous(limits=c(0,100),oob = rescale_none)+
+  ylab("Contamination")+
+  xlab('GenomeID') #Add label 
+
+grid.arrange(completnessFig, contaminationFig, widths=c(2,2))
+
+#Where are the thresholds
+sum(df$completness>70)  # 66 MAGs with 70% completeness or higher
+sum(df$contamination<10) # 89 MAGs with 10% contamination or lower
+
+sum(df$completness>70 & df$contamination<10) # 18 MAGs with 70%> completeness and 10%< contamination
+sum(df$completness>50 & df$contamination<10) # 29 MAGs with 70%> completeness and 10%< contamination
 
 Phyla.nodes <- collapse_nodes("Phylum", tree.metabat, dat1)
 unique(dat1$Phylum)
@@ -303,37 +322,87 @@ tree.plot + geom_treescale(x=0, y=length(tree.subset$tip.label)-50, width=0.2, o
 # Plot the reduced tree with only refined MAGs with ggtree
 ################################################################################
 #Load data
-mag.taxonomy <- read.csv("MAG.gtdbtk.classification.csv", stringsAsFactors = FALSE)
+mag.taxonomy <- read.csv("data/MAG.gtdbtk.classification.csv", stringsAsFactors = FALSE, na.strings = '')
+mag.taxonomy <- mag.taxonomy %>%
+  mutate(Kingdom=paste("k__",Kingdom,sep=''),
+         Phylum=paste("p__",Phylum,sep=''),
+         Class=paste("c__",Class,sep=''),
+         Order=if_else(is.na(Order), Order, false=paste("o__",Order,sep='')),
+         Family=if_else(is.na(Family), Family, false=paste("f__",Family,sep='')),
+         Genus=if_else(is.na(Genus), Genus, false=paste("g__",Genus,sep='')),
+         Species=if_else(is.na(Species), Species, false=paste("s__",Species,sep='')))
 
 #Inspect data
 head(mag.taxonomy)
 
-#Isolate and inspect tip labels. Each tip is a genomic placement. 
-tips <- tree$tip.label
-head(tips)
+#Isolate and inspect tip labels. Each tip is a genomic placement
+MAGtree.path <- "data/MAG.gtdbtk.bac120.classify.tree"
+MAGtree <- ape::read.tree(MAGtree.path)
 
-tree.mags <- keep.tip(tree, as.character(mag.taxonomy$GenomeID))
-tree.mags
+MAG.tips=MAGtree$tip.label
+MAG.tips.keep <- MAG.tips[MAG.tips %in% mag.taxonomy$GenomeID]
+tree.mags <- ape::keep.tip(MAGtree, MAG.tips.keep)
+
 
 #Plot MAG tree with ggtree()
-tree.plot <- ggtree(tree.mags, ladderize=F) + geom_tiplab(size = 2) + xlim(0,2.6)
-tree.plot
-
-#Add arbitrary color ranges with the randomColor() function. 
-Phyla.nodes <- collapse_nodes("Phylum", tree.mags, mag.taxonomy)
-colorS <- randomColor(length(unique(Phyla.nodes$Group)))
-
-#Create tree plot with custom clade colors: 
-tree.plot <- clade_colors(tree.plot, Phyla.nodes, colorS, extend = 0.6,)
+MAGtree.plot <- ggtree(tree.mags, ladderize=F) + geom_tiplab(size = 2) + xlim(0,2.6)
 
 #Add bootstraps with the parse_bootstraps() function: 
 tree.mags$node.label <- parse_bootstraps(tree.mags, method = "parse")
 bs_count <- parse_bootstraps(tree.mags,method = "count")
 
 #Finally: Add it all together for a great looking phylogeny of our MAGs:
-tree.plot <- tree.plot + 
+MAGtree.plot <- MAGtree.plot + 
   geom_nodepoint(aes(subset= bs_count >= 75), fill = "cadetblue", size=2, alpha = 0.5, shape = 21) + 
-  geom_treescale(x=0, y=1, width=0.1, offset = 0.5)
+  geom_treescale(x=0, y=1, width=0.1, offset = 0.5) 
 
-tree.plot
+mag.markingData=data.frame(GenomeID=mag.taxonomy$GenomeID, group=NA)
+mag.markingData=mag.markingData %>% mutate(group=ifelse(GenomeID %in% c('metabat1500.050', 'metabat2500.019',
+                                             'metabat2500.140','metabat2500.155',
+                                             'concoct.124','metabat1500.117',
+                                             'metabat1500.139','metabat2500.020',
+                                             'metabat2500.049','metabat2500.079',
+                                             'metabat2500.096','metabat2500.107',
+                                             'metabat2500.120','metabat1500.113',
+                                             'metabat1500.115'), 
+                                    'core','other'))
+
+MAGtree.plot=MAGtree.plot %<+% mag.markingData +
+  geom_tippoint(aes(fill=group, color=group), size=3) +
+  scale_fill_manual(values = c('gold', 'transparent')) +
+  scale_color_manual(values = c('gold', 'transparent')) 
+ 
+
+MAG.Phyla.nodes <- collapse_nodes("Phylum", MAGtree, mag.taxonomy)
+
+acido_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Acidobacteriota"),]$Node
+actiono_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Actinobacteriota"),]$Node
+bact_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Bacteroidota"),]$Node
+chloro_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Chloroflexota"),]$Node
+methy_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Methylomirabilota"),]$Node
+myxo_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Myxococcota"),]$Node
+gemma_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Gemmatimonadota"),]$Node
+desulfo_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Desulfobacterota_B"),]$Node
+patesc_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Patescibacteria"),]$Node
+plan_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Planctomycetota"),]$Node
+proteo_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Proteobacteria"),]$Node
+ver_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Verrucomicrobiota"),]$Node 
+
+pal <- got(9, option = "Arya")
+
+geom_cladelabel(node=actiono_node, label="Actinobacteriota",align=TRUE, offset=.5)
+  geom_cladelabel(node=bact_node, label="Bacteroidota",align=TRUE, offset=.5) 
+  geom_cladelabel(node=chloro_node, label="Chloroflexota",align=TRUE, offset=.5) +
+  geom_cladelabel(node=plan_node, label="Planctomycetota",align=TRUE, offset=.5) +
+  geom_cladelabel(node=proteo_node, label="Proteobacteria",align=TRUE, offset=.5) +
+  geom_cladelabel(node=ver_node, label="Verrucomicrobiota",align=TRUE, offset=.5)
+  geom_hilight(node=actiono_node, fill=pal[2], alpha=.5) +
+  geom_hilight(node=bact_node, fill=pal[3], alpha=.5) +
+  geom_hilight(node=chloro_node, fill=pal[4], alpha=.5) +
+  geom_hilight(node=methy_node, fill=pal[5], alpha=.5) +
+  geom_hilight(node=plan_node, fill=pal[6], alpha=.5) +
+  geom_hilight(node=gemma_node, fill=pal[7], alpha=.5) +
+  geom_hilight(node=proteo_node, fill=pal[8], alpha=.5) +
+  geom_hilight(node=ver_node, fill=pal[9], alpha=.5) 
+
 
