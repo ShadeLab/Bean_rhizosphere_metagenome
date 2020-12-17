@@ -415,10 +415,23 @@ SamAssembly.Fig=melt(samtoolsAssembly[c(1,40,42)], id.vars = 'Sample', variable.
 MAG.checkM <- read.csv('data/MAG_checkm.csv', header = T)
 head(MAG.checkM)
 
+coreLike=c('metabat1500.050', 'metabat2500.019',
+  'metabat2500.140','metabat2500.155',
+  'concoct.124','metabat1500.117',
+  'metabat1500.139','metabat2500.020',
+  'metabat2500.049','metabat2500.079',
+  'metabat2500.096','metabat2500.107',
+  'metabat2500.120','metabat1500.113',
+  'metabat1500.115')
+
+MAG.checkM=MAG.checkM %>%
+  mutate(group=ifelse(GeneID %in% coreLike, 'core', 'other'))
+  
 completness.mag.Fig <- ggplot(MAG.checkM, aes(x = fct_reorder(GeneID, -Completeness), 
-                                 y = Completeness), fill='cadetblue') +
+                                 y = Completeness, fill=group)) +
   geom_bar(stat='identity', color = "black") + #The "black" color provides the border. 
   theme_classic()+
+  scale_fill_manual(values = c('gold','cadetblue')) +
   geom_hline(yintercept=70, color='grey70', linetype='dashed')+
   theme(legend.position = "none",
         axis.text.y= element_blank()) + #We don't need a legend for these data
