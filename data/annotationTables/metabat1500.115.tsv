@@ -1,0 +1,3401 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+metabat1500.115_00001	gene	966				
+metabat1500.115_00001	CDS	966				hypothetical protein
+metabat1500.115_00002	gene	417				
+metabat1500.115_00002	CDS	417				hypothetical protein
+metabat1500.115_00003	gene	381				
+metabat1500.115_00003	CDS	381				hypothetical protein
+metabat1500.115_00004	gene	1212				
+metabat1500.115_00004	CDS	1212		3.4.11.25		Beta-peptidyl aminopeptidase BapA
+metabat1500.115_00005	gene	348				
+metabat1500.115_00005	CDS	348				hypothetical protein
+metabat1500.115_00006	gene	1041				
+metabat1500.115_00006	CDS	1041				hypothetical protein
+metabat1500.115_00007	gene	612				
+metabat1500.115_00007	CDS	612				hypothetical protein
+metabat1500.115_00008	gene	795				
+metabat1500.115_00008	CDS	795				hypothetical protein
+metabat1500.115_00009	gene	333				
+metabat1500.115_00009	CDS	333				hypothetical protein
+metabat1500.115_00010	gene	2646				
+metabat1500.115_00010	CDS	2646				hypothetical protein
+metabat1500.115_00011	gene	849				
+metabat1500.115_00011	CDS	849				hypothetical protein
+metabat1500.115_00012	gene	267				
+metabat1500.115_00012	CDS	267				hypothetical protein
+metabat1500.115_00013	gene	972	galE			
+metabat1500.115_00013	CDS	972	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+metabat1500.115_00014	gene	522				
+metabat1500.115_00014	CDS	522				hypothetical protein
+metabat1500.115_00015	gene	471	mscL			
+metabat1500.115_00015	CDS	471	mscL			Large-conductance mechanosensitive channel
+metabat1500.115_00016	gene	2553	leuS			
+metabat1500.115_00016	CDS	2553	leuS	6.1.1.4		Leucine--tRNA ligase
+metabat1500.115_00017	gene	591				
+metabat1500.115_00017	CDS	591		3.6.1.66		dITP/XTP pyrophosphatase
+metabat1500.115_00018	gene	477	tolR			
+metabat1500.115_00018	CDS	477	tolR			Tol-Pal system protein TolR
+metabat1500.115_00019	gene	627				
+metabat1500.115_00019	CDS	627				hypothetical protein
+metabat1500.115_00020	gene	438	exbD_1			
+metabat1500.115_00020	CDS	438	exbD_1		COG0848	Biopolymer transport protein ExbD
+metabat1500.115_00021	gene	1056	tolQ_1			
+metabat1500.115_00021	CDS	1056	tolQ_1			Tol-Pal system protein TolQ
+metabat1500.115_00022	gene	810				
+metabat1500.115_00022	CDS	810				hypothetical protein
+metabat1500.115_00023	gene	765				
+metabat1500.115_00023	CDS	765				hypothetical protein
+metabat1500.115_00024	gene	2001				
+metabat1500.115_00024	CDS	2001				hypothetical protein
+metabat1500.115_00025	gene	933	COQ5_1			
+metabat1500.115_00025	CDS	933	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+metabat1500.115_00026	gene	1203	metK			
+metabat1500.115_00026	CDS	1203	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+metabat1500.115_00027	gene	543				
+metabat1500.115_00027	CDS	543				hypothetical protein
+metabat1500.115_00028	gene	456				
+metabat1500.115_00028	CDS	456				hypothetical protein
+metabat1500.115_00029	gene	696				
+metabat1500.115_00029	CDS	696				hypothetical protein
+metabat1500.115_00030	gene	756				
+metabat1500.115_00030	CDS	756				hypothetical protein
+metabat1500.115_00031	gene	2142				
+metabat1500.115_00031	CDS	2142				hypothetical protein
+metabat1500.115_00032	gene	702				
+metabat1500.115_00032	CDS	702				hypothetical protein
+metabat1500.115_00033	gene	165				
+metabat1500.115_00033	CDS	165				hypothetical protein
+metabat1500.115_00034	gene	1296	uvrD			
+metabat1500.115_00034	CDS	1296	uvrD	3.6.4.12	COG0210	DNA helicase II
+metabat1500.115_00035	gene	174				
+metabat1500.115_00035	CDS	174				hypothetical protein
+metabat1500.115_00036	gene	249				
+metabat1500.115_00036	CDS	249				hypothetical protein
+metabat1500.115_00037	gene	360				
+metabat1500.115_00037	CDS	360				hypothetical protein
+metabat1500.115_00038	gene	516				
+metabat1500.115_00038	CDS	516				hypothetical protein
+metabat1500.115_00039	gene	456	mraZ			
+metabat1500.115_00039	CDS	456	mraZ			Transcriptional regulator MraZ
+metabat1500.115_00040	gene	1020	rsmH			
+metabat1500.115_00040	CDS	1020	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+metabat1500.115_00041	gene	369				
+metabat1500.115_00041	CDS	369				hypothetical protein
+metabat1500.115_00042	gene	1818	spoVD			
+metabat1500.115_00042	CDS	1818	spoVD		COG0768	Stage V sporulation protein D
+metabat1500.115_00043	gene	1485	murE			
+metabat1500.115_00043	CDS	1485	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+metabat1500.115_00044	gene	1425	murF			
+metabat1500.115_00044	CDS	1425	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+metabat1500.115_00045	gene	1101	mraY			
+metabat1500.115_00045	CDS	1101	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+metabat1500.115_00046	gene	1377	murD			
+metabat1500.115_00046	CDS	1377	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+metabat1500.115_00047	gene	576				
+metabat1500.115_00047	CDS	576				hypothetical protein
+metabat1500.115_00048	gene	1143	ftsW			
+metabat1500.115_00048	CDS	1143	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+metabat1500.115_00049	gene	1098	murG			
+metabat1500.115_00049	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+metabat1500.115_00050	gene	2328	murC			
+metabat1500.115_00050	CDS	2328	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+metabat1500.115_00051	gene	975	ddlB			
+metabat1500.115_00051	CDS	975	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+metabat1500.115_00052	gene	960	ftsQ			
+metabat1500.115_00052	CDS	960	ftsQ			Cell division protein FtsQ
+metabat1500.115_00053	gene	1209	ftsA			
+metabat1500.115_00053	CDS	1209	ftsA		COG0849	Cell division protein FtsA
+metabat1500.115_00054	gene	1416	ftsZ			
+metabat1500.115_00054	CDS	1416	ftsZ			Cell division protein FtsZ
+metabat1500.115_00055	gene	1338				
+metabat1500.115_00055	CDS	1338		3.5.1.47		N-acetyldiaminopimelate deacetylase
+metabat1500.115_00056	gene	378				
+metabat1500.115_00056	CDS	378				hypothetical protein
+metabat1500.115_00057	gene	417				
+metabat1500.115_00057	CDS	417				hypothetical protein
+metabat1500.115_00058	gene	267				
+metabat1500.115_00058	CDS	267				hypothetical protein
+metabat1500.115_00059	gene	1290	iscS			
+metabat1500.115_00059	CDS	1290	iscS	2.8.1.7		Cysteine desulfurase IscS
+metabat1500.115_00060	gene	288				
+metabat1500.115_00060	CDS	288				hypothetical protein
+metabat1500.115_00061	gene	750				
+metabat1500.115_00061	CDS	750				hypothetical protein
+metabat1500.115_00062	gene	1008	sppA_1			
+metabat1500.115_00062	CDS	1008	sppA_1	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+metabat1500.115_00063	gene	840				
+metabat1500.115_00063	CDS	840				hypothetical protein
+metabat1500.115_00064	gene	927	thiL			
+metabat1500.115_00064	CDS	927	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+metabat1500.115_00065	gene	378	tsaE			
+metabat1500.115_00065	CDS	378	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+metabat1500.115_00066	gene	615				
+metabat1500.115_00066	CDS	615				hypothetical protein
+metabat1500.115_00067	gene	1122	alr1			
+metabat1500.115_00067	CDS	1122	alr1	5.1.1.1	COG0787	Alanine racemase 1
+metabat1500.115_00068	gene	363				
+metabat1500.115_00068	CDS	363				hypothetical protein
+metabat1500.115_00069	gene	240	rpsR			
+metabat1500.115_00069	CDS	240	rpsR		COG0238	30S ribosomal protein S18
+metabat1500.115_00070	gene	174				
+metabat1500.115_00070	CDS	174				hypothetical protein
+metabat1500.115_00071	gene	675	dksA			
+metabat1500.115_00071	CDS	675	dksA			RNA polymerase-binding transcription factor DksA
+metabat1500.115_00072	gene	795				
+metabat1500.115_00072	CDS	795				hypothetical protein
+metabat1500.115_00073	gene	1212	macA_1			
+metabat1500.115_00073	CDS	1212	macA_1		COG0845	Macrolide export protein MacA
+metabat1500.115_00074	gene	786	yknY_1			
+metabat1500.115_00074	CDS	786	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+metabat1500.115_00075	gene	1218	macB_1			
+metabat1500.115_00075	CDS	1218	macB_1	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+metabat1500.115_00076	gene	366	glpE			
+metabat1500.115_00076	CDS	366	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+metabat1500.115_00077	gene	1065				
+metabat1500.115_00077	CDS	1065				hypothetical protein
+metabat1500.115_00078	gene	330	ccmL			
+metabat1500.115_00078	CDS	330	ccmL			Carbon dioxide concentrating mechanism protein CcmL
+metabat1500.115_00079	gene	1182	bedA			
+metabat1500.115_00079	CDS	1182	bedA	1.18.1.3		Benzene 1,2-dioxygenase system ferredoxin--NAD(+) reductase subunit
+metabat1500.115_00080	gene	495				
+metabat1500.115_00080	CDS	495				hypothetical protein
+metabat1500.115_00081	gene	522				
+metabat1500.115_00081	CDS	522				hypothetical protein
+metabat1500.115_00082	gene	1398	creD			
+metabat1500.115_00082	CDS	1398	creD		COG4452	Inner membrane protein CreD
+metabat1500.115_00083	gene	753				
+metabat1500.115_00083	CDS	753				hypothetical protein
+metabat1500.115_00084	gene	306				
+metabat1500.115_00084	CDS	306				hypothetical protein
+metabat1500.115_00085	gene	1269				
+metabat1500.115_00085	CDS	1269				hypothetical protein
+metabat1500.115_00086	gene	189				
+metabat1500.115_00086	CDS	189				hypothetical protein
+metabat1500.115_00087	gene	1065				
+metabat1500.115_00087	CDS	1065				hypothetical protein
+metabat1500.115_00088	gene	660				
+metabat1500.115_00088	CDS	660				hypothetical protein
+metabat1500.115_00089	gene	216				
+metabat1500.115_00089	CDS	216				hypothetical protein
+metabat1500.115_00090	gene	1512				
+metabat1500.115_00090	CDS	1512				hypothetical protein
+metabat1500.115_00091	gene	321				
+metabat1500.115_00091	CDS	321				hypothetical protein
+metabat1500.115_00092	gene	1245	dinB_1			
+metabat1500.115_00092	CDS	1245	dinB_1	2.7.7.7	COG0389	DNA polymerase IV
+metabat1500.115_00093	gene	759	glgA			
+metabat1500.115_00093	CDS	759	glgA	2.4.1.21	COG0297	Glycogen synthase
+metabat1500.115_00094	gene	1806	valS			
+metabat1500.115_00094	CDS	1806	valS	6.1.1.9		Valine--tRNA ligase
+metabat1500.115_00095	gene	723				
+metabat1500.115_00095	CDS	723				hypothetical protein
+metabat1500.115_00096	gene	2046	cstA			
+metabat1500.115_00096	CDS	2046	cstA		COG1966	Peptide transporter CstA
+metabat1500.115_00097	gene	609				
+metabat1500.115_00097	CDS	609				hypothetical protein
+metabat1500.115_00098	gene	792				
+metabat1500.115_00098	CDS	792		3.5.1.111		2-oxoglutaramate amidase
+metabat1500.115_00099	gene	1413				
+metabat1500.115_00099	CDS	1413				hypothetical protein
+metabat1500.115_00100	gene	837	cpoB_1			
+metabat1500.115_00100	CDS	837	cpoB_1			Cell division coordinator CpoB
+metabat1500.115_00101	gene	1884				
+metabat1500.115_00101	CDS	1884				hypothetical protein
+metabat1500.115_00102	gene	261				
+metabat1500.115_00102	CDS	261				hypothetical protein
+metabat1500.115_00103	gene	1107	dinB_2			
+metabat1500.115_00103	CDS	1107	dinB_2	2.7.7.7	COG0389	DNA polymerase IV
+metabat1500.115_00104	gene	165				
+metabat1500.115_00104	CDS	165				hypothetical protein
+metabat1500.115_00105	gene	2943				
+metabat1500.115_00105	CDS	2943			COG0247	putative protein
+metabat1500.115_00106	gene	546				
+metabat1500.115_00106	CDS	546				hypothetical protein
+metabat1500.115_00107	gene	729				
+metabat1500.115_00107	CDS	729				hypothetical protein
+metabat1500.115_00108	gene	453				
+metabat1500.115_00108	CDS	453				hypothetical protein
+metabat1500.115_00109	gene	174				
+metabat1500.115_00109	CDS	174				hypothetical protein
+metabat1500.115_00110	gene	918	oxyR			
+metabat1500.115_00110	CDS	918	oxyR			Hydrogen peroxide-inducible genes activator
+metabat1500.115_00111	gene	1077				
+metabat1500.115_00111	CDS	1077		1.3.1.103		2-haloacrylate reductase
+metabat1500.115_00112	gene	672				
+metabat1500.115_00112	CDS	672		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+metabat1500.115_00113	gene	363				
+metabat1500.115_00113	CDS	363				hypothetical protein
+metabat1500.115_00114	gene	249				
+metabat1500.115_00114	CDS	249				hypothetical protein
+metabat1500.115_00115	gene	216				
+metabat1500.115_00115	CDS	216				hypothetical protein
+metabat1500.115_00116	gene	2145				
+metabat1500.115_00116	CDS	2145				hypothetical protein
+metabat1500.115_00117	gene	768				
+metabat1500.115_00117	CDS	768				hypothetical protein
+metabat1500.115_00118	gene	2019				
+metabat1500.115_00118	CDS	2019				hypothetical protein
+metabat1500.115_00119	gene	822	bpoC			
+metabat1500.115_00119	CDS	822	bpoC	1.11.1.18	COG0596	Putative non-heme bromoperoxidase BpoC
+metabat1500.115_00120	gene	513				
+metabat1500.115_00120	CDS	513				hypothetical protein
+metabat1500.115_00121	gene	516	ymdB_1			
+metabat1500.115_00121	CDS	516	ymdB_1	3.1.1.106	COG2110	O-acetyl-ADP-ribose deacetylase
+metabat1500.115_00122	gene	651	pdxH_1			
+metabat1500.115_00122	CDS	651	pdxH_1	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+metabat1500.115_00123	gene	1161				
+metabat1500.115_00123	CDS	1161				hypothetical protein
+metabat1500.115_00124	gene	1194	nifS			
+metabat1500.115_00124	CDS	1194	nifS	2.8.1.7	COG1104	Cysteine desulfurase NifS
+metabat1500.115_00125	gene	1104	hisC_1			
+metabat1500.115_00125	CDS	1104	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+metabat1500.115_00126	gene	1374	mnmE			
+metabat1500.115_00126	CDS	1374	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+metabat1500.115_00127	gene	1083	pyrD			
+metabat1500.115_00127	CDS	1083	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+metabat1500.115_00128	gene	696				
+metabat1500.115_00128	CDS	696				hypothetical protein
+metabat1500.115_00129	gene	420				
+metabat1500.115_00129	CDS	420				hypothetical protein
+metabat1500.115_00130	gene	297				
+metabat1500.115_00130	CDS	297				hypothetical protein
+metabat1500.115_00131	gene	585	rpoE			
+metabat1500.115_00131	CDS	585	rpoE		COG1595	ECF RNA polymerase sigma-E factor
+metabat1500.115_00132	gene	390				
+metabat1500.115_00132	CDS	390				hypothetical protein
+metabat1500.115_00133	gene	210				
+metabat1500.115_00133	CDS	210				hypothetical protein
+metabat1500.115_00134	gene	357				
+metabat1500.115_00134	CDS	357				hypothetical protein
+metabat1500.115_00135	gene	951	mshA_1			
+metabat1500.115_00135	CDS	951	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+metabat1500.115_00136	gene	351				
+metabat1500.115_00136	CDS	351				hypothetical protein
+metabat1500.115_00137	gene	942				
+metabat1500.115_00137	CDS	942				hypothetical protein
+metabat1500.115_00138	gene	414				
+metabat1500.115_00138	CDS	414				hypothetical protein
+metabat1500.115_00139	gene	1062	hldD_1			
+metabat1500.115_00139	CDS	1062	hldD_1	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+metabat1500.115_00140	gene	147				
+metabat1500.115_00140	CDS	147				hypothetical protein
+metabat1500.115_00141	gene	699	pgl_1			
+metabat1500.115_00141	CDS	699	pgl_1	3.1.1.31		6-phosphogluconolactonase
+metabat1500.115_00142	gene	477	msrA_1			
+metabat1500.115_00142	CDS	477	msrA_1	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+metabat1500.115_00143	gene	807				
+metabat1500.115_00143	CDS	807				hypothetical protein
+metabat1500.115_00144	gene	639				
+metabat1500.115_00144	CDS	639				hypothetical protein
+metabat1500.115_00145	gene	2334	bamA_1			
+metabat1500.115_00145	CDS	2334	bamA_1		COG4775	Outer membrane protein assembly factor BamA
+metabat1500.115_00146	gene	1092	mqnC_1			
+metabat1500.115_00146	CDS	1092	mqnC_1	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+metabat1500.115_00147	gene	801				
+metabat1500.115_00147	CDS	801				hypothetical protein
+metabat1500.115_00148	gene	489				
+metabat1500.115_00148	CDS	489				hypothetical protein
+metabat1500.115_00149	gene	378				
+metabat1500.115_00149	CDS	378				hypothetical protein
+metabat1500.115_00150	gene	282				
+metabat1500.115_00150	CDS	282				hypothetical protein
+metabat1500.115_00151	gene	486				
+metabat1500.115_00151	CDS	486				hypothetical protein
+metabat1500.115_00152	gene	462				
+metabat1500.115_00152	CDS	462				hypothetical protein
+metabat1500.115_00153	gene	693				
+metabat1500.115_00153	CDS	693				hypothetical protein
+metabat1500.115_00154	gene	708				
+metabat1500.115_00154	CDS	708				hypothetical protein
+metabat1500.115_00155	gene	249				
+metabat1500.115_00155	CDS	249				hypothetical protein
+metabat1500.115_00156	gene	417				
+metabat1500.115_00156	CDS	417				hypothetical protein
+metabat1500.115_00157	gene	1458				
+metabat1500.115_00157	CDS	1458				hypothetical protein
+metabat1500.115_00158	gene	441				
+metabat1500.115_00158	CDS	441				hypothetical protein
+metabat1500.115_00159	gene	786				
+metabat1500.115_00159	CDS	786				hypothetical protein
+metabat1500.115_00160	gene	636				
+metabat1500.115_00160	CDS	636				hypothetical protein
+metabat1500.115_00161	gene	1077	metXA_1			
+metabat1500.115_00161	CDS	1077	metXA_1	2.3.1.46		Homoserine O-acetyltransferase
+metabat1500.115_00162	gene	243				
+metabat1500.115_00162	CDS	243				hypothetical protein
+metabat1500.115_00163	gene	285				
+metabat1500.115_00163	CDS	285				hypothetical protein
+metabat1500.115_00164	gene	1740	dan			
+metabat1500.115_00164	CDS	1740	dan	3.5.1.81		D-aminoacylase
+metabat1500.115_00165	gene	411				
+metabat1500.115_00165	CDS	411				hypothetical protein
+metabat1500.115_00166	gene	2451	lon2			
+metabat1500.115_00166	CDS	2451	lon2	3.4.21.53	COG0466	Lon protease 2
+metabat1500.115_00167	gene	411				
+metabat1500.115_00167	CDS	411				hypothetical protein
+metabat1500.115_00168	gene	1071				
+metabat1500.115_00168	CDS	1071				hypothetical protein
+metabat1500.115_00169	gene	954	galE1			
+metabat1500.115_00169	CDS	954	galE1	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+metabat1500.115_00170	gene	423				
+metabat1500.115_00170	CDS	423				hypothetical protein
+metabat1500.115_00171	gene	855				
+metabat1500.115_00171	CDS	855				hypothetical protein
+metabat1500.115_00172	gene	579	alkA			
+metabat1500.115_00172	CDS	579	alkA	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+metabat1500.115_00173	gene	426				
+metabat1500.115_00173	CDS	426				hypothetical protein
+metabat1500.115_00174	gene	255				
+metabat1500.115_00174	CDS	255				hypothetical protein
+metabat1500.115_00175	gene	531				
+metabat1500.115_00175	CDS	531				hypothetical protein
+metabat1500.115_00176	gene	777				
+metabat1500.115_00176	CDS	777				hypothetical protein
+metabat1500.115_00177	gene	678	sigK			
+metabat1500.115_00177	CDS	678	sigK		COG1595	ECF RNA polymerase sigma factor SigK
+metabat1500.115_00178	gene	237				
+metabat1500.115_00178	CDS	237				hypothetical protein
+metabat1500.115_00179	gene	264				
+metabat1500.115_00179	CDS	264				hypothetical protein
+metabat1500.115_00180	gene	1437	prlC			
+metabat1500.115_00180	CDS	1437	prlC	3.4.24.70	COG0339	Oligopeptidase A
+metabat1500.115_00181	gene	1677				
+metabat1500.115_00181	CDS	1677				hypothetical protein
+metabat1500.115_00182	gene	1839	bepA_1			
+metabat1500.115_00182	CDS	1839	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+metabat1500.115_00183	gene	1359				
+metabat1500.115_00183	CDS	1359				hypothetical protein
+metabat1500.115_00184	gene	1899	bepA_2			
+metabat1500.115_00184	CDS	1899	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+metabat1500.115_00185	gene	867				
+metabat1500.115_00185	CDS	867				hypothetical protein
+metabat1500.115_00186	gene	720	cpdA_1			
+metabat1500.115_00186	CDS	720	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+metabat1500.115_00187	gene	531				
+metabat1500.115_00187	CDS	531				hypothetical protein
+metabat1500.115_00188	gene	456				
+metabat1500.115_00188	CDS	456				hypothetical protein
+metabat1500.115_00189	gene	207				
+metabat1500.115_00189	CDS	207				hypothetical protein
+metabat1500.115_00190	gene	264	lolE_1			
+metabat1500.115_00190	CDS	264	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+metabat1500.115_00191	gene	867	lolE_2			
+metabat1500.115_00191	CDS	867	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+metabat1500.115_00192	gene	477				
+metabat1500.115_00192	CDS	477				hypothetical protein
+metabat1500.115_00193	gene	426				
+metabat1500.115_00193	CDS	426				hypothetical protein
+metabat1500.115_00194	gene	489				
+metabat1500.115_00194	CDS	489				hypothetical protein
+metabat1500.115_00195	gene	501				
+metabat1500.115_00195	CDS	501				hypothetical protein
+metabat1500.115_00196	gene	255				
+metabat1500.115_00196	CDS	255				hypothetical protein
+metabat1500.115_00197	gene	918	ligD_1			
+metabat1500.115_00197	CDS	918	ligD_1		COG1793	Multifunctional non-homologous end joining protein LigD
+metabat1500.115_00198	gene	1188	lpxK			
+metabat1500.115_00198	CDS	1188	lpxK	2.7.1.130		Tetraacyldisaccharide 4'-kinase
+metabat1500.115_00199	gene	381	clpS			
+metabat1500.115_00199	CDS	381	clpS			ATP-dependent Clp protease adapter protein ClpS
+metabat1500.115_00200	gene	1281				
+metabat1500.115_00200	CDS	1281		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+metabat1500.115_00201	gene	288				
+metabat1500.115_00201	CDS	288				hypothetical protein
+metabat1500.115_00202	gene	336				
+metabat1500.115_00202	CDS	336		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+metabat1500.115_00203	gene	561				
+metabat1500.115_00203	CDS	561				hypothetical protein
+metabat1500.115_00204	gene	558	nrdR			
+metabat1500.115_00204	CDS	558	nrdR			Transcriptional repressor NrdR
+metabat1500.115_00205	gene	207				
+metabat1500.115_00205	CDS	207				hypothetical protein
+metabat1500.115_00206	gene	975				
+metabat1500.115_00206	CDS	975				hypothetical protein
+metabat1500.115_00207	gene	1137				
+metabat1500.115_00207	CDS	1137				hypothetical protein
+metabat1500.115_00208	gene	2322	topB			
+metabat1500.115_00208	CDS	2322	topB	5.6.2.1		DNA topoisomerase 3
+metabat1500.115_00209	gene	2307				
+metabat1500.115_00209	CDS	2307				hypothetical protein
+metabat1500.115_00210	gene	363				
+metabat1500.115_00210	CDS	363				hypothetical protein
+metabat1500.115_00211	gene	2091	rcsC_1			
+metabat1500.115_00211	CDS	2091	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+metabat1500.115_00212	gene	1056				
+metabat1500.115_00212	CDS	1056				hypothetical protein
+metabat1500.115_00213	gene	1443	prpD2			
+metabat1500.115_00213	CDS	1443	prpD2	4.2.1.79	COG2079	2-methylcitrate dehydratase 2
+metabat1500.115_00214	gene	546				
+metabat1500.115_00214	CDS	546				hypothetical protein
+metabat1500.115_00215	gene	513	phdK			
+metabat1500.115_00215	CDS	513	phdK	1.2.1.78		2-formylbenzoate dehydrogenase
+metabat1500.115_00216	gene	414	rgtE			
+metabat1500.115_00216	CDS	414	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+metabat1500.115_00217	gene	366				
+metabat1500.115_00217	CDS	366				hypothetical protein
+metabat1500.115_00218	gene	2604	gyrA			
+metabat1500.115_00218	CDS	2604	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+metabat1500.115_00219	gene	780	stf0			
+metabat1500.115_00219	CDS	780	stf0	2.8.2.37	COG4424	Trehalose 2-sulfotransferase
+metabat1500.115_00220	gene	2568	gyrB			
+metabat1500.115_00220	CDS	2568	gyrB	5.6.2.2	COG0187	Type 2 topoisomerase subunit B
+metabat1500.115_00221	gene	636	psd			
+metabat1500.115_00221	CDS	636	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+metabat1500.115_00222	gene	825				
+metabat1500.115_00222	CDS	825				hypothetical protein
+metabat1500.115_00223	gene	720	cugP_1			
+metabat1500.115_00223	CDS	720	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+metabat1500.115_00224	gene	3186				
+metabat1500.115_00224	CDS	3186				hypothetical protein
+metabat1500.115_00225	gene	999				
+metabat1500.115_00225	CDS	999				hypothetical protein
+metabat1500.115_00226	gene	777	COQ5_2			
+metabat1500.115_00226	CDS	777	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+metabat1500.115_00227	gene	474				
+metabat1500.115_00227	CDS	474				hypothetical protein
+metabat1500.115_00228	gene	438				
+metabat1500.115_00228	CDS	438				hypothetical protein
+metabat1500.115_00229	gene	621				
+metabat1500.115_00229	CDS	621				hypothetical protein
+metabat1500.115_00230	gene	978				
+metabat1500.115_00230	CDS	978				hypothetical protein
+metabat1500.115_00231	gene	1146				
+metabat1500.115_00231	CDS	1146				hypothetical protein
+metabat1500.115_00232	gene	552				
+metabat1500.115_00232	CDS	552				hypothetical protein
+metabat1500.115_00233	gene	642				
+metabat1500.115_00233	CDS	642				hypothetical protein
+metabat1500.115_00234	gene	414	xcpT			
+metabat1500.115_00234	CDS	414	xcpT		COG2165	Type II secretion system protein G
+metabat1500.115_00235	gene	1089				
+metabat1500.115_00235	CDS	1089				hypothetical protein
+metabat1500.115_00236	gene	1332	epsF_1			
+metabat1500.115_00236	CDS	1332	epsF_1		COG1459	Type II secretion system protein F
+metabat1500.115_00237	gene	303				
+metabat1500.115_00237	CDS	303				hypothetical protein
+metabat1500.115_00238	gene	183				
+metabat1500.115_00238	CDS	183				hypothetical protein
+metabat1500.115_00239	gene	183				
+metabat1500.115_00239	CDS	183				hypothetical protein
+metabat1500.115_00240	gene	813	aviRb			
+metabat1500.115_00240	CDS	813	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+metabat1500.115_00241	gene	459				
+metabat1500.115_00241	CDS	459				hypothetical protein
+metabat1500.115_00242	gene	375				
+metabat1500.115_00242	CDS	375				hypothetical protein
+metabat1500.115_00243	gene	1161	cysJ			
+metabat1500.115_00243	CDS	1161	cysJ	1.8.1.2	COG0369	Sulfite reductase [NADPH] flavoprotein alpha-component
+metabat1500.115_00244	gene	552				
+metabat1500.115_00244	CDS	552				hypothetical protein
+metabat1500.115_00245	gene	552				
+metabat1500.115_00245	CDS	552				hypothetical protein
+metabat1500.115_00246	gene	894				
+metabat1500.115_00246	CDS	894				hypothetical protein
+metabat1500.115_00247	gene	180				
+metabat1500.115_00247	CDS	180				hypothetical protein
+metabat1500.115_00248	gene	138				
+metabat1500.115_00248	CDS	138				hypothetical protein
+metabat1500.115_00249	gene	1128				
+metabat1500.115_00249	CDS	1128				hypothetical protein
+metabat1500.115_00250	gene	942	tolB			
+metabat1500.115_00250	CDS	942	tolB			Tol-Pal system protein TolB
+metabat1500.115_00251	gene	1065	alaS			
+metabat1500.115_00251	CDS	1065	alaS	6.1.1.7		Alanine--tRNA ligase
+metabat1500.115_00252	gene	612				
+metabat1500.115_00252	CDS	612				hypothetical protein
+metabat1500.115_00253	gene	1437				
+metabat1500.115_00253	CDS	1437				hypothetical protein
+metabat1500.115_00254	gene	513				
+metabat1500.115_00254	CDS	513				hypothetical protein
+metabat1500.115_00255	gene	1809				
+metabat1500.115_00255	CDS	1809				hypothetical protein
+metabat1500.115_00256	gene	489				
+metabat1500.115_00256	CDS	489				hypothetical protein
+metabat1500.115_00257	gene	867	yvyI			
+metabat1500.115_00257	CDS	867	yvyI	5.3.1.8	COG1482	Putative mannose-6-phosphate isomerase YvyI
+metabat1500.115_00258	gene	966	lpxL_1			
+metabat1500.115_00258	CDS	966	lpxL_1	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+metabat1500.115_00259	gene	186				
+metabat1500.115_00259	CDS	186				hypothetical protein
+metabat1500.115_00260	gene	834				
+metabat1500.115_00260	CDS	834				hypothetical protein
+metabat1500.115_00261	gene	1806	glyA			
+metabat1500.115_00261	CDS	1806	glyA	2.1.2.1		Serine hydroxymethyltransferase
+metabat1500.115_00262	gene	672	gph_1			
+metabat1500.115_00262	CDS	672	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+metabat1500.115_00263	gene	585				
+metabat1500.115_00263	CDS	585				Potassium channel
+metabat1500.115_00264	gene	1542	zwf2_1			
+metabat1500.115_00264	CDS	1542	zwf2_1	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase 2
+metabat1500.115_00265	gene	1059				
+metabat1500.115_00265	CDS	1059				hypothetical protein
+metabat1500.115_00266	gene	1182	mshA_2			
+metabat1500.115_00266	CDS	1182	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+metabat1500.115_00267	gene	387				
+metabat1500.115_00267	CDS	387		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+metabat1500.115_00268	gene	1011	queA			
+metabat1500.115_00268	CDS	1011	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+metabat1500.115_00269	gene	798				
+metabat1500.115_00269	CDS	798				hypothetical protein
+metabat1500.115_00270	gene	1035				
+metabat1500.115_00270	CDS	1035				hypothetical protein
+metabat1500.115_00271	gene	1053				
+metabat1500.115_00271	CDS	1053				hypothetical protein
+metabat1500.115_00272	gene	1101	hemW			
+metabat1500.115_00272	CDS	1101	hemW		COG0635	Heme chaperone HemW
+metabat1500.115_00273	gene	297				
+metabat1500.115_00273	CDS	297				hypothetical protein
+metabat1500.115_00274	gene	1074	algA			
+metabat1500.115_00274	CDS	1074	algA		COG0662	Alginate biosynthesis protein AlgA
+metabat1500.115_00275	gene	597	yqgF			
+metabat1500.115_00275	CDS	597	yqgF	3.1.-.-		Putative pre-16S rRNA nuclease
+metabat1500.115_00276	gene	750	truA			
+metabat1500.115_00276	CDS	750	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+metabat1500.115_00277	gene	954				
+metabat1500.115_00277	CDS	954				hypothetical protein
+metabat1500.115_00278	gene	414				
+metabat1500.115_00278	CDS	414				hypothetical protein
+metabat1500.115_00279	gene	402				
+metabat1500.115_00279	CDS	402				hypothetical protein
+metabat1500.115_00280	gene	177				
+metabat1500.115_00280	CDS	177				hypothetical protein
+metabat1500.115_00281	gene	744				
+metabat1500.115_00281	CDS	744				hypothetical protein
+metabat1500.115_00282	gene	456				
+metabat1500.115_00282	CDS	456				hypothetical protein
+metabat1500.115_00283	gene	456				
+metabat1500.115_00283	CDS	456				hypothetical protein
+metabat1500.115_00284	gene	1455				
+metabat1500.115_00284	CDS	1455				hypothetical protein
+metabat1500.115_00285	gene	846	nfo_1			
+metabat1500.115_00285	CDS	846	nfo_1	3.1.21.2		endonuclease 4
+metabat1500.115_00286	gene	1368	zraR_1			
+metabat1500.115_00286	CDS	1368	zraR_1		COG2204	Transcriptional regulatory protein ZraR
+metabat1500.115_00287	gene	1335	sasA_1			
+metabat1500.115_00287	CDS	1335	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+metabat1500.115_00288	gene	276				
+metabat1500.115_00288	CDS	276				hypothetical protein
+metabat1500.115_00289	gene	1374				
+metabat1500.115_00289	CDS	1374				hypothetical protein
+metabat1500.115_00290	gene	744	yknY_2			
+metabat1500.115_00290	CDS	744	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+metabat1500.115_00291	gene	135				
+metabat1500.115_00291	CDS	135				hypothetical protein
+metabat1500.115_00292	gene	2454				
+metabat1500.115_00292	CDS	2454				hypothetical protein
+metabat1500.115_00293	gene	2571				
+metabat1500.115_00293	CDS	2571				hypothetical protein
+metabat1500.115_00294	gene	669	yknY_3			
+metabat1500.115_00294	CDS	669	yknY_3	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+metabat1500.115_00295	gene	1620				
+metabat1500.115_00295	CDS	1620				hypothetical protein
+metabat1500.115_00296	gene	585				
+metabat1500.115_00296	CDS	585				hypothetical protein
+metabat1500.115_00297	gene	1827				
+metabat1500.115_00297	CDS	1827				hypothetical protein
+metabat1500.115_00298	gene	2028				
+metabat1500.115_00298	CDS	2028				hypothetical protein
+metabat1500.115_00299	gene	1800				
+metabat1500.115_00299	CDS	1800				hypothetical protein
+metabat1500.115_00300	gene	210				
+metabat1500.115_00300	CDS	210				hypothetical protein
+metabat1500.115_00301	gene	1542	zwf2_2			
+metabat1500.115_00301	CDS	1542	zwf2_2	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase 2
+metabat1500.115_00302	gene	1059				
+metabat1500.115_00302	CDS	1059				hypothetical protein
+metabat1500.115_00303	gene	306	mshA_3			
+metabat1500.115_00303	CDS	306	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+metabat1500.115_00304	gene	1266				
+metabat1500.115_00304	CDS	1266				hypothetical protein
+metabat1500.115_00305	gene	1407				
+metabat1500.115_00305	CDS	1407				hypothetical protein
+metabat1500.115_00306	gene	219				
+metabat1500.115_00306	CDS	219				hypothetical protein
+metabat1500.115_00307	gene	213				
+metabat1500.115_00307	CDS	213				hypothetical protein
+metabat1500.115_00308	gene	981	trpS			
+metabat1500.115_00308	CDS	981	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+metabat1500.115_00309	gene	894				
+metabat1500.115_00309	CDS	894				hypothetical protein
+metabat1500.115_00310	gene	816	mkl			
+metabat1500.115_00310	CDS	816	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+metabat1500.115_00311	gene	795	mlaE_1			
+metabat1500.115_00311	CDS	795	mlaE_1		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+metabat1500.115_00312	gene	510				
+metabat1500.115_00312	CDS	510				hypothetical protein
+metabat1500.115_00313	gene	909	xerC			
+metabat1500.115_00313	CDS	909	xerC		COG4974	Tyrosine recombinase XerC
+metabat1500.115_00314	gene	2475	clpC			
+metabat1500.115_00314	CDS	2475	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+metabat1500.115_00315	gene	1122	mcsB			
+metabat1500.115_00315	CDS	1122	mcsB	2.7.14.1		Protein-arginine kinase
+metabat1500.115_00316	gene	498	mcsA			
+metabat1500.115_00316	CDS	498	mcsA		COG3880	Protein-arginine kinase activator protein
+metabat1500.115_00317	gene	993	ilvE			
+metabat1500.115_00317	CDS	993	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+metabat1500.115_00318	gene	681	lolD_1			
+metabat1500.115_00318	CDS	681	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+metabat1500.115_00319	gene	987				
+metabat1500.115_00319	CDS	987				hypothetical protein
+metabat1500.115_00320	gene	453	trmL			
+metabat1500.115_00320	CDS	453	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+metabat1500.115_00321	gene	996	tal			
+metabat1500.115_00321	CDS	996	tal	2.2.1.2		Transaldolase
+metabat1500.115_00322	gene	1395	pigE			
+metabat1500.115_00322	CDS	1395	pigE	2.6.1.-		Aminotransferase PigE
+metabat1500.115_00323	gene	357				
+metabat1500.115_00323	CDS	357				hypothetical protein
+metabat1500.115_00324	gene	786	lptB_1			
+metabat1500.115_00324	CDS	786	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+metabat1500.115_00325	gene	786	lptA_1			
+metabat1500.115_00325	CDS	786	lptA_1			Lipopolysaccharide export system protein LptA
+metabat1500.115_00326	gene	594				
+metabat1500.115_00326	CDS	594				hypothetical protein
+metabat1500.115_00327	gene	831	kdsA_1			
+metabat1500.115_00327	CDS	831	kdsA_1	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+metabat1500.115_00328	gene	771				
+metabat1500.115_00328	CDS	771				hypothetical protein
+metabat1500.115_00329	gene	828				
+metabat1500.115_00329	CDS	828				hypothetical protein
+metabat1500.115_00330	gene	480	coaD_1			
+metabat1500.115_00330	CDS	480	coaD_1	2.7.7.3		Phosphopantetheine adenylyltransferase
+metabat1500.115_00331	gene	450				
+metabat1500.115_00331	CDS	450				hypothetical protein
+metabat1500.115_00332	gene	1032	plsX_1			
+metabat1500.115_00332	CDS	1032	plsX_1	2.3.1.274	COG0416	Phosphate acyltransferase
+metabat1500.115_00333	gene	378				
+metabat1500.115_00333	CDS	378				hypothetical protein
+metabat1500.115_00334	gene	186				
+metabat1500.115_00334	CDS	186				hypothetical protein
+metabat1500.115_00335	gene	429				
+metabat1500.115_00335	CDS	429				hypothetical protein
+metabat1500.115_00336	gene	1011				
+metabat1500.115_00336	CDS	1011				hypothetical protein
+metabat1500.115_00337	gene	381				
+metabat1500.115_00337	CDS	381				hypothetical protein
+metabat1500.115_00338	gene	1710	ynbC			
+metabat1500.115_00338	CDS	1710	ynbC		COG2267	putative protein YnbC
+metabat1500.115_00339	gene	726	aas			
+metabat1500.115_00339	CDS	726	aas	6.2.1.20		Bifunctional protein Aas
+metabat1500.115_00340	gene	645				
+metabat1500.115_00340	CDS	645				hypothetical protein
+metabat1500.115_00341	gene	651	ndk_1			
+metabat1500.115_00341	CDS	651	ndk_1	2.7.4.6		Nucleoside diphosphate kinase
+metabat1500.115_00342	gene	1164	aspC_1			
+metabat1500.115_00342	CDS	1164	aspC_1	2.6.1.1		Aspartate aminotransferase
+metabat1500.115_00343	gene	1623				
+metabat1500.115_00343	CDS	1623		2.4.1.18	COG1543	1,4-alpha-glucan branching enzyme
+metabat1500.115_00344	gene	405				
+metabat1500.115_00344	CDS	405				hypothetical protein
+metabat1500.115_00345	gene	534				
+metabat1500.115_00345	CDS	534				hypothetical protein
+metabat1500.115_00346	gene	1323	lpxC_1			
+metabat1500.115_00346	CDS	1323	lpxC_1	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+metabat1500.115_00347	gene	780	lpxA_1			
+metabat1500.115_00347	CDS	780	lpxA_1	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+metabat1500.115_00348	gene	378				
+metabat1500.115_00348	CDS	378				hypothetical protein
+metabat1500.115_00349	gene	366				
+metabat1500.115_00349	CDS	366				hypothetical protein
+metabat1500.115_00350	gene	807				
+metabat1500.115_00350	CDS	807				hypothetical protein
+metabat1500.115_00351	gene	1107				
+metabat1500.115_00351	CDS	1107				hypothetical protein
+metabat1500.115_00352	gene	2883	acn			
+metabat1500.115_00352	CDS	2883	acn	4.2.1.3	COG1048	Aconitate hydratase A
+metabat1500.115_00353	gene	495	ahpE			
+metabat1500.115_00353	CDS	495	ahpE	1.11.1.15	COG1225	Alkyl hydroperoxide reductase E
+metabat1500.115_00354	gene	489				
+metabat1500.115_00354	CDS	489				hypothetical protein
+metabat1500.115_00355	gene	399				
+metabat1500.115_00355	CDS	399				hypothetical protein
+metabat1500.115_00356	gene	1686	dxs			
+metabat1500.115_00356	CDS	1686	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+metabat1500.115_00357	gene	750	polX_1			
+metabat1500.115_00357	CDS	750	polX_1		COG1387	DNA polymerase/3'-5' exonuclease PolX
+metabat1500.115_00358	gene	807				
+metabat1500.115_00358	CDS	807		3.5.3.18	COG1834	N(G),N(G)-dimethylarginine dimethylaminohydrolase
+metabat1500.115_00359	gene	1215				
+metabat1500.115_00359	CDS	1215				hypothetical protein
+metabat1500.115_00360	gene	222				
+metabat1500.115_00360	CDS	222				hypothetical protein
+metabat1500.115_00361	gene	381				
+metabat1500.115_00361	CDS	381				hypothetical protein
+metabat1500.115_00362	gene	1413				
+metabat1500.115_00362	CDS	1413				hypothetical protein
+metabat1500.115_00363	gene	297				
+metabat1500.115_00363	CDS	297				hypothetical protein
+metabat1500.115_00364	gene	693				
+metabat1500.115_00364	CDS	693				hypothetical protein
+metabat1500.115_00365	gene	378				
+metabat1500.115_00365	CDS	378				hypothetical protein
+metabat1500.115_00366	gene	1791	pglK			
+metabat1500.115_00366	CDS	1791	pglK	7.5.2.5	COG1132	Protein glycosylation K
+metabat1500.115_00367	gene	126				
+metabat1500.115_00367	CDS	126				hypothetical protein
+metabat1500.115_00368	gene	855	atpA			
+metabat1500.115_00368	CDS	855	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+metabat1500.115_00369	gene	198	gdh_1			
+metabat1500.115_00369	CDS	198	gdh_1	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+metabat1500.115_00370	gene	309				
+metabat1500.115_00370	CDS	309				hypothetical protein
+metabat1500.115_00371	gene	738	ppm1			
+metabat1500.115_00371	CDS	738	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+metabat1500.115_00372	gene	201				
+metabat1500.115_00372	CDS	201				hypothetical protein
+metabat1500.115_00373	gene	576				
+metabat1500.115_00373	CDS	576				hypothetical protein
+metabat1500.115_00374	gene	168				
+metabat1500.115_00374	CDS	168				hypothetical protein
+metabat1500.115_00375	gene	225				
+metabat1500.115_00375	CDS	225				hypothetical protein
+metabat1500.115_00376	gene	810				
+metabat1500.115_00376	CDS	810				hypothetical protein
+metabat1500.115_00377	gene	168				
+metabat1500.115_00377	CDS	168				hypothetical protein
+metabat1500.115_00378	gene	537	nuoI			
+metabat1500.115_00378	CDS	537	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+metabat1500.115_00379	gene	429				
+metabat1500.115_00379	CDS	429				hypothetical protein
+metabat1500.115_00380	gene	561				
+metabat1500.115_00380	CDS	561				hypothetical protein
+metabat1500.115_00381	gene	1044				
+metabat1500.115_00381	CDS	1044				Ca(2+)/H(+) antiporter
+metabat1500.115_00382	gene	225				
+metabat1500.115_00382	CDS	225				hypothetical protein
+metabat1500.115_00383	gene	582				
+metabat1500.115_00383	CDS	582				hypothetical protein
+metabat1500.115_00384	gene	444				
+metabat1500.115_00384	CDS	444				hypothetical protein
+metabat1500.115_00385	gene	459				
+metabat1500.115_00385	CDS	459				hypothetical protein
+metabat1500.115_00386	gene	843				
+metabat1500.115_00386	CDS	843				hypothetical protein
+metabat1500.115_00387	gene	984	accA_1			
+metabat1500.115_00387	CDS	984	accA_1	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+metabat1500.115_00388	gene	804				
+metabat1500.115_00388	CDS	804				hypothetical protein
+metabat1500.115_00389	gene	804	ybbA			
+metabat1500.115_00389	CDS	804	ybbA		COG2819	putative protein YbbA
+metabat1500.115_00390	gene	714				
+metabat1500.115_00390	CDS	714				hypothetical protein
+metabat1500.115_00391	gene	2133	pnp			
+metabat1500.115_00391	CDS	2133	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+metabat1500.115_00392	gene	264	rpsO			
+metabat1500.115_00392	CDS	264	rpsO		COG0184	30S ribosomal protein S15
+metabat1500.115_00393	gene	870				
+metabat1500.115_00393	CDS	870				hypothetical protein
+metabat1500.115_00394	gene	411				
+metabat1500.115_00394	CDS	411				hypothetical protein
+metabat1500.115_00395	gene	177				
+metabat1500.115_00395	CDS	177				hypothetical protein
+metabat1500.115_00396	gene	1020	ddl			
+metabat1500.115_00396	CDS	1020	ddl	6.3.2.4		D-alanine--D-alanine ligase
+metabat1500.115_00397	gene	1017				
+metabat1500.115_00397	CDS	1017				hypothetical protein
+metabat1500.115_00398	gene	837				
+metabat1500.115_00398	CDS	837				hypothetical protein
+metabat1500.115_00399	gene	1755				
+metabat1500.115_00399	CDS	1755				hypothetical protein
+metabat1500.115_00400	gene	74				
+metabat1500.115_00400	tRNA	74				tRNA-Gln(ttg)
+metabat1500.115_00401	gene	2544				
+metabat1500.115_00401	CDS	2544				hypothetical protein
+metabat1500.115_00402	gene	132				
+metabat1500.115_00402	CDS	132				hypothetical protein
+metabat1500.115_00403	gene	984				
+metabat1500.115_00403	CDS	984				hypothetical protein
+metabat1500.115_00404	gene	1002				
+metabat1500.115_00404	CDS	1002				hypothetical protein
+metabat1500.115_00405	gene	1272				
+metabat1500.115_00405	CDS	1272				hypothetical protein
+metabat1500.115_00406	gene	336				
+metabat1500.115_00406	CDS	336				hypothetical protein
+metabat1500.115_00407	gene	861				
+metabat1500.115_00407	CDS	861				hypothetical protein
+metabat1500.115_00408	gene	903	entS			
+metabat1500.115_00408	CDS	903	entS			Enterobactin exporter EntS
+metabat1500.115_00409	gene	1884	ispG			
+metabat1500.115_00409	CDS	1884	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+metabat1500.115_00410	gene	1422	rseP_1			
+metabat1500.115_00410	CDS	1422	rseP_1	3.4.24.-	COG0750	Regulator of sigma-E protease RseP
+metabat1500.115_00411	gene	1197	dxr_1			
+metabat1500.115_00411	CDS	1197	dxr_1	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+metabat1500.115_00412	gene	915	cdsA			
+metabat1500.115_00412	CDS	915	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+metabat1500.115_00413	gene	381	gloA_1			
+metabat1500.115_00413	CDS	381	gloA_1	4.4.1.5	COG0346	Lactoylglutathione lyase
+metabat1500.115_00414	gene	270				
+metabat1500.115_00414	CDS	270				hypothetical protein
+metabat1500.115_00415	gene	1005	sppA_2			
+metabat1500.115_00415	CDS	1005	sppA_2	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+metabat1500.115_00416	gene	1482	dyp2			
+metabat1500.115_00416	CDS	1482	dyp2	1.11.1.16		Multifunctional dye peroxidase DyP2
+metabat1500.115_00417	gene	1302				
+metabat1500.115_00417	CDS	1302				hypothetical protein
+metabat1500.115_00418	gene	1149				
+metabat1500.115_00418	CDS	1149				hypothetical protein
+metabat1500.115_00419	gene	444				
+metabat1500.115_00419	CDS	444				hypothetical protein
+metabat1500.115_00420	gene	2100				
+metabat1500.115_00420	CDS	2100				hypothetical protein
+metabat1500.115_00421	gene	1680				
+metabat1500.115_00421	CDS	1680				hypothetical protein
+metabat1500.115_00422	gene	1500				
+metabat1500.115_00422	CDS	1500				hypothetical protein
+metabat1500.115_00423	gene	147				
+metabat1500.115_00423	CDS	147				hypothetical protein
+metabat1500.115_00424	gene	681				
+metabat1500.115_00424	CDS	681				hypothetical protein
+metabat1500.115_00425	gene	663	lolA			
+metabat1500.115_00425	CDS	663	lolA			Outer-membrane lipoprotein carrier protein
+metabat1500.115_00426	gene	951				
+metabat1500.115_00426	CDS	951				hypothetical protein
+metabat1500.115_00427	gene	306				
+metabat1500.115_00427	CDS	306				hypothetical protein
+metabat1500.115_00428	gene	1200				
+metabat1500.115_00428	CDS	1200				hypothetical protein
+metabat1500.115_00429	gene	783				
+metabat1500.115_00429	CDS	783				hypothetical protein
+metabat1500.115_00430	gene	558				
+metabat1500.115_00430	CDS	558				hypothetical protein
+metabat1500.115_00431	gene	1446				
+metabat1500.115_00431	CDS	1446				hypothetical protein
+metabat1500.115_00432	gene	3306				
+metabat1500.115_00432	CDS	3306				hypothetical protein
+metabat1500.115_00433	gene	726				
+metabat1500.115_00433	CDS	726				hypothetical protein
+metabat1500.115_00434	gene	915	gcvT			
+metabat1500.115_00434	CDS	915	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+metabat1500.115_00435	gene	1119	garR			
+metabat1500.115_00435	CDS	1119	garR	1.1.1.60		2-hydroxy-3-oxopropionate reductase
+metabat1500.115_00436	gene	930				
+metabat1500.115_00436	CDS	930				hypothetical protein
+metabat1500.115_00437	gene	915	spo0J			
+metabat1500.115_00437	CDS	915	spo0J		COG1475	Stage 0 sporulation protein J
+metabat1500.115_00438	gene	1206				
+metabat1500.115_00438	CDS	1206				hypothetical protein
+metabat1500.115_00439	gene	876	mqnD			
+metabat1500.115_00439	CDS	876	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+metabat1500.115_00440	gene	1521				
+metabat1500.115_00440	CDS	1521				hypothetical protein
+metabat1500.115_00441	gene	444				
+metabat1500.115_00441	CDS	444				hypothetical protein
+metabat1500.115_00442	gene	444				
+metabat1500.115_00442	CDS	444				hypothetical protein
+metabat1500.115_00443	gene	1578				
+metabat1500.115_00443	CDS	1578				hypothetical protein
+metabat1500.115_00444	gene	426				
+metabat1500.115_00444	CDS	426				hypothetical protein
+metabat1500.115_00445	gene	645				
+metabat1500.115_00445	CDS	645				hypothetical protein
+metabat1500.115_00446	gene	348				
+metabat1500.115_00446	CDS	348				hypothetical protein
+metabat1500.115_00447	gene	348				
+metabat1500.115_00447	CDS	348				hypothetical protein
+metabat1500.115_00448	gene	624	ndhK			
+metabat1500.115_00448	CDS	624	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+metabat1500.115_00449	gene	375	ndhC			
+metabat1500.115_00449	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+metabat1500.115_00450	gene	570				
+metabat1500.115_00450	CDS	570				hypothetical protein
+metabat1500.115_00451	gene	414	rpoA			
+metabat1500.115_00451	CDS	414	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+metabat1500.115_00452	gene	750				
+metabat1500.115_00452	CDS	750				hypothetical protein
+metabat1500.115_00453	gene	75				
+metabat1500.115_00453	tRNA	75				tRNA-Val(gac)
+metabat1500.115_00454	gene	1713				
+metabat1500.115_00454	CDS	1713				hypothetical protein
+metabat1500.115_00455	gene	1272				
+metabat1500.115_00455	CDS	1272				hypothetical protein
+metabat1500.115_00456	gene	684	gmhA			
+metabat1500.115_00456	CDS	684	gmhA	5.3.1.28		Phosphoheptose isomerase
+metabat1500.115_00457	gene	849				
+metabat1500.115_00457	CDS	849				hypothetical protein
+metabat1500.115_00458	gene	1806	pckG			
+metabat1500.115_00458	CDS	1806	pckG	4.1.1.32	COG1274	Phosphoenolpyruvate carboxykinase [GTP]
+metabat1500.115_00459	gene	5994	uvrA			
+metabat1500.115_00459	CDS	5994	uvrA			UvrABC system protein A
+metabat1500.115_00460	gene	942	lgt			
+metabat1500.115_00460	CDS	942	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+metabat1500.115_00461	gene	159				
+metabat1500.115_00461	CDS	159				hypothetical protein
+metabat1500.115_00462	gene	759	tolQ_2			
+metabat1500.115_00462	CDS	759	tolQ_2		COG0811	Tol-Pal system protein TolQ
+metabat1500.115_00463	gene	435	exbD_2			
+metabat1500.115_00463	CDS	435	exbD_2		COG0848	Biopolymer transport protein ExbD
+metabat1500.115_00464	gene	912				
+metabat1500.115_00464	CDS	912				hypothetical protein
+metabat1500.115_00465	gene	153				
+metabat1500.115_00465	CDS	153				hypothetical protein
+metabat1500.115_00466	gene	1413				
+metabat1500.115_00466	CDS	1413				hypothetical protein
+metabat1500.115_00467	gene	1512				
+metabat1500.115_00467	CDS	1512				hypothetical protein
+metabat1500.115_00468	gene	1314				
+metabat1500.115_00468	CDS	1314				hypothetical protein
+metabat1500.115_00469	gene	1410				
+metabat1500.115_00469	CDS	1410				hypothetical protein
+metabat1500.115_00470	gene	768	sufC			
+metabat1500.115_00470	CDS	768	sufC		COG0396	Vegetative protein 296
+metabat1500.115_00471	gene	951				
+metabat1500.115_00471	CDS	951				hypothetical protein
+metabat1500.115_00472	gene	765				
+metabat1500.115_00472	CDS	765				hypothetical protein
+metabat1500.115_00473	gene	450				
+metabat1500.115_00473	CDS	450				hypothetical protein
+metabat1500.115_00474	gene	927				
+metabat1500.115_00474	CDS	927				hypothetical protein
+metabat1500.115_00475	gene	333				
+metabat1500.115_00475	CDS	333				hypothetical protein
+metabat1500.115_00476	gene	321				
+metabat1500.115_00476	CDS	321				hypothetical protein
+metabat1500.115_00477	gene	648	ribE			
+metabat1500.115_00477	CDS	648	ribE	2.5.1.9	COG0307	Riboflavin synthase
+metabat1500.115_00478	gene	687	quiB			
+metabat1500.115_00478	CDS	687	quiB	4.2.1.10	COG0710	Catabolic 3-dehydroquinate dehydratase
+metabat1500.115_00479	gene	630	lon			
+metabat1500.115_00479	CDS	630	lon	3.4.21.53	COG0466	Lon protease
+metabat1500.115_00480	gene	1182				
+metabat1500.115_00480	CDS	1182				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+metabat1500.115_00481	gene	1026	aziB2			
+metabat1500.115_00481	CDS	1026	aziB2	2.1.1.302		3-hydroxy-5-methyl-1-naphthoate 3-O-methyltransferase
+metabat1500.115_00482	gene	486				
+metabat1500.115_00482	CDS	486				hypothetical protein
+metabat1500.115_00483	gene	1359	pdhC			
+metabat1500.115_00483	CDS	1359	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+metabat1500.115_00484	gene	984	bfmBAB			
+metabat1500.115_00484	CDS	984	bfmBAB	1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+metabat1500.115_00485	gene	978	acoA			
+metabat1500.115_00485	CDS	978	acoA	1.1.1.-	COG1071	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+metabat1500.115_00486	gene	588				
+metabat1500.115_00486	CDS	588				hypothetical protein
+metabat1500.115_00487	gene	249				
+metabat1500.115_00487	CDS	249				hypothetical protein
+metabat1500.115_00488	gene	960				
+metabat1500.115_00488	CDS	960				hypothetical protein
+metabat1500.115_00489	gene	1551				
+metabat1500.115_00489	CDS	1551				hypothetical protein
+metabat1500.115_00490	gene	2478	rcsC_2			
+metabat1500.115_00490	CDS	2478	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+metabat1500.115_00491	gene	354	ihfA			
+metabat1500.115_00491	CDS	354	ihfA			Integration host factor subunit alpha
+metabat1500.115_00492	gene	981	rnhC			
+metabat1500.115_00492	CDS	981	rnhC	3.1.26.4	COG1039	Ribonuclease HIII
+metabat1500.115_00493	gene	1062	nth_1			
+metabat1500.115_00493	CDS	1062	nth_1	4.2.99.18		Endonuclease III
+metabat1500.115_00494	gene	1242				
+metabat1500.115_00494	CDS	1242			COG1055	putative transporter
+metabat1500.115_00495	gene	867				
+metabat1500.115_00495	CDS	867				hypothetical protein
+metabat1500.115_00496	gene	612	gmk			
+metabat1500.115_00496	CDS	612	gmk	2.7.4.8	COG0194	Guanylate kinase
+metabat1500.115_00497	gene	630	coaBC			
+metabat1500.115_00497	CDS	630	coaBC	6.3.2.5		Coenzyme A biosynthesis bifunctional protein CoaBC
+metabat1500.115_00498	gene	405				
+metabat1500.115_00498	CDS	405				hypothetical protein
+metabat1500.115_00499	gene	231				
+metabat1500.115_00499	CDS	231				hypothetical protein
+metabat1500.115_00500	gene	219				
+metabat1500.115_00500	CDS	219				hypothetical protein
+metabat1500.115_00501	gene	132				
+metabat1500.115_00501	CDS	132				hypothetical protein
+metabat1500.115_00502	gene	234				
+metabat1500.115_00502	CDS	234				hypothetical protein
+metabat1500.115_00503	gene	447				
+metabat1500.115_00503	CDS	447				hypothetical protein
+metabat1500.115_00504	gene	1182				
+metabat1500.115_00504	CDS	1182		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+metabat1500.115_00505	gene	927	trxB			
+metabat1500.115_00505	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+metabat1500.115_00506	gene	603	msrP			
+metabat1500.115_00506	CDS	603	msrP	1.8.5.-		Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+metabat1500.115_00507	gene	693	pgl_2			
+metabat1500.115_00507	CDS	693	pgl_2	3.1.1.31		6-phosphogluconolactonase
+metabat1500.115_00508	gene	477	msrA_2			
+metabat1500.115_00508	CDS	477	msrA_2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+metabat1500.115_00509	gene	819				
+metabat1500.115_00509	CDS	819		1.1.1.325		Sepiapterin reductase
+metabat1500.115_00510	gene	849				
+metabat1500.115_00510	CDS	849				hypothetical protein
+metabat1500.115_00511	gene	285				
+metabat1500.115_00511	CDS	285				hypothetical protein
+metabat1500.115_00512	gene	867	nadK			
+metabat1500.115_00512	CDS	867	nadK	2.7.1.23	COG0061	NAD kinase
+metabat1500.115_00513	gene	741	tlyA			
+metabat1500.115_00513	CDS	741	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+metabat1500.115_00514	gene	1317	bioK			
+metabat1500.115_00514	CDS	1317	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+metabat1500.115_00515	gene	315				
+metabat1500.115_00515	CDS	315				hypothetical protein
+metabat1500.115_00516	gene	882				
+metabat1500.115_00516	CDS	882				hypothetical protein
+metabat1500.115_00517	gene	729	prs_1			
+metabat1500.115_00517	CDS	729	prs_1			Putative ribose-phosphate pyrophosphokinase
+metabat1500.115_00518	gene	846	accD			
+metabat1500.115_00518	CDS	846	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+metabat1500.115_00519	gene	1296	folC			
+metabat1500.115_00519	CDS	1296	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+metabat1500.115_00520	gene	828	metG			
+metabat1500.115_00520	CDS	828	metG	6.1.1.10		Methionine--tRNA ligase
+metabat1500.115_00521	gene	543				
+metabat1500.115_00521	CDS	543				hypothetical protein
+metabat1500.115_00522	gene	693				
+metabat1500.115_00522	CDS	693		1.1.1.325		Sepiapterin reductase
+metabat1500.115_00523	gene	1212				
+metabat1500.115_00523	CDS	1212				hypothetical protein
+metabat1500.115_00524	gene	630				
+metabat1500.115_00524	CDS	630				hypothetical protein
+metabat1500.115_00525	gene	432				
+metabat1500.115_00525	CDS	432				hypothetical protein
+metabat1500.115_00526	gene	639	folE			
+metabat1500.115_00526	CDS	639	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+metabat1500.115_00527	gene	1185	hmgA			
+metabat1500.115_00527	CDS	1185	hmgA	1.13.11.5		Homogentisate 1,2-dioxygenase
+metabat1500.115_00528	gene	1140	hpd			
+metabat1500.115_00528	CDS	1140	hpd	1.13.11.27	COG3185	4-hydroxyphenylpyruvate dioxygenase
+metabat1500.115_00529	gene	789	mutM			
+metabat1500.115_00529	CDS	789	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+metabat1500.115_00530	gene	288				
+metabat1500.115_00530	CDS	288				hypothetical protein
+metabat1500.115_00531	gene	183				
+metabat1500.115_00531	CDS	183				hypothetical protein
+metabat1500.115_00532	gene	1215	mqnC_2			
+metabat1500.115_00532	CDS	1215	mqnC_2	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+metabat1500.115_00533	gene	957	aao_1			
+metabat1500.115_00533	CDS	957	aao_1	1.4.3.3	COG0665	putative D-amino-acid oxidase
+metabat1500.115_00534	gene	183				
+metabat1500.115_00534	CDS	183				hypothetical protein
+metabat1500.115_00535	gene	399				
+metabat1500.115_00535	CDS	399				hypothetical protein
+metabat1500.115_00536	gene	552				
+metabat1500.115_00536	CDS	552				hypothetical protein
+metabat1500.115_00537	gene	234				
+metabat1500.115_00537	CDS	234				hypothetical protein
+metabat1500.115_00538	gene	111				
+metabat1500.115_00538	CDS	111				hypothetical protein
+metabat1500.115_00539	gene	1155	acdA			
+metabat1500.115_00539	CDS	1155	acdA	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+metabat1500.115_00540	gene	141				
+metabat1500.115_00540	CDS	141				hypothetical protein
+metabat1500.115_00541	gene	267				
+metabat1500.115_00541	CDS	267				hypothetical protein
+metabat1500.115_00542	gene	1206	czcB			
+metabat1500.115_00542	CDS	1206	czcB			Cobalt-zinc-cadmium resistance protein CzcB
+metabat1500.115_00543	gene	465	btuD_1			
+metabat1500.115_00543	CDS	465	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+metabat1500.115_00544	gene	144				
+metabat1500.115_00544	CDS	144				hypothetical protein
+metabat1500.115_00545	gene	882				
+metabat1500.115_00545	CDS	882				hypothetical protein
+metabat1500.115_00546	gene	435				
+metabat1500.115_00546	CDS	435				hypothetical protein
+metabat1500.115_00547	gene	1542				
+metabat1500.115_00547	CDS	1542		4.1.1.105	COG0076	Tryptophan decarboxylase
+metabat1500.115_00548	gene	321	bamA_2			
+metabat1500.115_00548	CDS	321	bamA_2			Outer membrane protein assembly factor BamA
+metabat1500.115_00549	gene	99				
+metabat1500.115_00549	CDS	99				hypothetical protein
+metabat1500.115_00550	gene	1428	ndhB_1			
+metabat1500.115_00550	CDS	1428	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+metabat1500.115_00551	gene	1083	rip3			
+metabat1500.115_00551	CDS	1083	rip3		COG0517	Putative zinc metalloprotease Rip3
+metabat1500.115_00552	gene	1098	dnaN			
+metabat1500.115_00552	CDS	1098	dnaN		COG0592	Beta sliding clamp
+metabat1500.115_00553	gene	1362	dnaA			
+metabat1500.115_00553	CDS	1362	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+metabat1500.115_00554	gene	594				
+metabat1500.115_00554	CDS	594				hypothetical protein
+metabat1500.115_00555	gene	1131				
+metabat1500.115_00555	CDS	1131		6.3.2.2	COG2170	Putative glutamate--cysteine ligase 2
+metabat1500.115_00556	gene	966				
+metabat1500.115_00556	CDS	966				hypothetical protein
+metabat1500.115_00557	gene	144				
+metabat1500.115_00557	CDS	144				hypothetical protein
+metabat1500.115_00558	gene	384	gloA_2			
+metabat1500.115_00558	CDS	384	gloA_2	4.4.1.5	COG0346	Lactoylglutathione lyase
+metabat1500.115_00559	gene	1101				
+metabat1500.115_00559	CDS	1101				hypothetical protein
+metabat1500.115_00560	gene	786	arnC_1			
+metabat1500.115_00560	CDS	786	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+metabat1500.115_00561	gene	74				
+metabat1500.115_00561	tRNA	74				tRNA-Thr(cgt)
+metabat1500.115_00562	gene	450	ykuD			
+metabat1500.115_00562	CDS	450	ykuD	2.-.-.-	COG1376	Putative L,D-transpeptidase YkuD
+metabat1500.115_00563	gene	102				
+metabat1500.115_00563	CDS	102				hypothetical protein
+metabat1500.115_00564	gene	480				
+metabat1500.115_00564	CDS	480				hypothetical protein
+metabat1500.115_00565	gene	279				
+metabat1500.115_00565	CDS	279				hypothetical protein
+metabat1500.115_00566	gene	186				
+metabat1500.115_00566	CDS	186				hypothetical protein
+metabat1500.115_00567	gene	762				
+metabat1500.115_00567	CDS	762				hypothetical protein
+metabat1500.115_00568	gene	603				
+metabat1500.115_00568	CDS	603		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+metabat1500.115_00569	gene	1224	mnmA			
+metabat1500.115_00569	CDS	1224	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+metabat1500.115_00570	gene	309	cutA			
+metabat1500.115_00570	CDS	309	cutA		COG1324	Divalent-cation tolerance protein CutA
+metabat1500.115_00571	gene	1419				
+metabat1500.115_00571	CDS	1419				hypothetical protein
+metabat1500.115_00572	gene	507				
+metabat1500.115_00572	CDS	507				hypothetical protein
+metabat1500.115_00573	gene	660	ddpX			
+metabat1500.115_00573	CDS	660	ddpX	3.4.13.22		D-alanyl-D-alanine dipeptidase
+metabat1500.115_00574	gene	1866				
+metabat1500.115_00574	CDS	1866				hypothetical protein
+metabat1500.115_00575	gene	1950	acsA			
+metabat1500.115_00575	CDS	1950	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+metabat1500.115_00576	gene	459	tadA			
+metabat1500.115_00576	CDS	459	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+metabat1500.115_00577	gene	834				
+metabat1500.115_00577	CDS	834				hypothetical protein
+metabat1500.115_00578	gene	72				
+metabat1500.115_00578	tRNA	72				tRNA-Gln(ctg)
+metabat1500.115_00579	gene	936	rbn			
+metabat1500.115_00579	CDS	936	rbn	3.1.26.11		Ribonuclease BN
+metabat1500.115_00580	gene	2079	hppA			
+metabat1500.115_00580	CDS	2079	hppA	7.1.3.1	COG3808	K(+)-insensitive pyrophosphate-energized proton pump
+metabat1500.115_00581	gene	969	yqjG			
+metabat1500.115_00581	CDS	969	yqjG	1.8.5.7	COG0435	Glutathionyl-hydroquinone reductase YqjG
+metabat1500.115_00582	gene	681				
+metabat1500.115_00582	CDS	681				hypothetical protein
+metabat1500.115_00583	gene	585	nuoN			
+metabat1500.115_00583	CDS	585	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+metabat1500.115_00584	gene	1107	Vejaci			
+metabat1500.115_00584	CDS	1107	Vejaci	5.5.1.25	COG4948	3,6-anhydro-alpha-L-galactonate cycloisomerase
+metabat1500.115_00585	gene	903	aspS			
+metabat1500.115_00585	CDS	903	aspS	6.1.1.12		Aspartate--tRNA ligase
+metabat1500.115_00586	gene	321	fdxA			
+metabat1500.115_00586	CDS	321	fdxA		COG1146	Ferredoxin 1
+metabat1500.115_00587	gene	1608	sglT			
+metabat1500.115_00587	CDS	1608	sglT			Sodium/glucose cotransporter
+metabat1500.115_00588	gene	312				
+metabat1500.115_00588	CDS	312				hypothetical protein
+metabat1500.115_00589	gene	1122	degQ_1			
+metabat1500.115_00589	CDS	1122	degQ_1	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+metabat1500.115_00590	gene	1305	purD			
+metabat1500.115_00590	CDS	1305	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+metabat1500.115_00591	gene	1137				
+metabat1500.115_00591	CDS	1137				hypothetical protein
+metabat1500.115_00592	gene	690	rnc			
+metabat1500.115_00592	CDS	690	rnc	3.1.26.3		Ribonuclease 3
+metabat1500.115_00593	gene	858	thiD			
+metabat1500.115_00593	CDS	858	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+metabat1500.115_00594	gene	240				
+metabat1500.115_00594	CDS	240				hypothetical protein
+metabat1500.115_00595	gene	243				
+metabat1500.115_00595	CDS	243				hypothetical protein
+metabat1500.115_00596	gene	930				
+metabat1500.115_00596	CDS	930				hypothetical protein
+metabat1500.115_00597	gene	876				
+metabat1500.115_00597	CDS	876				hypothetical protein
+metabat1500.115_00598	gene	909				
+metabat1500.115_00598	CDS	909			COG2220	putative protein
+metabat1500.115_00599	gene	1425				
+metabat1500.115_00599	CDS	1425				hypothetical protein
+metabat1500.115_00600	gene	318				
+metabat1500.115_00600	CDS	318				hypothetical protein
+metabat1500.115_00601	gene	1218				
+metabat1500.115_00601	CDS	1218				hypothetical protein
+metabat1500.115_00602	gene	810				
+metabat1500.115_00602	CDS	810		3.5.3.18	COG1834	N(G),N(G)-dimethylarginine dimethylaminohydrolase
+metabat1500.115_00603	gene	1758	polX_2			
+metabat1500.115_00603	CDS	1758	polX_2		COG1387	DNA polymerase/3'-5' exonuclease PolX
+metabat1500.115_00604	gene	1746				
+metabat1500.115_00604	CDS	1746		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+metabat1500.115_00605	gene	681	dapH_1			
+metabat1500.115_00605	CDS	681	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+metabat1500.115_00606	gene	1173				
+metabat1500.115_00606	CDS	1173				hypothetical protein
+metabat1500.115_00607	gene	375				
+metabat1500.115_00607	CDS	375				hypothetical protein
+metabat1500.115_00608	gene	459				
+metabat1500.115_00608	CDS	459				hypothetical protein
+metabat1500.115_00609	gene	438				
+metabat1500.115_00609	CDS	438				hypothetical protein
+metabat1500.115_00610	gene	336				
+metabat1500.115_00610	CDS	336				hypothetical protein
+metabat1500.115_00611	gene	675				
+metabat1500.115_00611	CDS	675				hypothetical protein
+metabat1500.115_00612	gene	1359	mtoX			
+metabat1500.115_00612	CDS	1359	mtoX	1.8.3.4		Methanethiol oxidase
+metabat1500.115_00613	gene	858				
+metabat1500.115_00613	CDS	858				hypothetical protein
+metabat1500.115_00614	gene	276				
+metabat1500.115_00614	CDS	276				hypothetical protein
+metabat1500.115_00615	gene	375				
+metabat1500.115_00615	CDS	375				hypothetical protein
+metabat1500.115_00616	gene	714	arnC_2			
+metabat1500.115_00616	CDS	714	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+metabat1500.115_00617	gene	399	iaaA			
+metabat1500.115_00617	CDS	399	iaaA	3.4.19.5	COG1446	Isoaspartyl peptidase
+metabat1500.115_00618	gene	1119				
+metabat1500.115_00618	CDS	1119				hypothetical protein
+metabat1500.115_00619	gene	279				
+metabat1500.115_00619	CDS	279				hypothetical protein
+metabat1500.115_00620	gene	186				
+metabat1500.115_00620	CDS	186				hypothetical protein
+metabat1500.115_00621	gene	231				
+metabat1500.115_00621	CDS	231				hypothetical protein
+metabat1500.115_00622	gene	73				
+metabat1500.115_00622	tRNA	73				tRNA-Gly(gcc)
+metabat1500.115_00623	gene	582				
+metabat1500.115_00623	CDS	582				hypothetical protein
+metabat1500.115_00624	gene	1077	ndk_2			
+metabat1500.115_00624	CDS	1077	ndk_2	2.7.4.6		Nucleoside diphosphate kinase
+metabat1500.115_00625	gene	1164	aspC_2			
+metabat1500.115_00625	CDS	1164	aspC_2	2.6.1.1		Aspartate aminotransferase
+metabat1500.115_00626	gene	1620				
+metabat1500.115_00626	CDS	1620		2.4.1.18	COG1543	1,4-alpha-glucan branching enzyme
+metabat1500.115_00627	gene	228				
+metabat1500.115_00627	CDS	228				hypothetical protein
+metabat1500.115_00628	gene	747				
+metabat1500.115_00628	CDS	747				hypothetical protein
+metabat1500.115_00629	gene	669				
+metabat1500.115_00629	CDS	669				hypothetical protein
+metabat1500.115_00630	gene	660				
+metabat1500.115_00630	CDS	660				hypothetical protein
+metabat1500.115_00631	gene	492				
+metabat1500.115_00631	CDS	492				hypothetical protein
+metabat1500.115_00632	gene	513	ymdB_2			
+metabat1500.115_00632	CDS	513	ymdB_2	3.1.1.106	COG2110	O-acetyl-ADP-ribose deacetylase
+metabat1500.115_00633	gene	216	pdxH_2			
+metabat1500.115_00633	CDS	216	pdxH_2	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+metabat1500.115_00634	gene	780				
+metabat1500.115_00634	CDS	780				hypothetical protein
+metabat1500.115_00635	gene	756				
+metabat1500.115_00635	CDS	756				hypothetical protein
+metabat1500.115_00636	gene	1200				
+metabat1500.115_00636	CDS	1200				hypothetical protein
+metabat1500.115_00637	gene	846	proC			
+metabat1500.115_00637	CDS	846	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+metabat1500.115_00638	gene	2022	btuB			
+metabat1500.115_00638	CDS	2022	btuB		COG4206	Vitamin B12 transporter BtuB
+metabat1500.115_00639	gene	948	hldD_2			
+metabat1500.115_00639	CDS	948	hldD_2	5.1.3.20	COG0451	ADP-L-glycero-D-manno-heptose-6-epimerase
+metabat1500.115_00640	gene	411				
+metabat1500.115_00640	CDS	411				hypothetical protein
+metabat1500.115_00641	gene	945				
+metabat1500.115_00641	CDS	945				hypothetical protein
+metabat1500.115_00642	gene	1623	yhdG_1			
+metabat1500.115_00642	CDS	1623	yhdG_1		COG0531	putative amino acid permease YhdG
+metabat1500.115_00643	gene	471				
+metabat1500.115_00643	CDS	471				hypothetical protein
+metabat1500.115_00644	gene	1347				
+metabat1500.115_00644	CDS	1347				hypothetical protein
+metabat1500.115_00645	gene	426	osmC			
+metabat1500.115_00645	CDS	426	osmC	1.11.1.15	COG1764	Peroxiredoxin OsmC
+metabat1500.115_00646	gene	537				
+metabat1500.115_00646	CDS	537				hypothetical protein
+metabat1500.115_00647	gene	456				
+metabat1500.115_00647	CDS	456				hypothetical protein
+metabat1500.115_00648	gene	1500				
+metabat1500.115_00648	CDS	1500				hypothetical protein
+metabat1500.115_00649	gene	507				
+metabat1500.115_00649	CDS	507				hypothetical protein
+metabat1500.115_00650	gene	1350	sasA_2			
+metabat1500.115_00650	CDS	1350	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+metabat1500.115_00651	gene	666	tcrA			
+metabat1500.115_00651	CDS	666	tcrA		COG0745	Transcriptional regulatory protein TcrA
+metabat1500.115_00652	gene	1422	patA_1			
+metabat1500.115_00652	CDS	1422	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+metabat1500.115_00653	gene	1149				
+metabat1500.115_00653	CDS	1149				hypothetical protein
+metabat1500.115_00654	gene	678				
+metabat1500.115_00654	CDS	678				hypothetical protein
+metabat1500.115_00655	gene	1623				
+metabat1500.115_00655	CDS	1623			COG2239	Magnesium transporter MgtE
+metabat1500.115_00656	gene	342	cckA			
+metabat1500.115_00656	CDS	342	cckA			Sensor kinase CckA
+metabat1500.115_00657	gene	480				
+metabat1500.115_00657	CDS	480				hypothetical protein
+metabat1500.115_00658	gene	1359				
+metabat1500.115_00658	CDS	1359				hypothetical protein
+metabat1500.115_00659	gene	786	nth_2			
+metabat1500.115_00659	CDS	786	nth_2	4.2.99.18		Endonuclease III
+metabat1500.115_00660	gene	762				
+metabat1500.115_00660	CDS	762				hypothetical protein
+metabat1500.115_00661	gene	186				
+metabat1500.115_00661	CDS	186				hypothetical protein
+metabat1500.115_00662	gene	990	rffG			
+metabat1500.115_00662	CDS	990	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+metabat1500.115_00663	gene	876	sucD			
+metabat1500.115_00663	CDS	876	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+metabat1500.115_00664	gene	363				
+metabat1500.115_00664	CDS	363				hypothetical protein
+metabat1500.115_00665	gene	384				
+metabat1500.115_00665	CDS	384				hypothetical protein
+metabat1500.115_00666	gene	333				
+metabat1500.115_00666	CDS	333				hypothetical protein
+metabat1500.115_00667	gene	744	recG_1			
+metabat1500.115_00667	CDS	744	recG_1	3.6.4.12		ATP-dependent DNA helicase RecG
+metabat1500.115_00668	gene	1524	degQ_2			
+metabat1500.115_00668	CDS	1524	degQ_2	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+metabat1500.115_00669	gene	672				
+metabat1500.115_00669	CDS	672		1.-.-.-	COG5424	putative oxidoreductase CT_610
+metabat1500.115_00670	gene	3378				
+metabat1500.115_00670	CDS	3378		2.7.1.8		Glucosamine kinase
+metabat1500.115_00671	gene	672				
+metabat1500.115_00671	CDS	672				hypothetical protein
+metabat1500.115_00672	gene	237				
+metabat1500.115_00672	CDS	237				hypothetical protein
+metabat1500.115_00673	gene	333				
+metabat1500.115_00673	CDS	333				hypothetical protein
+metabat1500.115_00674	gene	762				
+metabat1500.115_00674	CDS	762				hypothetical protein
+metabat1500.115_00675	gene	138				
+metabat1500.115_00675	CDS	138				hypothetical protein
+metabat1500.115_00676	gene	252	dltC			
+metabat1500.115_00676	CDS	252	dltC		COG0236	D-alanyl carrier protein
+metabat1500.115_00677	gene	1200	dltD			
+metabat1500.115_00677	CDS	1200	dltD		COG3966	Protein DltD
+metabat1500.115_00678	gene	1584	pgi			
+metabat1500.115_00678	CDS	1584	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+metabat1500.115_00679	gene	717				
+metabat1500.115_00679	CDS	717				hypothetical protein
+metabat1500.115_00680	gene	1395	zraR_2			
+metabat1500.115_00680	CDS	1395	zraR_2		COG2204	Transcriptional regulatory protein ZraR
+metabat1500.115_00681	gene	363	queD			
+metabat1500.115_00681	CDS	363	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+metabat1500.115_00682	gene	660	queE			
+metabat1500.115_00682	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+metabat1500.115_00683	gene	1656				
+metabat1500.115_00683	CDS	1656				hypothetical protein
+metabat1500.115_00684	gene	744				
+metabat1500.115_00684	CDS	744				hypothetical protein
+metabat1500.115_00685	gene	2514				
+metabat1500.115_00685	CDS	2514				hypothetical protein
+metabat1500.115_00686	gene	1428				
+metabat1500.115_00686	CDS	1428				hypothetical protein
+metabat1500.115_00687	gene	1515				
+metabat1500.115_00687	CDS	1515				hypothetical protein
+metabat1500.115_00688	gene	651				
+metabat1500.115_00688	CDS	651				hypothetical protein
+metabat1500.115_00689	gene	270				
+metabat1500.115_00689	CDS	270				hypothetical protein
+metabat1500.115_00690	gene	540				
+metabat1500.115_00690	CDS	540				hypothetical protein
+metabat1500.115_00691	gene	213				
+metabat1500.115_00691	CDS	213				hypothetical protein
+metabat1500.115_00692	gene	552				
+metabat1500.115_00692	CDS	552				hypothetical protein
+metabat1500.115_00693	gene	147				
+metabat1500.115_00693	CDS	147				hypothetical protein
+metabat1500.115_00694	gene	399				
+metabat1500.115_00694	CDS	399				hypothetical protein
+metabat1500.115_00695	gene	942	aao_2			
+metabat1500.115_00695	CDS	942	aao_2	1.4.3.3	COG0665	putative D-amino-acid oxidase
+metabat1500.115_00696	gene	423	divK			
+metabat1500.115_00696	CDS	423	divK			Polar-differentiation response regulator DivK
+metabat1500.115_00697	gene	396				
+metabat1500.115_00697	CDS	396				hypothetical protein
+metabat1500.115_00698	gene	390				
+metabat1500.115_00698	CDS	390				hypothetical protein
+metabat1500.115_00699	gene	516				
+metabat1500.115_00699	CDS	516				hypothetical protein
+metabat1500.115_00700	gene	408				
+metabat1500.115_00700	CDS	408				hypothetical protein
+metabat1500.115_00701	gene	861	uppP			
+metabat1500.115_00701	CDS	861	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+metabat1500.115_00702	gene	339	glnB			
+metabat1500.115_00702	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+metabat1500.115_00703	gene	117				
+metabat1500.115_00703	CDS	117				hypothetical protein
+metabat1500.115_00704	gene	879				
+metabat1500.115_00704	CDS	879				hypothetical protein
+metabat1500.115_00705	gene	702				
+metabat1500.115_00705	CDS	702				hypothetical protein
+metabat1500.115_00706	gene	822				
+metabat1500.115_00706	CDS	822				hypothetical protein
+metabat1500.115_00707	gene	372				
+metabat1500.115_00707	CDS	372				hypothetical protein
+metabat1500.115_00708	gene	903				
+metabat1500.115_00708	CDS	903		2.7.4.1	COG2326	Polyphosphate:ADP phosphotransferase
+metabat1500.115_00709	gene	189				
+metabat1500.115_00709	CDS	189				hypothetical protein
+metabat1500.115_00710	gene	150				
+metabat1500.115_00710	CDS	150				hypothetical protein
+metabat1500.115_00711	gene	1413	typA			
+metabat1500.115_00711	CDS	1413	typA		COG1217	GTP-binding protein TypA/BipA
+metabat1500.115_00712	gene	657				
+metabat1500.115_00712	CDS	657				hypothetical protein
+metabat1500.115_00713	gene	1410	argS_1			
+metabat1500.115_00713	CDS	1410	argS_1	6.1.1.19		Arginine--tRNA ligase
+metabat1500.115_00714	gene	1206	kamA			
+metabat1500.115_00714	CDS	1206	kamA	5.4.3.2	COG1509	L-lysine 2,3-aminomutase
+metabat1500.115_00715	gene	1194				
+metabat1500.115_00715	CDS	1194				hypothetical protein
+metabat1500.115_00716	gene	180				
+metabat1500.115_00716	CDS	180				hypothetical protein
+metabat1500.115_00717	gene	153				
+metabat1500.115_00717	CDS	153				hypothetical protein
+metabat1500.115_00718	gene	594				
+metabat1500.115_00718	CDS	594				hypothetical protein
+metabat1500.115_00719	gene	705				
+metabat1500.115_00719	CDS	705				hypothetical protein
+metabat1500.115_00720	gene	1311	lysA			
+metabat1500.115_00720	CDS	1311	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+metabat1500.115_00721	gene	912	czcD			
+metabat1500.115_00721	CDS	912	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+metabat1500.115_00722	gene	738				
+metabat1500.115_00722	CDS	738				hypothetical protein
+metabat1500.115_00723	gene	963				
+metabat1500.115_00723	CDS	963				hypothetical protein
+metabat1500.115_00724	gene	324				
+metabat1500.115_00724	CDS	324				hypothetical protein
+metabat1500.115_00725	gene	327				
+metabat1500.115_00725	CDS	327				hypothetical protein
+metabat1500.115_00726	gene	723				
+metabat1500.115_00726	CDS	723				hypothetical protein
+metabat1500.115_00727	gene	1410				
+metabat1500.115_00727	CDS	1410				hypothetical protein
+metabat1500.115_00728	gene	1281				
+metabat1500.115_00728	CDS	1281				hypothetical protein
+metabat1500.115_00729	gene	762				
+metabat1500.115_00729	CDS	762				hypothetical protein
+metabat1500.115_00730	gene	618				
+metabat1500.115_00730	CDS	618				hypothetical protein
+metabat1500.115_00731	gene	222				
+metabat1500.115_00731	CDS	222				hypothetical protein
+metabat1500.115_00732	gene	717	mtnN			
+metabat1500.115_00732	CDS	717	mtnN	3.2.2.9		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+metabat1500.115_00733	gene	117				
+metabat1500.115_00733	CDS	117				hypothetical protein
+metabat1500.115_00734	gene	894	mneP			
+metabat1500.115_00734	CDS	894	mneP		COG0053	Manganese efflux system protein MneP
+metabat1500.115_00735	gene	1005				
+metabat1500.115_00735	CDS	1005		1.3.1.103		2-haloacrylate reductase
+metabat1500.115_00736	gene	492				
+metabat1500.115_00736	CDS	492				hypothetical protein
+metabat1500.115_00737	gene	360				
+metabat1500.115_00737	CDS	360				hypothetical protein
+metabat1500.115_00738	gene	1116				
+metabat1500.115_00738	CDS	1116				hypothetical protein
+metabat1500.115_00739	gene	450	dtd			
+metabat1500.115_00739	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+metabat1500.115_00740	gene	1050	tdcB			
+metabat1500.115_00740	CDS	1050	tdcB	4.3.1.19		L-threonine dehydratase catabolic TdcB
+metabat1500.115_00741	gene	441				
+metabat1500.115_00741	CDS	441				hypothetical protein
+metabat1500.115_00742	gene	885	yihU			
+metabat1500.115_00742	CDS	885	yihU	1.1.1.373	COG2084	3-sulfolactaldehyde reductase
+metabat1500.115_00743	gene	1752	xynB			
+metabat1500.115_00743	CDS	1752	xynB	3.2.1.37		Beta-xylosidase
+metabat1500.115_00744	gene	225				
+metabat1500.115_00744	CDS	225				hypothetical protein
+metabat1500.115_00745	gene	204				
+metabat1500.115_00745	CDS	204				hypothetical protein
+metabat1500.115_00746	gene	1572				
+metabat1500.115_00746	CDS	1572				hypothetical protein
+metabat1500.115_00747	gene	744	opuCA			
+metabat1500.115_00747	CDS	744	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+metabat1500.115_00748	gene	975	egtD			
+metabat1500.115_00748	CDS	975	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+metabat1500.115_00749	gene	1173	egtB			
+metabat1500.115_00749	CDS	1173	egtB	1.14.99.50		Hercynine oxygenase
+metabat1500.115_00750	gene	402				
+metabat1500.115_00750	CDS	402				hypothetical protein
+metabat1500.115_00751	gene	204				
+metabat1500.115_00751	CDS	204				hypothetical protein
+metabat1500.115_00752	gene	762				
+metabat1500.115_00752	CDS	762				hypothetical protein
+metabat1500.115_00753	gene	1182	mshA_4			
+metabat1500.115_00753	CDS	1182	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+metabat1500.115_00754	gene	270	acpP_1			
+metabat1500.115_00754	CDS	270	acpP_1			Acyl carrier protein
+metabat1500.115_00755	gene	324	tatA			
+metabat1500.115_00755	CDS	324	tatA			Sec-independent protein translocase protein TatA
+metabat1500.115_00756	gene	318				
+metabat1500.115_00756	CDS	318				hypothetical protein
+metabat1500.115_00757	gene	228				
+metabat1500.115_00757	CDS	228				hypothetical protein
+metabat1500.115_00758	gene	1152	yhaM			
+metabat1500.115_00758	CDS	1152	yhaM	3.1.-.-		3'-5' exoribonuclease YhaM
+metabat1500.115_00759	gene	1164	thrC			
+metabat1500.115_00759	CDS	1164	thrC	4.2.3.1	COG0498	Threonine synthase
+metabat1500.115_00760	gene	1572				
+metabat1500.115_00760	CDS	1572				hypothetical protein
+metabat1500.115_00761	gene	480				
+metabat1500.115_00761	CDS	480		3.6.1.25	COG2954	Inorganic triphosphatase
+metabat1500.115_00762	gene	975	cuyA			
+metabat1500.115_00762	CDS	975	cuyA	4.4.1.25	COG2515	L-cysteate sulfo-lyase
+metabat1500.115_00763	gene	615				
+metabat1500.115_00763	CDS	615				hypothetical protein
+metabat1500.115_00764	gene	333				
+metabat1500.115_00764	CDS	333				hypothetical protein
+metabat1500.115_00765	gene	756	gdh_2			
+metabat1500.115_00765	CDS	756	gdh_2	1.1.1.47	COG1028	Glucose 1-dehydrogenase
+metabat1500.115_00766	gene	1116				
+metabat1500.115_00766	CDS	1116				hypothetical protein
+metabat1500.115_00767	gene	1167	acrE			
+metabat1500.115_00767	CDS	1167	acrE			Multidrug export protein AcrE
+metabat1500.115_00768	gene	3168	bepG			
+metabat1500.115_00768	CDS	3168	bepG			Efflux pump membrane transporter BepG
+metabat1500.115_00769	gene	957	mhqO			
+metabat1500.115_00769	CDS	957	mhqO	1.13.11.-	COG0346	Putative ring-cleaving dioxygenase MhqO
+metabat1500.115_00770	gene	618	mhqD			
+metabat1500.115_00770	CDS	618	mhqD	3.1.-.-	COG0400	Putative hydrolase MhqD
+metabat1500.115_00771	gene	591				
+metabat1500.115_00771	CDS	591				hypothetical protein
+metabat1500.115_00772	gene	900	phzF			
+metabat1500.115_00772	CDS	900	phzF	5.3.3.17		Trans-2,3-dihydro-3-hydroxyanthranilate isomerase
+metabat1500.115_00773	gene	744				
+metabat1500.115_00773	CDS	744				hypothetical protein
+metabat1500.115_00774	gene	690				
+metabat1500.115_00774	CDS	690				hypothetical protein
+metabat1500.115_00775	gene	138				
+metabat1500.115_00775	CDS	138				hypothetical protein
+metabat1500.115_00776	gene	249				
+metabat1500.115_00776	CDS	249				hypothetical protein
+metabat1500.115_00777	gene	186				
+metabat1500.115_00777	CDS	186				hypothetical protein
+metabat1500.115_00778	gene	111				
+metabat1500.115_00778	CDS	111				hypothetical protein
+metabat1500.115_00779	gene	1809	napA_1			
+metabat1500.115_00779	CDS	1809	napA_1	1.9.6.1		Periplasmic nitrate reductase
+metabat1500.115_00780	gene	429				
+metabat1500.115_00780	CDS	429				hypothetical protein
+metabat1500.115_00781	gene	1236				
+metabat1500.115_00781	CDS	1236				hypothetical protein
+metabat1500.115_00782	gene	849	crtB_1			
+metabat1500.115_00782	CDS	849	crtB_1	2.5.1.32		15-cis-phytoene synthase
+metabat1500.115_00783	gene	342				
+metabat1500.115_00783	CDS	342				hypothetical protein
+metabat1500.115_00784	gene	660				
+metabat1500.115_00784	CDS	660				hypothetical protein
+metabat1500.115_00785	gene	528	infC			
+metabat1500.115_00785	CDS	528	infC		COG0290	Translation initiation factor IF-3
+metabat1500.115_00786	gene	165				
+metabat1500.115_00786	CDS	165				hypothetical protein
+metabat1500.115_00787	gene	330	moeZ			
+metabat1500.115_00787	CDS	330	moeZ		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+metabat1500.115_00788	gene	552				
+metabat1500.115_00788	CDS	552				hypothetical protein
+metabat1500.115_00789	gene	726				
+metabat1500.115_00789	CDS	726				hypothetical protein
+metabat1500.115_00790	gene	609	rnd			
+metabat1500.115_00790	CDS	609	rnd	3.1.13.5		Ribonuclease D
+metabat1500.115_00791	gene	330				
+metabat1500.115_00791	CDS	330				hypothetical protein
+metabat1500.115_00792	gene	720				
+metabat1500.115_00792	CDS	720				hypothetical protein
+metabat1500.115_00793	gene	144				
+metabat1500.115_00793	CDS	144				hypothetical protein
+metabat1500.115_00794	gene	465				
+metabat1500.115_00794	CDS	465				hypothetical protein
+metabat1500.115_00795	gene	264				
+metabat1500.115_00795	CDS	264				hypothetical protein
+metabat1500.115_00796	gene	1047	ycjG			
+metabat1500.115_00796	CDS	1047	ycjG	5.1.1.20	COG4948	L-Ala-D/L-Glu epimerase
+metabat1500.115_00797	gene	435				
+metabat1500.115_00797	CDS	435				hypothetical protein
+metabat1500.115_00798	gene	405	dpp5_1			
+metabat1500.115_00798	CDS	405	dpp5_1	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+metabat1500.115_00799	gene	726				
+metabat1500.115_00799	CDS	726				hypothetical protein
+metabat1500.115_00800	gene	1530				
+metabat1500.115_00800	CDS	1530				hypothetical protein
+metabat1500.115_00801	gene	1107				
+metabat1500.115_00801	CDS	1107				hypothetical protein
+metabat1500.115_00802	gene	1308	kmo			
+metabat1500.115_00802	CDS	1308	kmo	1.14.13.9		Kynurenine 3-monooxygenase
+metabat1500.115_00803	gene	168				
+metabat1500.115_00803	CDS	168				hypothetical protein
+metabat1500.115_00804	gene	249				
+metabat1500.115_00804	CDS	249				hypothetical protein
+metabat1500.115_00805	gene	267				
+metabat1500.115_00805	CDS	267				hypothetical protein
+metabat1500.115_00806	gene	141				
+metabat1500.115_00806	CDS	141				hypothetical protein
+metabat1500.115_00807	gene	144				
+metabat1500.115_00807	CDS	144				hypothetical protein
+metabat1500.115_00808	gene	672				
+metabat1500.115_00808	CDS	672				hypothetical protein
+metabat1500.115_00809	gene	1470	cotA			
+metabat1500.115_00809	CDS	1470	cotA		COG2132	Spore coat protein A
+metabat1500.115_00810	gene	669	fbpC			
+metabat1500.115_00810	CDS	669	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+metabat1500.115_00811	gene	678	modB			
+metabat1500.115_00811	CDS	678	modB		COG4149	Molybdenum transport system permease protein ModB
+metabat1500.115_00812	gene	234				
+metabat1500.115_00812	CDS	234				hypothetical protein
+metabat1500.115_00813	gene	558				
+metabat1500.115_00813	CDS	558				hypothetical protein
+metabat1500.115_00814	gene	843				
+metabat1500.115_00814	CDS	843				hypothetical protein
+metabat1500.115_00815	gene	420				
+metabat1500.115_00815	CDS	420				hypothetical protein
+metabat1500.115_00816	gene	750	rmlA_1			
+metabat1500.115_00816	CDS	750	rmlA_1	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+metabat1500.115_00817	gene	2778	glnD_1			
+metabat1500.115_00817	CDS	2778	glnD_1		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+metabat1500.115_00818	gene	531	apt_1			
+metabat1500.115_00818	CDS	531	apt_1	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+metabat1500.115_00819	gene	795	ccsA			
+metabat1500.115_00819	CDS	795	ccsA			Cytochrome c biogenesis protein CcsA
+metabat1500.115_00820	gene	1071	hemA			
+metabat1500.115_00820	CDS	1071	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+metabat1500.115_00821	gene	924	hemC			
+metabat1500.115_00821	CDS	924	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+metabat1500.115_00822	gene	1539	cysG			
+metabat1500.115_00822	CDS	1539	cysG	4.99.1.4		Siroheme synthase
+metabat1500.115_00823	gene	195				
+metabat1500.115_00823	CDS	195				hypothetical protein
+metabat1500.115_00824	gene	2301	secDF			
+metabat1500.115_00824	CDS	2301	secDF		COG0341	Protein translocase subunit SecDF
+metabat1500.115_00825	gene	1242	pfkA			
+metabat1500.115_00825	CDS	1242	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+metabat1500.115_00826	gene	1671	aspT			
+metabat1500.115_00826	CDS	1671	aspT			Aspartate/alanine antiporter
+metabat1500.115_00827	gene	816				
+metabat1500.115_00827	CDS	816				hypothetical protein
+metabat1500.115_00828	gene	609				
+metabat1500.115_00828	CDS	609				hypothetical protein
+metabat1500.115_00829	gene	96				
+metabat1500.115_00829	CDS	96				hypothetical protein
+metabat1500.115_00830	gene	1767	pknD_1			
+metabat1500.115_00830	CDS	1767	pknD_1	2.7.11.1		Serine/threonine-protein kinase PknD
+metabat1500.115_00831	gene	663	ribD2			
+metabat1500.115_00831	CDS	663	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+metabat1500.115_00832	gene	414	fruA_1			
+metabat1500.115_00832	CDS	414	fruA_1		COG1299	PTS system fructose-specific EIIABC component
+metabat1500.115_00833	gene	1707	argS_2			
+metabat1500.115_00833	CDS	1707	argS_2	6.1.1.19	COG0018	Arginine--tRNA ligase
+metabat1500.115_00834	gene	1143	bepA_3			
+metabat1500.115_00834	CDS	1143	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+metabat1500.115_00835	gene	402				
+metabat1500.115_00835	CDS	402				hypothetical protein
+metabat1500.115_00836	gene	804				
+metabat1500.115_00836	CDS	804				hypothetical protein
+metabat1500.115_00837	gene	942	rlmL			
+metabat1500.115_00837	CDS	942	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+metabat1500.115_00838	gene	285				
+metabat1500.115_00838	CDS	285				hypothetical protein
+metabat1500.115_00839	gene	210				
+metabat1500.115_00839	CDS	210			COG3360	Dodecin
+metabat1500.115_00840	gene	516				
+metabat1500.115_00840	CDS	516				hypothetical protein
+metabat1500.115_00841	gene	1176	tyrS			
+metabat1500.115_00841	CDS	1176	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+metabat1500.115_00842	gene	477				
+metabat1500.115_00842	CDS	477				hypothetical protein
+metabat1500.115_00843	gene	663	bioD1			
+metabat1500.115_00843	CDS	663	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+metabat1500.115_00844	gene	741	purQ			
+metabat1500.115_00844	CDS	741	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+metabat1500.115_00845	gene	189				
+metabat1500.115_00845	CDS	189				hypothetical protein
+metabat1500.115_00846	gene	408	purS			
+metabat1500.115_00846	CDS	408	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+metabat1500.115_00847	gene	2178				
+metabat1500.115_00847	CDS	2178				hypothetical protein
+metabat1500.115_00848	gene	1719	ligD_2			
+metabat1500.115_00848	CDS	1719	ligD_2		COG1793	Multifunctional non-homologous end joining protein LigD
+metabat1500.115_00849	gene	618	tsf			
+metabat1500.115_00849	CDS	618	tsf			Elongation factor Ts
+metabat1500.115_00850	gene	732	rpsB			
+metabat1500.115_00850	CDS	732	rpsB			30S ribosomal protein S2
+metabat1500.115_00851	gene	546	yvqK			
+metabat1500.115_00851	CDS	546	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+metabat1500.115_00852	gene	4122	rpoC			
+metabat1500.115_00852	CDS	4122	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+metabat1500.115_00853	gene	3795	rpoB			
+metabat1500.115_00853	CDS	3795	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+metabat1500.115_00854	gene	393	rplL			
+metabat1500.115_00854	CDS	393	rplL		COG0222	50S ribosomal protein L7/L12
+metabat1500.115_00855	gene	534	rplJ			
+metabat1500.115_00855	CDS	534	rplJ		COG0244	50S ribosomal protein L10
+metabat1500.115_00856	gene	702	rplA			
+metabat1500.115_00856	CDS	702	rplA			50S ribosomal protein L1
+metabat1500.115_00857	gene	696				
+metabat1500.115_00857	CDS	696				hypothetical protein
+metabat1500.115_00858	gene	927				
+metabat1500.115_00858	CDS	927				hypothetical protein
+metabat1500.115_00859	gene	498				
+metabat1500.115_00859	CDS	498				hypothetical protein
+metabat1500.115_00860	gene	672				
+metabat1500.115_00860	CDS	672				hypothetical protein
+metabat1500.115_00861	gene	888	btuF			
+metabat1500.115_00861	CDS	888	btuF			Vitamin B12-binding protein
+metabat1500.115_00862	gene	165				
+metabat1500.115_00862	CDS	165				hypothetical protein
+metabat1500.115_00863	gene	471				
+metabat1500.115_00863	CDS	471				hypothetical protein
+metabat1500.115_00864	gene	717				
+metabat1500.115_00864	CDS	717				hypothetical protein
+metabat1500.115_00865	gene	474				
+metabat1500.115_00865	CDS	474				hypothetical protein
+metabat1500.115_00866	gene	618	gpm2			
+metabat1500.115_00866	CDS	618	gpm2	3.1.3.2	COG0406	Acid phosphatase
+metabat1500.115_00867	gene	603	nudF			
+metabat1500.115_00867	CDS	603	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+metabat1500.115_00868	gene	783	tatC2			
+metabat1500.115_00868	CDS	783	tatC2		COG0805	Sec-independent protein translocase protein TatCy
+metabat1500.115_00869	gene	1095				
+metabat1500.115_00869	CDS	1095				hypothetical protein
+metabat1500.115_00870	gene	1566				
+metabat1500.115_00870	CDS	1566				hypothetical protein
+metabat1500.115_00871	gene	1179	nagA			
+metabat1500.115_00871	CDS	1179	nagA	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+metabat1500.115_00872	gene	543				
+metabat1500.115_00872	CDS	543				hypothetical protein
+metabat1500.115_00873	gene	1101	ugtP			
+metabat1500.115_00873	CDS	1101	ugtP	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+metabat1500.115_00874	gene	894				
+metabat1500.115_00874	CDS	894				hypothetical protein
+metabat1500.115_00875	gene	213				
+metabat1500.115_00875	CDS	213				hypothetical protein
+metabat1500.115_00876	gene	405				
+metabat1500.115_00876	CDS	405				hypothetical protein
+metabat1500.115_00877	gene	1116				
+metabat1500.115_00877	CDS	1116				hypothetical protein
+metabat1500.115_00878	gene	1407	steT_1			
+metabat1500.115_00878	CDS	1407	steT_1		COG0531	Serine/threonine exchanger SteT
+metabat1500.115_00879	gene	420				
+metabat1500.115_00879	CDS	420				hypothetical protein
+metabat1500.115_00880	gene	267				
+metabat1500.115_00880	CDS	267				hypothetical protein
+metabat1500.115_00881	gene	360				
+metabat1500.115_00881	CDS	360				hypothetical protein
+metabat1500.115_00882	gene	441				
+metabat1500.115_00882	CDS	441				hypothetical protein
+metabat1500.115_00883	gene	246				
+metabat1500.115_00883	CDS	246				hypothetical protein
+metabat1500.115_00884	gene	921				
+metabat1500.115_00884	CDS	921				hypothetical protein
+metabat1500.115_00885	gene	1248	dxr_2			
+metabat1500.115_00885	CDS	1248	dxr_2	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+metabat1500.115_00886	gene	1422	rseP_2			
+metabat1500.115_00886	CDS	1422	rseP_2	3.4.24.-	COG0750	Regulator of sigma-E protease RseP
+metabat1500.115_00887	gene	612				
+metabat1500.115_00887	CDS	612				hypothetical protein
+metabat1500.115_00888	gene	426	rpsL			
+metabat1500.115_00888	CDS	426	rpsL			30S ribosomal protein S12
+metabat1500.115_00889	gene	474	rpsG			
+metabat1500.115_00889	CDS	474	rpsG		COG0049	30S ribosomal protein S7
+metabat1500.115_00890	gene	2193	fusA_1			
+metabat1500.115_00890	CDS	2193	fusA_1		COG0480	Elongation factor G
+metabat1500.115_00891	gene	312	rpsJ			
+metabat1500.115_00891	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+metabat1500.115_00892	gene	726	rplC			
+metabat1500.115_00892	CDS	726	rplC		COG0087	50S ribosomal protein L3
+metabat1500.115_00893	gene	609	rplD			
+metabat1500.115_00893	CDS	609	rplD			50S ribosomal protein L4
+metabat1500.115_00894	gene	282	rplW			
+metabat1500.115_00894	CDS	282	rplW		COG0089	50S ribosomal protein L23
+metabat1500.115_00895	gene	855	rplB			
+metabat1500.115_00895	CDS	855	rplB		COG0090	50S ribosomal protein L2
+metabat1500.115_00896	gene	333				
+metabat1500.115_00896	CDS	333				hypothetical protein
+metabat1500.115_00897	gene	786				
+metabat1500.115_00897	CDS	786				hypothetical protein
+metabat1500.115_00898	gene	474				
+metabat1500.115_00898	CDS	474				hypothetical protein
+metabat1500.115_00899	gene	690	rpsC			
+metabat1500.115_00899	CDS	690	rpsC		COG0092	30S ribosomal protein S3
+metabat1500.115_00900	gene	426	rplP			
+metabat1500.115_00900	CDS	426	rplP		COG0197	50S ribosomal protein L16
+metabat1500.115_00901	gene	207	rpmC			
+metabat1500.115_00901	CDS	207	rpmC			50S ribosomal protein L29
+metabat1500.115_00902	gene	300	rpsQ			
+metabat1500.115_00902	CDS	300	rpsQ		COG0186	30S ribosomal protein S17
+metabat1500.115_00903	gene	366	rplN			
+metabat1500.115_00903	CDS	366	rplN			50S ribosomal protein L14
+metabat1500.115_00904	gene	294				
+metabat1500.115_00904	CDS	294				hypothetical protein
+metabat1500.115_00905	gene	573	rplE			
+metabat1500.115_00905	CDS	573	rplE			50S ribosomal protein L5
+metabat1500.115_00906	gene	399	rpsH			
+metabat1500.115_00906	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+metabat1500.115_00907	gene	540	rplF			
+metabat1500.115_00907	CDS	540	rplF		COG0097	50S ribosomal protein L6
+metabat1500.115_00908	gene	363	rplR			
+metabat1500.115_00908	CDS	363	rplR		COG0256	50S ribosomal protein L18
+metabat1500.115_00909	gene	564	rpsE			
+metabat1500.115_00909	CDS	564	rpsE		COG0098	30S ribosomal protein S5
+metabat1500.115_00910	gene	615				
+metabat1500.115_00910	CDS	615				hypothetical protein
+metabat1500.115_00911	gene	1509	secY			
+metabat1500.115_00911	CDS	1509	secY		COG0201	Protein translocase subunit SecY
+metabat1500.115_00912	gene	600	adk			
+metabat1500.115_00912	CDS	600	adk	2.7.4.3	COG0563	Adenylate kinase
+metabat1500.115_00913	gene	777	map			
+metabat1500.115_00913	CDS	777	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+metabat1500.115_00914	gene	219	infA_1			
+metabat1500.115_00914	CDS	219	infA_1		COG0361	Translation initiation factor IF-1
+metabat1500.115_00915	gene	396	rpsM_1			
+metabat1500.115_00915	CDS	396	rpsM_1		COG0099	30S ribosomal protein S13
+metabat1500.115_00916	gene	606				
+metabat1500.115_00916	CDS	606				hypothetical protein
+metabat1500.115_00917	gene	612	rpsD_1			
+metabat1500.115_00917	CDS	612	rpsD_1			30S ribosomal protein S4
+metabat1500.115_00918	gene	252				
+metabat1500.115_00918	CDS	252				hypothetical protein
+metabat1500.115_00919	gene	441				
+metabat1500.115_00919	CDS	441				hypothetical protein
+metabat1500.115_00920	gene	603	sigW			
+metabat1500.115_00920	CDS	603	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+metabat1500.115_00921	gene	1149	mqnE			
+metabat1500.115_00921	CDS	1149	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+metabat1500.115_00922	gene	768	mqnA_1			
+metabat1500.115_00922	CDS	768	mqnA_1	4.2.1.151	COG1427	Chorismate dehydratase
+metabat1500.115_00923	gene	507				
+metabat1500.115_00923	CDS	507				hypothetical protein
+metabat1500.115_00924	gene	1695	recJ			
+metabat1500.115_00924	CDS	1695	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+metabat1500.115_00925	gene	2193	recG_2			
+metabat1500.115_00925	CDS	2193	recG_2	3.6.4.12		ATP-dependent DNA helicase RecG
+metabat1500.115_00926	gene	1524				
+metabat1500.115_00926	CDS	1524				hypothetical protein
+metabat1500.115_00927	gene	735				
+metabat1500.115_00927	CDS	735		1.-.-.-	COG5424	putative oxidoreductase CT_610
+metabat1500.115_00928	gene	1020	mak			
+metabat1500.115_00928	CDS	1020	mak	2.7.1.175	COG3281	Maltokinase
+metabat1500.115_00929	gene	1095				
+metabat1500.115_00929	CDS	1095				hypothetical protein
+metabat1500.115_00930	gene	453				
+metabat1500.115_00930	CDS	453				hypothetical protein
+metabat1500.115_00931	gene	426	amnD			
+metabat1500.115_00931	CDS	426	amnD	3.5.99.5		2-aminomuconate deaminase
+metabat1500.115_00932	gene	345				
+metabat1500.115_00932	CDS	345				hypothetical protein
+metabat1500.115_00933	gene	288				
+metabat1500.115_00933	CDS	288				hypothetical protein
+metabat1500.115_00934	gene	951	tilS			
+metabat1500.115_00934	CDS	951	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+metabat1500.115_00935	gene	147				
+metabat1500.115_00935	CDS	147				hypothetical protein
+metabat1500.115_00936	gene	1005				
+metabat1500.115_00936	CDS	1005				hypothetical protein
+metabat1500.115_00937	gene	1254				
+metabat1500.115_00937	CDS	1254				hypothetical protein
+metabat1500.115_00938	gene	234				
+metabat1500.115_00938	CDS	234				hypothetical protein
+metabat1500.115_00939	gene	531	mshA_5			
+metabat1500.115_00939	CDS	531	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+metabat1500.115_00940	gene	1536	comM			
+metabat1500.115_00940	CDS	1536	comM		COG0606	Competence protein ComM
+metabat1500.115_00941	gene	801				
+metabat1500.115_00941	CDS	801				hypothetical protein
+metabat1500.115_00942	gene	486				
+metabat1500.115_00942	CDS	486				hypothetical protein
+metabat1500.115_00943	gene	246				
+metabat1500.115_00943	CDS	246				hypothetical protein
+metabat1500.115_00944	gene	420				
+metabat1500.115_00944	CDS	420				hypothetical protein
+metabat1500.115_00945	gene	1146				
+metabat1500.115_00945	CDS	1146				hypothetical protein
+metabat1500.115_00946	gene	651				
+metabat1500.115_00946	CDS	651				hypothetical protein
+metabat1500.115_00947	gene	234				
+metabat1500.115_00947	CDS	234				hypothetical protein
+metabat1500.115_00948	gene	807				
+metabat1500.115_00948	CDS	807				hypothetical protein
+metabat1500.115_00949	gene	1296	gdhA			
+metabat1500.115_00949	CDS	1296	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+metabat1500.115_00950	gene	945				
+metabat1500.115_00950	CDS	945				hypothetical protein
+metabat1500.115_00951	gene	171				
+metabat1500.115_00951	CDS	171				hypothetical protein
+metabat1500.115_00952	gene	189				
+metabat1500.115_00952	CDS	189				hypothetical protein
+metabat1500.115_00953	gene	1005	atoC_1			
+metabat1500.115_00953	CDS	1005	atoC_1		COG2204	Regulatory protein AtoC
+metabat1500.115_00954	gene	1188				
+metabat1500.115_00954	CDS	1188				hypothetical protein
+metabat1500.115_00955	gene	3114	btuD_2			
+metabat1500.115_00955	CDS	3114	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+metabat1500.115_00956	gene	1092				
+metabat1500.115_00956	CDS	1092				hypothetical protein
+metabat1500.115_00957	gene	918				
+metabat1500.115_00957	CDS	918				hypothetical protein
+metabat1500.115_00958	gene	213				
+metabat1500.115_00958	CDS	213				hypothetical protein
+metabat1500.115_00959	gene	1197				
+metabat1500.115_00959	CDS	1197				hypothetical protein
+metabat1500.115_00960	gene	1140				
+metabat1500.115_00960	CDS	1140				hypothetical protein
+metabat1500.115_00961	gene	819				
+metabat1500.115_00961	CDS	819				hypothetical protein
+metabat1500.115_00962	gene	1227	fabF_1			
+metabat1500.115_00962	CDS	1227	fabF_1	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+metabat1500.115_00963	gene	1491				
+metabat1500.115_00963	CDS	1491				hypothetical protein
+metabat1500.115_00964	gene	867	cpdA_2			
+metabat1500.115_00964	CDS	867	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+metabat1500.115_00965	gene	2556	glgP			
+metabat1500.115_00965	CDS	2556	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+metabat1500.115_00966	gene	450				
+metabat1500.115_00966	CDS	450				hypothetical protein
+metabat1500.115_00967	gene	1437				
+metabat1500.115_00967	CDS	1437				hypothetical protein
+metabat1500.115_00968	gene	76				
+metabat1500.115_00968	tRNA	76				tRNA-Arg(tct)
+metabat1500.115_00969	gene	1062	ada			
+metabat1500.115_00969	CDS	1062	ada		COG0350	Bifunctional transcriptional activator/DNA repair enzyme Ada
+metabat1500.115_00970	gene	465				
+metabat1500.115_00970	CDS	465				hypothetical protein
+metabat1500.115_00971	gene	636	cdaA			
+metabat1500.115_00971	CDS	636	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+metabat1500.115_00972	gene	693				
+metabat1500.115_00972	CDS	693				hypothetical protein
+metabat1500.115_00973	gene	273				
+metabat1500.115_00973	CDS	273				hypothetical protein
+metabat1500.115_00974	gene	324				
+metabat1500.115_00974	CDS	324				hypothetical protein
+metabat1500.115_00975	gene	435				
+metabat1500.115_00975	CDS	435				hypothetical protein
+metabat1500.115_00976	gene	336				
+metabat1500.115_00976	CDS	336				hypothetical protein
+metabat1500.115_00977	gene	429				
+metabat1500.115_00977	CDS	429				hypothetical protein
+metabat1500.115_00978	gene	429				
+metabat1500.115_00978	CDS	429				hypothetical protein
+metabat1500.115_00979	gene	510				
+metabat1500.115_00979	CDS	510				hypothetical protein
+metabat1500.115_00980	gene	333				
+metabat1500.115_00980	CDS	333				hypothetical protein
+metabat1500.115_00981	gene	750	rph			
+metabat1500.115_00981	CDS	750	rph	2.7.7.56	COG0689	Ribonuclease PH
+metabat1500.115_00982	gene	1014	gmd			
+metabat1500.115_00982	CDS	1014	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+metabat1500.115_00983	gene	681				
+metabat1500.115_00983	CDS	681				hypothetical protein
+metabat1500.115_00984	gene	864	dtd3			
+metabat1500.115_00984	CDS	864	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+metabat1500.115_00985	gene	1023	fabH			
+metabat1500.115_00985	CDS	1023	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+metabat1500.115_00986	gene	1032	plsX_2			
+metabat1500.115_00986	CDS	1032	plsX_2	2.3.1.274	COG0416	Phosphate acyltransferase
+metabat1500.115_00987	gene	447				
+metabat1500.115_00987	CDS	447				hypothetical protein
+metabat1500.115_00988	gene	480	coaD_2			
+metabat1500.115_00988	CDS	480	coaD_2	2.7.7.3		Phosphopantetheine adenylyltransferase
+metabat1500.115_00989	gene	918				
+metabat1500.115_00989	CDS	918				hypothetical protein
+metabat1500.115_00990	gene	765				
+metabat1500.115_00990	CDS	765				hypothetical protein
+metabat1500.115_00991	gene	837	kdsA_2			
+metabat1500.115_00991	CDS	837	kdsA_2	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+metabat1500.115_00992	gene	621				
+metabat1500.115_00992	CDS	621				hypothetical protein
+metabat1500.115_00993	gene	729	lptA_2			
+metabat1500.115_00993	CDS	729	lptA_2			Lipopolysaccharide export system protein LptA
+metabat1500.115_00994	gene	786	lptB_2			
+metabat1500.115_00994	CDS	786	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+metabat1500.115_00995	gene	465	crcB			
+metabat1500.115_00995	CDS	465	crcB			Putative fluoride ion transporter CrcB
+metabat1500.115_00996	gene	345				
+metabat1500.115_00996	CDS	345				hypothetical protein
+metabat1500.115_00997	gene	999	hprK			
+metabat1500.115_00997	CDS	999	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+metabat1500.115_00998	gene	312				
+metabat1500.115_00998	CDS	312				hypothetical protein
+metabat1500.115_00999	gene	1770	ptsI			
+metabat1500.115_00999	CDS	1770	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+metabat1500.115_01000	gene	471				
+metabat1500.115_01000	CDS	471				hypothetical protein
+metabat1500.115_01001	gene	1956	speA			
+metabat1500.115_01001	CDS	1956	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+metabat1500.115_01002	gene	1392	asnS			
+metabat1500.115_01002	CDS	1392	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+metabat1500.115_01003	gene	267				
+metabat1500.115_01003	CDS	267				hypothetical protein
+metabat1500.115_01004	gene	1728	rpsA			
+metabat1500.115_01004	CDS	1728	rpsA		COG0539	30S ribosomal protein S1
+metabat1500.115_01005	gene	510				
+metabat1500.115_01005	CDS	510				hypothetical protein
+metabat1500.115_01006	gene	1443	cbs			
+metabat1500.115_01006	CDS	1443	cbs	4.2.1.22	COG0031	Putative cystathionine beta-synthase
+metabat1500.115_01007	gene	1161	metC			
+metabat1500.115_01007	CDS	1161	metC	4.4.1.13	COG0626	Cystathionine beta-lyase
+metabat1500.115_01008	gene	1119	aroC			
+metabat1500.115_01008	CDS	1119	aroC	4.2.3.5	COG0082	Chorismate synthase
+metabat1500.115_01009	gene	411				
+metabat1500.115_01009	CDS	411				hypothetical protein
+metabat1500.115_01010	gene	1455	gatB_1			
+metabat1500.115_01010	CDS	1455	gatB_1	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+metabat1500.115_01011	gene	657				
+metabat1500.115_01011	CDS	657				hypothetical protein
+metabat1500.115_01012	gene	252				
+metabat1500.115_01012	CDS	252				hypothetical protein
+metabat1500.115_01013	gene	1524	kaiC			
+metabat1500.115_01013	CDS	1524	kaiC	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+metabat1500.115_01014	gene	207				
+metabat1500.115_01014	CDS	207				hypothetical protein
+metabat1500.115_01015	gene	1341				
+metabat1500.115_01015	CDS	1341				hypothetical protein
+metabat1500.115_01016	gene	273				
+metabat1500.115_01016	CDS	273				hypothetical protein
+metabat1500.115_01017	gene	417				
+metabat1500.115_01017	CDS	417				hypothetical protein
+metabat1500.115_01018	gene	933	hldD_3			
+metabat1500.115_01018	CDS	933	hldD_3	5.1.3.20	COG0451	ADP-L-glycero-D-manno-heptose-6-epimerase
+metabat1500.115_01019	gene	489				
+metabat1500.115_01019	CDS	489				hypothetical protein
+metabat1500.115_01020	gene	411				
+metabat1500.115_01020	CDS	411				hypothetical protein
+metabat1500.115_01021	gene	456				
+metabat1500.115_01021	CDS	456				hypothetical protein
+metabat1500.115_01022	gene	345	arnE_1			
+metabat1500.115_01022	CDS	345	arnE_1			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+metabat1500.115_01023	gene	429	arnE_2			
+metabat1500.115_01023	CDS	429	arnE_2			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+metabat1500.115_01024	gene	1167				
+metabat1500.115_01024	CDS	1167				hypothetical protein
+metabat1500.115_01025	gene	1128				
+metabat1500.115_01025	CDS	1128				hypothetical protein
+metabat1500.115_01026	gene	255	acpP_2			
+metabat1500.115_01026	CDS	255	acpP_2		COG0236	Acyl carrier protein
+metabat1500.115_01027	gene	1815	cocE			
+metabat1500.115_01027	CDS	1815	cocE	3.1.1.84		Cocaine esterase
+metabat1500.115_01028	gene	177				
+metabat1500.115_01028	CDS	177				hypothetical protein
+metabat1500.115_01029	gene	630				
+metabat1500.115_01029	CDS	630				hypothetical protein
+metabat1500.115_01030	gene	534				
+metabat1500.115_01030	CDS	534				hypothetical protein
+metabat1500.115_01031	gene	1062				
+metabat1500.115_01031	CDS	1062				hypothetical protein
+metabat1500.115_01032	gene	1470	amtB			
+metabat1500.115_01032	CDS	1470	amtB			Ammonia channel
+metabat1500.115_01033	gene	417				
+metabat1500.115_01033	CDS	417				hypothetical protein
+metabat1500.115_01034	gene	558				
+metabat1500.115_01034	CDS	558				hypothetical protein
+metabat1500.115_01035	gene	2463	pknD_2			
+metabat1500.115_01035	CDS	2463	pknD_2	2.7.11.1		Serine/threonine-protein kinase PknD
+metabat1500.115_01036	gene	783				
+metabat1500.115_01036	CDS	783				hypothetical protein
+metabat1500.115_01037	gene	84				
+metabat1500.115_01037	tRNA	84				tRNA-Leu(caa)
+metabat1500.115_01038	gene	237				
+metabat1500.115_01038	CDS	237				hypothetical protein
+metabat1500.115_01039	gene	198				
+metabat1500.115_01039	CDS	198				hypothetical protein
+metabat1500.115_01040	gene	456	fruA_2			
+metabat1500.115_01040	CDS	456	fruA_2		COG1299	PTS system fructose-specific EIIABC component
+metabat1500.115_01041	gene	720				
+metabat1500.115_01041	CDS	720				hypothetical protein
+metabat1500.115_01042	gene	828	mazG			
+metabat1500.115_01042	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+metabat1500.115_01043	gene	474				
+metabat1500.115_01043	CDS	474				hypothetical protein
+metabat1500.115_01044	gene	912	yegS			
+metabat1500.115_01044	CDS	912	yegS	2.7.1.-		lipid kinase YegS
+metabat1500.115_01045	gene	468				
+metabat1500.115_01045	CDS	468				hypothetical protein
+metabat1500.115_01046	gene	690				
+metabat1500.115_01046	CDS	690				hypothetical protein
+metabat1500.115_01047	gene	2253	ppk			
+metabat1500.115_01047	CDS	2253	ppk	2.7.4.1		Polyphosphate kinase
+metabat1500.115_01048	gene	1407				
+metabat1500.115_01048	CDS	1407				hypothetical protein
+metabat1500.115_01049	gene	369				
+metabat1500.115_01049	CDS	369				hypothetical protein
+metabat1500.115_01050	gene	1611	stp			
+metabat1500.115_01050	CDS	1611	stp			Multidrug resistance protein Stp
+metabat1500.115_01051	gene	678				
+metabat1500.115_01051	CDS	678				hypothetical protein
+metabat1500.115_01052	gene	297				
+metabat1500.115_01052	CDS	297				hypothetical protein
+metabat1500.115_01053	gene	1590	guaA			
+metabat1500.115_01053	CDS	1590	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+metabat1500.115_01054	gene	198				
+metabat1500.115_01054	CDS	198				hypothetical protein
+metabat1500.115_01055	gene	77				
+metabat1500.115_01055	tRNA	77				tRNA-Met(cat)
+metabat1500.115_01056	gene	75				
+metabat1500.115_01056	tRNA	75				tRNA-Asn(gtt)
+metabat1500.115_01057	gene	729				
+metabat1500.115_01057	CDS	729				hypothetical protein
+metabat1500.115_01058	gene	1251	nuoF			
+metabat1500.115_01058	CDS	1251	nuoF	7.1.1.-		NADH-quinone oxidoreductase subunit F
+metabat1500.115_01059	gene	429				
+metabat1500.115_01059	CDS	429				hypothetical protein
+metabat1500.115_01060	gene	1734	napA_2			
+metabat1500.115_01060	CDS	1734	napA_2	1.9.6.1		Periplasmic nitrate reductase
+metabat1500.115_01061	gene	945	cpoB_2			
+metabat1500.115_01061	CDS	945	cpoB_2			Cell division coordinator CpoB
+metabat1500.115_01062	gene	74				
+metabat1500.115_01062	tRNA	74				tRNA-Thr(ggt)
+metabat1500.115_01063	gene	1185	tufA			
+metabat1500.115_01063	CDS	1185	tufA		COG0050	Elongation factor Tu
+metabat1500.115_01064	gene	75				
+metabat1500.115_01064	tRNA	75				tRNA-Trp(cca)
+metabat1500.115_01065	gene	219				
+metabat1500.115_01065	CDS	219				hypothetical protein
+metabat1500.115_01066	gene	570	nusG			
+metabat1500.115_01066	CDS	570	nusG		COG0250	Transcription termination/antitermination protein NusG
+metabat1500.115_01067	gene	426	rplK			
+metabat1500.115_01067	CDS	426	rplK			50S ribosomal protein L11
+metabat1500.115_01068	gene	360	mdh			
+metabat1500.115_01068	CDS	360	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+metabat1500.115_01069	gene	513				
+metabat1500.115_01069	CDS	513				hypothetical protein
+metabat1500.115_01070	gene	1143				
+metabat1500.115_01070	CDS	1143				hypothetical protein
+metabat1500.115_01071	gene	285				
+metabat1500.115_01071	CDS	285		4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+metabat1500.115_01072	gene	432				
+metabat1500.115_01072	CDS	432				hypothetical protein
+metabat1500.115_01073	gene	1437	pafA			
+metabat1500.115_01073	CDS	1437	pafA	6.3.1.19		Pup--protein ligase
+metabat1500.115_01074	gene	1500				
+metabat1500.115_01074	CDS	1500				hypothetical protein
+metabat1500.115_01075	gene	1620				
+metabat1500.115_01075	CDS	1620				hypothetical protein
+metabat1500.115_01076	gene	1170				
+metabat1500.115_01076	CDS	1170				hypothetical protein
+metabat1500.115_01077	gene	588	dapH_2			
+metabat1500.115_01077	CDS	588	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+metabat1500.115_01078	gene	1746				
+metabat1500.115_01078	CDS	1746		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+metabat1500.115_01079	gene	627				
+metabat1500.115_01079	CDS	627				hypothetical protein
+metabat1500.115_01080	gene	261				
+metabat1500.115_01080	CDS	261				hypothetical protein
+metabat1500.115_01081	gene	1269	purB			
+metabat1500.115_01081	CDS	1269	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+metabat1500.115_01082	gene	1242	macB_2			
+metabat1500.115_01082	CDS	1242	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+metabat1500.115_01083	gene	1251	macB_3			
+metabat1500.115_01083	CDS	1251	macB_3	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+metabat1500.115_01084	gene	762	yknY_4			
+metabat1500.115_01084	CDS	762	yknY_4	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+metabat1500.115_01085	gene	1437	macA_2			
+metabat1500.115_01085	CDS	1437	macA_2		COG0845	Macrolide export protein MacA
+metabat1500.115_01086	gene	1089	queG			
+metabat1500.115_01086	CDS	1089	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+metabat1500.115_01087	gene	558	aroK			
+metabat1500.115_01087	CDS	558	aroK	2.7.1.71	COG0703	Shikimate kinase
+metabat1500.115_01088	gene	492	purE			
+metabat1500.115_01088	CDS	492	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+metabat1500.115_01089	gene	1038	ywlC			
+metabat1500.115_01089	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+metabat1500.115_01090	gene	1674	pyrG			
+metabat1500.115_01090	CDS	1674	pyrG	6.3.4.2		CTP synthase
+metabat1500.115_01091	gene	753	kpsU_1			
+metabat1500.115_01091	CDS	753	kpsU_1	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+metabat1500.115_01092	gene	597	hisB_1			
+metabat1500.115_01092	CDS	597	hisB_1	3.1.3.15		Histidine biosynthesis bifunctional protein HisB
+metabat1500.115_01093	gene	1014	hldE_1			
+metabat1500.115_01093	CDS	1014	hldE_1		COG2870	Bifunctional protein HldE
+metabat1500.115_01094	gene	801				
+metabat1500.115_01094	CDS	801				hypothetical protein
+metabat1500.115_01095	gene	450				
+metabat1500.115_01095	CDS	450				hypothetical protein
+metabat1500.115_01096	gene	972				
+metabat1500.115_01096	CDS	972			COG1702	PhoH-like protein
+metabat1500.115_01097	gene	1641				
+metabat1500.115_01097	CDS	1641				hypothetical protein
+metabat1500.115_01098	gene	576	ndhJ			
+metabat1500.115_01098	CDS	576	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+metabat1500.115_01099	gene	537	nuoB			
+metabat1500.115_01099	CDS	537	nuoB	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit B
+metabat1500.115_01100	gene	216				
+metabat1500.115_01100	CDS	216				hypothetical protein
+metabat1500.115_01101	gene	174				
+metabat1500.115_01101	CDS	174				hypothetical protein
+metabat1500.115_01102	gene	927	nfo_2			
+metabat1500.115_01102	CDS	927	nfo_2	3.1.21.2	COG0648	Endonuclease 4
+metabat1500.115_01103	gene	372				
+metabat1500.115_01103	CDS	372				hypothetical protein
+metabat1500.115_01104	gene	756	murA			
+metabat1500.115_01104	CDS	756	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+metabat1500.115_01105	gene	303				
+metabat1500.115_01105	CDS	303				hypothetical protein
+metabat1500.115_01106	gene	723				
+metabat1500.115_01106	CDS	723				hypothetical protein
+metabat1500.115_01107	gene	312				
+metabat1500.115_01107	CDS	312				hypothetical protein
+metabat1500.115_01108	gene	453				
+metabat1500.115_01108	CDS	453				hypothetical protein
+metabat1500.115_01109	gene	1071	korA			
+metabat1500.115_01109	CDS	1071	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+metabat1500.115_01110	gene	957	korB			
+metabat1500.115_01110	CDS	957	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+metabat1500.115_01111	gene	1155				
+metabat1500.115_01111	CDS	1155				hypothetical protein
+metabat1500.115_01112	gene	846				
+metabat1500.115_01112	CDS	846				putative protein
+metabat1500.115_01113	gene	318	xseB			
+metabat1500.115_01113	CDS	318	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+metabat1500.115_01114	gene	711				
+metabat1500.115_01114	CDS	711				hypothetical protein
+metabat1500.115_01115	gene	669				
+metabat1500.115_01115	CDS	669				hypothetical protein
+metabat1500.115_01116	gene	381	gcvH			
+metabat1500.115_01116	CDS	381	gcvH		COG0509	Glycine cleavage system H protein
+metabat1500.115_01117	gene	111				
+metabat1500.115_01117	CDS	111				hypothetical protein
+metabat1500.115_01118	gene	789				
+metabat1500.115_01118	CDS	789				hypothetical protein
+metabat1500.115_01119	gene	534	sigV			
+metabat1500.115_01119	CDS	534	sigV		COG1595	RNA polymerase sigma factor SigV
+metabat1500.115_01120	gene	498				
+metabat1500.115_01120	CDS	498				hypothetical protein
+metabat1500.115_01121	gene	537				
+metabat1500.115_01121	CDS	537				hypothetical protein
+metabat1500.115_01122	gene	699	acr1			
+metabat1500.115_01122	CDS	699	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+metabat1500.115_01123	gene	954				
+metabat1500.115_01123	CDS	954				hypothetical protein
+metabat1500.115_01124	gene	441				
+metabat1500.115_01124	CDS	441				hypothetical protein
+metabat1500.115_01125	gene	456				
+metabat1500.115_01125	CDS	456				hypothetical protein
+metabat1500.115_01126	gene	306				
+metabat1500.115_01126	CDS	306				hypothetical protein
+metabat1500.115_01127	gene	579				
+metabat1500.115_01127	CDS	579				hypothetical protein
+metabat1500.115_01128	gene	753				
+metabat1500.115_01128	CDS	753				hypothetical protein
+metabat1500.115_01129	gene	1323	lpxC_2			
+metabat1500.115_01129	CDS	1323	lpxC_2	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+metabat1500.115_01130	gene	780	lpxA_2			
+metabat1500.115_01130	CDS	780	lpxA_2	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+metabat1500.115_01131	gene	1473				
+metabat1500.115_01131	CDS	1473				hypothetical protein
+metabat1500.115_01132	gene	393				
+metabat1500.115_01132	CDS	393				hypothetical protein
+metabat1500.115_01133	gene	495	apt_2			
+metabat1500.115_01133	CDS	495	apt_2	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+metabat1500.115_01134	gene	2766	glnD_2			
+metabat1500.115_01134	CDS	2766	glnD_2		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+metabat1500.115_01135	gene	750	rmlA_2			
+metabat1500.115_01135	CDS	750	rmlA_2	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+metabat1500.115_01136	gene	420				
+metabat1500.115_01136	CDS	420				hypothetical protein
+metabat1500.115_01137	gene	783				
+metabat1500.115_01137	CDS	783				hypothetical protein
+metabat1500.115_01138	gene	558				
+metabat1500.115_01138	CDS	558				hypothetical protein
+metabat1500.115_01139	gene	513				
+metabat1500.115_01139	CDS	513				hypothetical protein
+metabat1500.115_01140	gene	432				
+metabat1500.115_01140	CDS	432				hypothetical protein
+metabat1500.115_01141	gene	1467	ubiD			
+metabat1500.115_01141	CDS	1467	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+metabat1500.115_01142	gene	390				
+metabat1500.115_01142	CDS	390				hypothetical protein
+metabat1500.115_01143	gene	342				
+metabat1500.115_01143	CDS	342				hypothetical protein
+metabat1500.115_01144	gene	918	crtB_2			
+metabat1500.115_01144	CDS	918	crtB_2	2.5.1.32		15-cis-phytoene synthase
+metabat1500.115_01145	gene	1239				
+metabat1500.115_01145	CDS	1239				hypothetical protein
+metabat1500.115_01146	gene	1092				
+metabat1500.115_01146	CDS	1092				hypothetical protein
+metabat1500.115_01147	gene	1797	lepA			
+metabat1500.115_01147	CDS	1797	lepA	3.6.5.-	COG0481	Elongation factor 4
+metabat1500.115_01148	gene	294				
+metabat1500.115_01148	CDS	294				hypothetical protein
+metabat1500.115_01149	gene	732	gph_2			
+metabat1500.115_01149	CDS	732	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+metabat1500.115_01150	gene	348	rsbV			
+metabat1500.115_01150	CDS	348	rsbV		COG1366	Anti-sigma-B factor antagonist
+metabat1500.115_01151	gene	3246				
+metabat1500.115_01151	CDS	3246				hypothetical protein
+metabat1500.115_01152	gene	1125	rfaG			
+metabat1500.115_01152	CDS	1125	rfaG	2.4.-.-		Lipopolysaccharide core biosynthesis protein RfaG
+metabat1500.115_01153	gene	1257	mshA_6			
+metabat1500.115_01153	CDS	1257	mshA_6	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+metabat1500.115_01154	gene	1023	rfaQ_1			
+metabat1500.115_01154	CDS	1023	rfaQ_1	2.-.-.-	COG0859	Lipopolysaccharide core heptosyltransferase RfaQ
+metabat1500.115_01155	gene	1875				
+metabat1500.115_01155	CDS	1875		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+metabat1500.115_01156	gene	729				
+metabat1500.115_01156	CDS	729				hypothetical protein
+metabat1500.115_01157	gene	288				
+metabat1500.115_01157	CDS	288				hypothetical protein
+metabat1500.115_01158	gene	546	dapH_3			
+metabat1500.115_01158	CDS	546	dapH_3	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+metabat1500.115_01159	gene	105				
+metabat1500.115_01159	CDS	105				hypothetical protein
+metabat1500.115_01160	gene	870	sigA_1			
+metabat1500.115_01160	CDS	870	sigA_1		COG0568	RNA polymerase sigma factor SigA
+metabat1500.115_01161	gene	1404	pyk_1			
+metabat1500.115_01161	CDS	1404	pyk_1	2.7.1.40		Pyruvate kinase
+metabat1500.115_01162	gene	516				
+metabat1500.115_01162	CDS	516				hypothetical protein
+metabat1500.115_01163	gene	1416	lapB			
+metabat1500.115_01163	CDS	1416	lapB			Lipopolysaccharide assembly protein B
+metabat1500.115_01164	gene	2535	mutS			
+metabat1500.115_01164	CDS	2535	mutS		COG0249	DNA mismatch repair protein MutS
+metabat1500.115_01165	gene	357	ssrA			
+metabat1500.115_01165	tmRNA	357	ssrA			transfer-messenger RNA, SsrA
+metabat1500.115_01166	gene	744				
+metabat1500.115_01166	CDS	744				hypothetical protein
+metabat1500.115_01167	gene	888				
+metabat1500.115_01167	CDS	888				hypothetical protein
+metabat1500.115_01168	gene	957				
+metabat1500.115_01168	CDS	957				hypothetical protein
+metabat1500.115_01169	gene	402				
+metabat1500.115_01169	CDS	402				hypothetical protein
+metabat1500.115_01170	gene	594				
+metabat1500.115_01170	CDS	594				hypothetical protein
+metabat1500.115_01171	gene	372				
+metabat1500.115_01171	CDS	372				hypothetical protein
+metabat1500.115_01172	gene	249				
+metabat1500.115_01172	CDS	249				hypothetical protein
+metabat1500.115_01173	gene	195				
+metabat1500.115_01173	CDS	195				hypothetical protein
+metabat1500.115_01174	gene	1236	kinE			
+metabat1500.115_01174	CDS	1236	kinE	2.7.13.3	COG2202	Sporulation kinase E
+metabat1500.115_01175	gene	279				
+metabat1500.115_01175	CDS	279				hypothetical protein
+metabat1500.115_01176	gene	279				
+metabat1500.115_01176	CDS	279				hypothetical protein
+metabat1500.115_01177	gene	651				
+metabat1500.115_01177	CDS	651				hypothetical protein
+metabat1500.115_01178	gene	648				
+metabat1500.115_01178	CDS	648				hypothetical protein
+metabat1500.115_01179	gene	1014				
+metabat1500.115_01179	CDS	1014				hypothetical protein
+metabat1500.115_01180	gene	546				
+metabat1500.115_01180	CDS	546				hypothetical protein
+metabat1500.115_01181	gene	2031	fusA_2			
+metabat1500.115_01181	CDS	2031	fusA_2		COG0480	Elongation factor G
+metabat1500.115_01182	gene	384				
+metabat1500.115_01182	CDS	384				hypothetical protein
+metabat1500.115_01183	gene	2268				
+metabat1500.115_01183	CDS	2268				hypothetical protein
+metabat1500.115_01184	gene	627				
+metabat1500.115_01184	CDS	627				hypothetical protein
+metabat1500.115_01185	gene	408				
+metabat1500.115_01185	CDS	408				hypothetical protein
+metabat1500.115_01186	gene	756	kpsU_2			
+metabat1500.115_01186	CDS	756	kpsU_2	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+metabat1500.115_01187	gene	573	hisB_2			
+metabat1500.115_01187	CDS	573	hisB_2	3.1.3.15		Histidine biosynthesis bifunctional protein HisB
+metabat1500.115_01188	gene	1020	hldE_2			
+metabat1500.115_01188	CDS	1020	hldE_2		COG2870	Bifunctional protein HldE
+metabat1500.115_01189	gene	798				
+metabat1500.115_01189	CDS	798				hypothetical protein
+metabat1500.115_01190	gene	450				
+metabat1500.115_01190	CDS	450				hypothetical protein
+metabat1500.115_01191	gene	975				
+metabat1500.115_01191	CDS	975			COG1702	PhoH-like protein
+metabat1500.115_01192	gene	1554	pgpH			
+metabat1500.115_01192	CDS	1554	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+metabat1500.115_01193	gene	483				
+metabat1500.115_01193	CDS	483				hypothetical protein
+metabat1500.115_01194	gene	540				
+metabat1500.115_01194	CDS	540				hypothetical protein
+metabat1500.115_01195	gene	1362	dsbD			
+metabat1500.115_01195	CDS	1362	dsbD	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+metabat1500.115_01196	gene	438				
+metabat1500.115_01196	CDS	438				hypothetical protein
+metabat1500.115_01197	gene	612	resA			
+metabat1500.115_01197	CDS	612	resA			Thiol-disulfide oxidoreductase ResA
+metabat1500.115_01198	gene	798				
+metabat1500.115_01198	CDS	798				hypothetical protein
+metabat1500.115_01199	gene	690	rluF			
+metabat1500.115_01199	CDS	690	rluF	5.4.99.-	COG1187	Dual-specificity RNA pseudouridine synthase RluF
+metabat1500.115_01200	gene	156				
+metabat1500.115_01200	CDS	156				hypothetical protein
+metabat1500.115_01201	gene	1794	arnT			
+metabat1500.115_01201	CDS	1794	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+metabat1500.115_01202	gene	471				
+metabat1500.115_01202	CDS	471		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+metabat1500.115_01203	gene	1917	lpxL_2			
+metabat1500.115_01203	CDS	1917	lpxL_2	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+metabat1500.115_01204	gene	1920				
+metabat1500.115_01204	CDS	1920				hypothetical protein
+metabat1500.115_01205	gene	1056				
+metabat1500.115_01205	CDS	1056				hypothetical protein
+metabat1500.115_01206	gene	1575				
+metabat1500.115_01206	CDS	1575				hypothetical protein
+metabat1500.115_01207	gene	2544	arnC_3			
+metabat1500.115_01207	CDS	2544	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+metabat1500.115_01208	gene	681	COQ5_3			
+metabat1500.115_01208	CDS	681	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+metabat1500.115_01209	gene	255				
+metabat1500.115_01209	CDS	255				hypothetical protein
+metabat1500.115_01210	gene	294				
+metabat1500.115_01210	CDS	294				hypothetical protein
+metabat1500.115_01211	gene	213				
+metabat1500.115_01211	CDS	213				hypothetical protein
+metabat1500.115_01212	gene	321				
+metabat1500.115_01212	CDS	321				hypothetical protein
+metabat1500.115_01213	gene	189				
+metabat1500.115_01213	CDS	189				hypothetical protein
+metabat1500.115_01214	gene	267				
+metabat1500.115_01214	CDS	267				hypothetical protein
+metabat1500.115_01215	gene	456				
+metabat1500.115_01215	CDS	456				hypothetical protein
+metabat1500.115_01216	gene	558				
+metabat1500.115_01216	CDS	558				hypothetical protein
+metabat1500.115_01217	gene	459				
+metabat1500.115_01217	CDS	459				hypothetical protein
+metabat1500.115_01218	gene	921				
+metabat1500.115_01218	CDS	921				hypothetical protein
+metabat1500.115_01219	gene	291				
+metabat1500.115_01219	CDS	291				hypothetical protein
+metabat1500.115_01220	gene	726				
+metabat1500.115_01220	CDS	726				hypothetical protein
+metabat1500.115_01221	gene	1272	hflX			
+metabat1500.115_01221	CDS	1272	hflX		COG2262	GTPase HflX
+metabat1500.115_01222	gene	960	miaA			
+metabat1500.115_01222	CDS	960	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+metabat1500.115_01223	gene	765	tpiA			
+metabat1500.115_01223	CDS	765	tpiA	5.3.1.1		Triosephosphate isomerase
+metabat1500.115_01224	gene	1407	patA_2			
+metabat1500.115_01224	CDS	1407	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+metabat1500.115_01225	gene	1137				
+metabat1500.115_01225	CDS	1137				hypothetical protein
+metabat1500.115_01226	gene	1212	pgk/tpi			
+metabat1500.115_01226	CDS	1212	pgk/tpi		COG0126	Bifunctional PGK/TIM
+metabat1500.115_01227	gene	186	gap1			
+metabat1500.115_01227	CDS	186	gap1	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 1
+metabat1500.115_01228	gene	3981				
+metabat1500.115_01228	CDS	3981				hypothetical protein
+metabat1500.115_01229	gene	117				
+metabat1500.115_01229	CDS	117				hypothetical protein
+metabat1500.115_01230	gene	1485	gndA_1			
+metabat1500.115_01230	CDS	1485	gndA_1	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+metabat1500.115_01231	gene	132				
+metabat1500.115_01231	CDS	132				hypothetical protein
+metabat1500.115_01232	gene	579	pgsA_1			
+metabat1500.115_01232	CDS	579	pgsA_1	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+metabat1500.115_01233	gene	252				
+metabat1500.115_01233	CDS	252				hypothetical protein
+metabat1500.115_01234	gene	231				
+metabat1500.115_01234	CDS	231				hypothetical protein
+metabat1500.115_01235	gene	381				
+metabat1500.115_01235	CDS	381				hypothetical protein
+metabat1500.115_01236	gene	615				
+metabat1500.115_01236	CDS	615				hypothetical protein
+metabat1500.115_01237	gene	495				
+metabat1500.115_01237	CDS	495				hypothetical protein
+metabat1500.115_01238	gene	387	rplT			
+metabat1500.115_01238	CDS	387	rplT			50S ribosomal protein L20
+metabat1500.115_01239	gene	2106				
+metabat1500.115_01239	CDS	2106				hypothetical protein
+metabat1500.115_01240	gene	1392	mpl			
+metabat1500.115_01240	CDS	1392	mpl	6.3.2.45	COG0773	UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase
+metabat1500.115_01241	gene	489				
+metabat1500.115_01241	CDS	489				hypothetical protein
+metabat1500.115_01242	gene	2433	sctC			
+metabat1500.115_01242	CDS	2433	sctC			Type 3 secretion system secretin
+metabat1500.115_01243	gene	411				
+metabat1500.115_01243	CDS	411				hypothetical protein
+metabat1500.115_01244	gene	1752	xpsE_1			
+metabat1500.115_01244	CDS	1752	xpsE_1		COG2804	Type II secretion system protein E
+metabat1500.115_01245	gene	648	rpe			
+metabat1500.115_01245	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+metabat1500.115_01246	gene	1038	mreB			
+metabat1500.115_01246	CDS	1038	mreB		COG1077	Cell shape-determining protein MreB
+metabat1500.115_01247	gene	168				
+metabat1500.115_01247	CDS	168				hypothetical protein
+metabat1500.115_01248	gene	804				
+metabat1500.115_01248	CDS	804				hypothetical protein
+metabat1500.115_01249	gene	543				
+metabat1500.115_01249	CDS	543				hypothetical protein
+metabat1500.115_01250	gene	2289	mrdA			
+metabat1500.115_01250	CDS	2289	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+metabat1500.115_01251	gene	1575	rng			
+metabat1500.115_01251	CDS	1575	rng	3.1.26.-	COG1530	Ribonuclease G
+metabat1500.115_01252	gene	702				
+metabat1500.115_01252	CDS	702				hypothetical protein
+metabat1500.115_01253	gene	1125	thiH			
+metabat1500.115_01253	CDS	1125	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+metabat1500.115_01254	gene	201				
+metabat1500.115_01254	CDS	201				hypothetical protein
+metabat1500.115_01255	gene	1419				
+metabat1500.115_01255	CDS	1419				hypothetical protein
+metabat1500.115_01256	gene	1857	dnaG			
+metabat1500.115_01256	CDS	1857	dnaG	2.7.7.-		DNA primase
+metabat1500.115_01257	gene	1611	sigA_2			
+metabat1500.115_01257	CDS	1611	sigA_2		COG0568	RNA polymerase sigma factor SigA
+metabat1500.115_01258	gene	354				
+metabat1500.115_01258	CDS	354				hypothetical protein
+metabat1500.115_01259	gene	363				
+metabat1500.115_01259	CDS	363				hypothetical protein
+metabat1500.115_01260	gene	240				
+metabat1500.115_01260	CDS	240				hypothetical protein
+metabat1500.115_01261	gene	1026	ribD			
+metabat1500.115_01261	CDS	1026	ribD		COG0117	Riboflavin biosynthesis protein RibD
+metabat1500.115_01262	gene	76				
+metabat1500.115_01262	tRNA	76				tRNA-Arg(tcg)
+metabat1500.115_01263	gene	75				
+metabat1500.115_01263	tRNA	75				tRNA-His(gtg)
+metabat1500.115_01264	gene	2133				
+metabat1500.115_01264	CDS	2133				hypothetical protein
+metabat1500.115_01265	gene	708				
+metabat1500.115_01265	CDS	708				hypothetical protein
+metabat1500.115_01266	gene	1332				
+metabat1500.115_01266	CDS	1332				hypothetical protein
+metabat1500.115_01267	gene	549				
+metabat1500.115_01267	CDS	549				hypothetical protein
+metabat1500.115_01268	gene	387				
+metabat1500.115_01268	CDS	387				hypothetical protein
+metabat1500.115_01269	gene	264	rpmB			
+metabat1500.115_01269	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+metabat1500.115_01270	gene	1038	iolG			
+metabat1500.115_01270	CDS	1038	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+metabat1500.115_01271	gene	597				
+metabat1500.115_01271	CDS	597				hypothetical protein
+metabat1500.115_01272	gene	255				
+metabat1500.115_01272	CDS	255				hypothetical protein
+metabat1500.115_01273	gene	855				
+metabat1500.115_01273	CDS	855		3.5.2.20	COG1878	Isatin hydrolase
+metabat1500.115_01274	gene	921	metF			
+metabat1500.115_01274	CDS	921	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+metabat1500.115_01275	gene	762				
+metabat1500.115_01275	CDS	762				hypothetical protein
+metabat1500.115_01276	gene	1872	mnmG			
+metabat1500.115_01276	CDS	1872	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+metabat1500.115_01277	gene	627	plsY			
+metabat1500.115_01277	CDS	627	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+metabat1500.115_01278	gene	1002	gpsA			
+metabat1500.115_01278	CDS	1002	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+metabat1500.115_01279	gene	597	purN			
+metabat1500.115_01279	CDS	597	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+metabat1500.115_01280	gene	486	hldE_3			
+metabat1500.115_01280	CDS	486	hldE_3		COG2870	Bifunctional protein HldE
+metabat1500.115_01281	gene	819				
+metabat1500.115_01281	CDS	819				hypothetical protein
+metabat1500.115_01282	gene	1698	yhdG_2			
+metabat1500.115_01282	CDS	1698	yhdG_2		COG0531	putative amino acid permease YhdG
+metabat1500.115_01283	gene	1509	steT_2			
+metabat1500.115_01283	CDS	1509	steT_2		COG0531	Serine/threonine exchanger SteT
+metabat1500.115_01284	gene	936				
+metabat1500.115_01284	CDS	936				hypothetical protein
+metabat1500.115_01285	gene	948	cugP_2			
+metabat1500.115_01285	CDS	948	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+metabat1500.115_01286	gene	1044	amgK			
+metabat1500.115_01286	CDS	1044	amgK	2.7.1.221	COG3178	N-acetylmuramate/N-acetylglucosamine kinase
+metabat1500.115_01287	gene	618	gloB_1			
+metabat1500.115_01287	CDS	618	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+metabat1500.115_01288	gene	2283	prc			
+metabat1500.115_01288	CDS	2283	prc	3.4.21.102	COG0793	Tail-specific protease
+metabat1500.115_01289	gene	612				
+metabat1500.115_01289	CDS	612				hypothetical protein
+metabat1500.115_01290	gene	804	thyA2			
+metabat1500.115_01290	CDS	804	thyA2	2.1.1.45	COG0207	Thymidylate synthase 2
+metabat1500.115_01291	gene	318				
+metabat1500.115_01291	CDS	318				hypothetical protein
+metabat1500.115_01292	gene	2022	rcsC_3			
+metabat1500.115_01292	CDS	2022	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+metabat1500.115_01293	gene	420				
+metabat1500.115_01293	CDS	420				hypothetical protein
+metabat1500.115_01294	gene	936	alx			
+metabat1500.115_01294	CDS	936	alx		COG0861	Putative membrane-bound redox modulator Alx
+metabat1500.115_01295	gene	1896	greA			
+metabat1500.115_01295	CDS	1896	greA			Transcription elongation factor GreA
+metabat1500.115_01296	gene	159				
+metabat1500.115_01296	CDS	159				hypothetical protein
+metabat1500.115_01297	gene	159				
+metabat1500.115_01297	CDS	159				hypothetical protein
+metabat1500.115_01298	gene	372				
+metabat1500.115_01298	CDS	372				hypothetical protein
+metabat1500.115_01299	gene	252				
+metabat1500.115_01299	CDS	252				hypothetical protein
+metabat1500.115_01300	gene	645	sodA2			
+metabat1500.115_01300	CDS	645	sodA2	1.15.1.1		Superoxide dismutase [Mn] 2
+metabat1500.115_01301	gene	327				
+metabat1500.115_01301	CDS	327				hypothetical protein
+metabat1500.115_01302	gene	720	walR			
+metabat1500.115_01302	CDS	720	walR		COG0745	Transcriptional regulatory protein WalR
+metabat1500.115_01303	gene	1251	sasA_3			
+metabat1500.115_01303	CDS	1251	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+metabat1500.115_01304	gene	312				
+metabat1500.115_01304	CDS	312				hypothetical protein
+metabat1500.115_01305	gene	1185				
+metabat1500.115_01305	CDS	1185				hypothetical protein
+metabat1500.115_01306	gene	333				
+metabat1500.115_01306	CDS	333				hypothetical protein
+metabat1500.115_01307	gene	462				
+metabat1500.115_01307	CDS	462				hypothetical protein
+metabat1500.115_01308	gene	750				
+metabat1500.115_01308	CDS	750				hypothetical protein
+metabat1500.115_01309	gene	1218	ribBA			
+metabat1500.115_01309	CDS	1218	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+metabat1500.115_01310	gene	1182	mdtG			
+metabat1500.115_01310	CDS	1182	mdtG			Multidrug resistance protein MdtG
+metabat1500.115_01311	gene	408				
+metabat1500.115_01311	CDS	408				hypothetical protein
+metabat1500.115_01312	gene	399				
+metabat1500.115_01312	CDS	399				hypothetical protein
+metabat1500.115_01313	gene	228				
+metabat1500.115_01313	CDS	228				hypothetical protein
+metabat1500.115_01314	gene	285				
+metabat1500.115_01314	CDS	285				hypothetical protein
+metabat1500.115_01315	gene	1092	prfB			
+metabat1500.115_01315	CDS	1092	prfB			Peptide chain release factor 2
+metabat1500.115_01316	gene	1698				
+metabat1500.115_01316	CDS	1698				hypothetical protein
+metabat1500.115_01317	gene	309				
+metabat1500.115_01317	CDS	309				hypothetical protein
+metabat1500.115_01318	gene	97				
+metabat1500.115_01318	tRNA	97				tRNA-SeC(tca)
+metabat1500.115_01319	gene	936	selD			
+metabat1500.115_01319	CDS	936	selD	2.7.9.3	COG0709	Selenide, water dikinase
+metabat1500.115_01320	gene	1407	selA			
+metabat1500.115_01320	CDS	1407	selA	2.9.1.1	COG1921	L-seryl-tRNA(Sec) selenium transferase
+metabat1500.115_01321	gene	1971	selB			
+metabat1500.115_01321	CDS	1971	selB		COG3276	Selenocysteine-specific elongation factor
+metabat1500.115_01322	gene	3036				
+metabat1500.115_01322	CDS	3036				hypothetical protein
+metabat1500.115_01323	gene	3174	recB			
+metabat1500.115_01323	CDS	3174	recB	3.1.11.5		RecBCD enzyme subunit RecB
+metabat1500.115_01324	gene	1104	ino1			
+metabat1500.115_01324	CDS	1104	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+metabat1500.115_01325	gene	1401				
+metabat1500.115_01325	CDS	1401				hypothetical protein
+metabat1500.115_01326	gene	1455				
+metabat1500.115_01326	CDS	1455				hypothetical protein
+metabat1500.115_01327	gene	1260	macA_3			
+metabat1500.115_01327	CDS	1260	macA_3		COG0845	Macrolide export protein MacA
+metabat1500.115_01328	gene	1236	lolC			
+metabat1500.115_01328	CDS	1236	lolC		COG4591	Lipoprotein-releasing system transmembrane protein LolC
+metabat1500.115_01329	gene	696	lolD_2			
+metabat1500.115_01329	CDS	696	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+metabat1500.115_01330	gene	1224	mshA_7			
+metabat1500.115_01330	CDS	1224	mshA_7	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+metabat1500.115_01331	gene	1293				
+metabat1500.115_01331	CDS	1293				hypothetical protein
+metabat1500.115_01332	gene	1677				
+metabat1500.115_01332	CDS	1677				hypothetical protein
+metabat1500.115_01333	gene	1485				
+metabat1500.115_01333	CDS	1485				hypothetical protein
+metabat1500.115_01334	gene	801				
+metabat1500.115_01334	CDS	801				hypothetical protein
+metabat1500.115_01335	gene	738				
+metabat1500.115_01335	CDS	738			COG1213	Bifunctional IPC transferase and DIPP synthase
+metabat1500.115_01336	gene	969	pqqE			
+metabat1500.115_01336	CDS	969	pqqE	1.21.98.4		PqqA peptide cyclase
+metabat1500.115_01337	gene	1308				
+metabat1500.115_01337	CDS	1308				hypothetical protein
+metabat1500.115_01338	gene	360				
+metabat1500.115_01338	CDS	360				hypothetical protein
+metabat1500.115_01339	gene	1182	yghO			
+metabat1500.115_01339	CDS	1182	yghO			Protein YghO
+metabat1500.115_01340	gene	966				
+metabat1500.115_01340	CDS	966				hypothetical protein
+metabat1500.115_01341	gene	1251				
+metabat1500.115_01341	CDS	1251		2.3.1.-		Putative pyridoxal phosphate-dependent acyltransferase
+metabat1500.115_01342	gene	615				
+metabat1500.115_01342	CDS	615				hypothetical protein
+metabat1500.115_01343	gene	1038				
+metabat1500.115_01343	CDS	1038				hypothetical protein
+metabat1500.115_01344	gene	1299				
+metabat1500.115_01344	CDS	1299				hypothetical protein
+metabat1500.115_01345	gene	74				
+metabat1500.115_01345	tRNA	74				tRNA-Glu(ttc)
+metabat1500.115_01346	gene	1296	waaA			
+metabat1500.115_01346	CDS	1296	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+metabat1500.115_01347	gene	576	rsmD			
+metabat1500.115_01347	CDS	576	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+metabat1500.115_01348	gene	1581				
+metabat1500.115_01348	CDS	1581				hypothetical protein
+metabat1500.115_01349	gene	885	dagK			
+metabat1500.115_01349	CDS	885	dagK	2.7.1.107		Diacylglycerol kinase
+metabat1500.115_01350	gene	2742	glnE			
+metabat1500.115_01350	CDS	2742	glnE		COG1391	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+metabat1500.115_01351	gene	1386	rho			
+metabat1500.115_01351	CDS	1386	rho	3.6.4.-		Transcription termination factor Rho
+metabat1500.115_01352	gene	576				
+metabat1500.115_01352	CDS	576			COG0217	putative transcriptional regulatory protein
+metabat1500.115_01353	gene	1236				
+metabat1500.115_01353	CDS	1236				hypothetical protein
+metabat1500.115_01354	gene	1011				
+metabat1500.115_01354	CDS	1011				hypothetical protein
+metabat1500.115_01355	gene	1740				
+metabat1500.115_01355	CDS	1740				hypothetical protein
+metabat1500.115_01356	gene	270				
+metabat1500.115_01356	CDS	270				hypothetical protein
+metabat1500.115_01357	gene	3021	rocA			
+metabat1500.115_01357	CDS	3021	rocA	1.2.1.88		1-pyrroline-5-carboxylate dehydrogenase
+metabat1500.115_01358	gene	108				
+metabat1500.115_01358	CDS	108				hypothetical protein
+metabat1500.115_01359	gene	108				
+metabat1500.115_01359	CDS	108				hypothetical protein
+metabat1500.115_01360	gene	1041	ltaE			
+metabat1500.115_01360	CDS	1041	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+metabat1500.115_01361	gene	525				
+metabat1500.115_01361	CDS	525				hypothetical protein
+metabat1500.115_01362	gene	2220				
+metabat1500.115_01362	CDS	2220				hypothetical protein
+metabat1500.115_01363	gene	897	glxR			
+metabat1500.115_01363	CDS	897	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+metabat1500.115_01364	gene	819	gloB_2			
+metabat1500.115_01364	CDS	819	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+metabat1500.115_01365	gene	675	lipB			
+metabat1500.115_01365	CDS	675	lipB	2.3.1.181	COG0321	Octanoyltransferase
+metabat1500.115_01366	gene	504	ruvC			
+metabat1500.115_01366	CDS	504	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+metabat1500.115_01367	gene	726				
+metabat1500.115_01367	CDS	726				hypothetical protein
+metabat1500.115_01368	gene	495				
+metabat1500.115_01368	CDS	495				hypothetical protein
+metabat1500.115_01369	gene	282				
+metabat1500.115_01369	CDS	282				hypothetical protein
+metabat1500.115_01370	gene	402	kdsD			
+metabat1500.115_01370	CDS	402	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+metabat1500.115_01371	gene	558	efp			
+metabat1500.115_01371	CDS	558	efp		COG0231	Elongation factor P
+metabat1500.115_01372	gene	264				
+metabat1500.115_01372	CDS	264				hypothetical protein
+metabat1500.115_01373	gene	444				
+metabat1500.115_01373	CDS	444				hypothetical protein
+metabat1500.115_01374	gene	522				
+metabat1500.115_01374	CDS	522				hypothetical protein
+metabat1500.115_01375	gene	612	algU			
+metabat1500.115_01375	CDS	612	algU		COG1595	RNA polymerase sigma-H factor
+metabat1500.115_01376	gene	672				
+metabat1500.115_01376	CDS	672				hypothetical protein
+metabat1500.115_01377	gene	819				
+metabat1500.115_01377	CDS	819				hypothetical protein
+metabat1500.115_01378	gene	288				
+metabat1500.115_01378	CDS	288				hypothetical protein
+metabat1500.115_01379	gene	927				
+metabat1500.115_01379	CDS	927				hypothetical protein
+metabat1500.115_01380	gene	978				
+metabat1500.115_01380	CDS	978				hypothetical protein
+metabat1500.115_01381	gene	966	prs_2			
+metabat1500.115_01381	CDS	966	prs_2	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+metabat1500.115_01382	gene	699				
+metabat1500.115_01382	CDS	699				hypothetical protein
+metabat1500.115_01383	gene	612	pth			
+metabat1500.115_01383	CDS	612	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+metabat1500.115_01384	gene	327				
+metabat1500.115_01384	CDS	327				hypothetical protein
+metabat1500.115_01385	gene	444				
+metabat1500.115_01385	CDS	444				Single-stranded DNA-binding protein
+metabat1500.115_01386	gene	1101				
+metabat1500.115_01386	CDS	1101				hypothetical protein
+metabat1500.115_01387	gene	243				
+metabat1500.115_01387	CDS	243				hypothetical protein
+metabat1500.115_01388	gene	576				
+metabat1500.115_01388	CDS	576				hypothetical protein
+metabat1500.115_01389	gene	222				
+metabat1500.115_01389	CDS	222				hypothetical protein
+metabat1500.115_01390	gene	186				
+metabat1500.115_01390	CDS	186				hypothetical protein
+metabat1500.115_01391	gene	276				
+metabat1500.115_01391	CDS	276				hypothetical protein
+metabat1500.115_01392	gene	1056				
+metabat1500.115_01392	CDS	1056				hypothetical protein
+metabat1500.115_01393	gene	2787				
+metabat1500.115_01393	CDS	2787				hypothetical protein
+metabat1500.115_01394	gene	177	fabI_1			
+metabat1500.115_01394	CDS	177	fabI_1	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+metabat1500.115_01395	gene	537	fabI_2			
+metabat1500.115_01395	CDS	537	fabI_2	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+metabat1500.115_01396	gene	309				
+metabat1500.115_01396	CDS	309				hypothetical protein
+metabat1500.115_01397	gene	240				
+metabat1500.115_01397	CDS	240				hypothetical protein
+metabat1500.115_01398	gene	516	yrdA			
+metabat1500.115_01398	CDS	516	yrdA		COG0663	Protein YrdA
+metabat1500.115_01399	gene	1074	macA_4			
+metabat1500.115_01399	CDS	1074	macA_4		COG0845	Macrolide export protein MacA
+metabat1500.115_01400	gene	321				
+metabat1500.115_01400	CDS	321				hypothetical protein
+metabat1500.115_01401	gene	2712	pknD_3			
+metabat1500.115_01401	CDS	2712	pknD_3	2.7.11.1		Serine/threonine-protein kinase PknD
+metabat1500.115_01402	gene	825				
+metabat1500.115_01402	CDS	825				hypothetical protein
+metabat1500.115_01403	gene	234				
+metabat1500.115_01403	CDS	234				hypothetical protein
+metabat1500.115_01404	gene	333				
+metabat1500.115_01404	CDS	333				hypothetical protein
+metabat1500.115_01405	gene	240				
+metabat1500.115_01405	CDS	240				hypothetical protein
+metabat1500.115_01406	gene	228				
+metabat1500.115_01406	CDS	228				hypothetical protein
+metabat1500.115_01407	gene	855	ymdB_3			
+metabat1500.115_01407	CDS	855	ymdB_3	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+metabat1500.115_01408	gene	1368				
+metabat1500.115_01408	CDS	1368				hypothetical protein
+metabat1500.115_01409	gene	486	aroB			
+metabat1500.115_01409	CDS	486	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+metabat1500.115_01410	gene	1578	glgE2			
+metabat1500.115_01410	CDS	1578	glgE2	2.4.99.16	COG0366	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase 2
+metabat1500.115_01411	gene	261				
+metabat1500.115_01411	CDS	261				hypothetical protein
+metabat1500.115_01412	gene	780				
+metabat1500.115_01412	CDS	780				hypothetical protein
+metabat1500.115_01413	gene	579				
+metabat1500.115_01413	CDS	579				hypothetical protein
+metabat1500.115_01414	gene	795				
+metabat1500.115_01414	CDS	795				hypothetical protein
+metabat1500.115_01415	gene	88				
+metabat1500.115_01415	tRNA	88				tRNA-Leu(caa)
+metabat1500.115_01416	gene	993				
+metabat1500.115_01416	CDS	993				hypothetical protein
+metabat1500.115_01417	gene	525	yciF			
+metabat1500.115_01417	CDS	525	yciF		COG3685	Protein YciF
+metabat1500.115_01418	gene	1104	glgM			
+metabat1500.115_01418	CDS	1104	glgM	2.4.1.342	COG0438	Alpha-maltose-1-phosphate synthase
+metabat1500.115_01419	gene	204				
+metabat1500.115_01419	CDS	204				hypothetical protein
+metabat1500.115_01420	gene	486				
+metabat1500.115_01420	CDS	486				hypothetical protein
+metabat1500.115_01421	gene	297	cysO			
+metabat1500.115_01421	CDS	297	cysO		COG1977	Sulfur carrier protein CysO
+metabat1500.115_01422	gene	303	ppa			
+metabat1500.115_01422	CDS	303	ppa	3.6.1.1		Inorganic pyrophosphatase
+metabat1500.115_01423	gene	1179	adh			
+metabat1500.115_01423	CDS	1179	adh	1.1.1.1	COG1063	Alcohol dehydrogenase
+metabat1500.115_01424	gene	213				
+metabat1500.115_01424	CDS	213				hypothetical protein
+metabat1500.115_01425	gene	549				
+metabat1500.115_01425	CDS	549				hypothetical protein
+metabat1500.115_01426	gene	192				
+metabat1500.115_01426	CDS	192				hypothetical protein
+metabat1500.115_01427	gene	1101				
+metabat1500.115_01427	CDS	1101				hypothetical protein
+metabat1500.115_01428	gene	486				
+metabat1500.115_01428	CDS	486				hypothetical protein
+metabat1500.115_01429	gene	453				
+metabat1500.115_01429	CDS	453				hypothetical protein
+metabat1500.115_01430	gene	399				
+metabat1500.115_01430	CDS	399				hypothetical protein
+metabat1500.115_01431	gene	948	pimB			
+metabat1500.115_01431	CDS	948	pimB	2.4.1.346	COG0438	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+metabat1500.115_01432	gene	648				
+metabat1500.115_01432	CDS	648		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+metabat1500.115_01433	gene	1026	btuD_3			
+metabat1500.115_01433	CDS	1026	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+metabat1500.115_01434	gene	723	yeeZ			
+metabat1500.115_01434	CDS	723	yeeZ		COG0451	Protein YeeZ
+metabat1500.115_01435	gene	678				
+metabat1500.115_01435	CDS	678				hypothetical protein
+metabat1500.115_01436	gene	1623				
+metabat1500.115_01436	CDS	1623				hypothetical protein
+metabat1500.115_01437	gene	387				
+metabat1500.115_01437	CDS	387				hypothetical protein
+metabat1500.115_01438	gene	1074	moeA			
+metabat1500.115_01438	CDS	1074	moeA	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase
+metabat1500.115_01439	gene	192				
+metabat1500.115_01439	CDS	192				hypothetical protein
+metabat1500.115_01440	gene	639	birA			
+metabat1500.115_01440	CDS	639	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+metabat1500.115_01441	gene	849	nadC			
+metabat1500.115_01441	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+metabat1500.115_01442	gene	912	polA			
+metabat1500.115_01442	CDS	912	polA	2.7.7.7		DNA polymerase I, thermostable
+metabat1500.115_01443	gene	1149				
+metabat1500.115_01443	CDS	1149				hypothetical protein
+metabat1500.115_01444	gene	672				
+metabat1500.115_01444	CDS	672				hypothetical protein
+metabat1500.115_01445	gene	165				
+metabat1500.115_01445	CDS	165				hypothetical protein
+metabat1500.115_01446	gene	462				
+metabat1500.115_01446	CDS	462				hypothetical protein
+metabat1500.115_01447	gene	372	hspA			
+metabat1500.115_01447	CDS	372	hspA		COG0071	Spore protein SP21
+metabat1500.115_01448	gene	1143	recA			
+metabat1500.115_01448	CDS	1143	recA		COG0468	Protein RecA
+metabat1500.115_01449	gene	471				
+metabat1500.115_01449	CDS	471				hypothetical protein
+metabat1500.115_01450	gene	375	petE			
+metabat1500.115_01450	CDS	375	petE			Plastocyanin
+metabat1500.115_01451	gene	999	cpdA_3			
+metabat1500.115_01451	CDS	999	cpdA_3	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+metabat1500.115_01452	gene	525	sigE			
+metabat1500.115_01452	CDS	525	sigE		COG1595	ECF RNA polymerase sigma factor SigE
+metabat1500.115_01453	gene	768				
+metabat1500.115_01453	CDS	768				hypothetical protein
+metabat1500.115_01454	gene	282				
+metabat1500.115_01454	CDS	282				hypothetical protein
+metabat1500.115_01455	gene	294				
+metabat1500.115_01455	CDS	294				hypothetical protein
+metabat1500.115_01456	gene	156				
+metabat1500.115_01456	CDS	156				hypothetical protein
+metabat1500.115_01457	gene	153				
+metabat1500.115_01457	CDS	153				hypothetical protein
+metabat1500.115_01458	gene	522	tesA			
+metabat1500.115_01458	CDS	522	tesA	3.1.1.1	COG2755	Esterase TesA
+metabat1500.115_01459	gene	291				
+metabat1500.115_01459	CDS	291				hypothetical protein
+metabat1500.115_01460	gene	894	aguA			
+metabat1500.115_01460	CDS	894	aguA	3.5.3.12	COG2957	Putative agmatine deiminase
+metabat1500.115_01461	gene	1611	pknD_4			
+metabat1500.115_01461	CDS	1611	pknD_4	2.7.11.1		Serine/threonine-protein kinase PknD
+metabat1500.115_01462	gene	192				
+metabat1500.115_01462	CDS	192				hypothetical protein
+metabat1500.115_01463	gene	657	gph_3			
+metabat1500.115_01463	CDS	657	gph_3	3.1.3.18		Phosphoglycolate phosphatase
+metabat1500.115_01464	gene	435				
+metabat1500.115_01464	CDS	435				hypothetical protein
+metabat1500.115_01465	gene	495	moaC			
+metabat1500.115_01465	CDS	495	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+metabat1500.115_01466	gene	897	moaA			
+metabat1500.115_01466	CDS	897	moaA	4.1.99.22		GTP 3',8-cyclase
+metabat1500.115_01467	gene	450				
+metabat1500.115_01467	CDS	450				hypothetical protein
+metabat1500.115_01468	gene	525				
+metabat1500.115_01468	CDS	525				hypothetical protein
+metabat1500.115_01469	gene	417				
+metabat1500.115_01469	CDS	417				hypothetical protein
+metabat1500.115_01470	gene	492				
+metabat1500.115_01470	CDS	492				hypothetical protein
+metabat1500.115_01471	gene	363				
+metabat1500.115_01471	CDS	363				hypothetical protein
+metabat1500.115_01472	gene	894				
+metabat1500.115_01472	CDS	894				hypothetical protein
+metabat1500.115_01473	gene	426	ypeA			
+metabat1500.115_01473	CDS	426	ypeA	2.3.1.-	COG0456	Acetyltransferase YpeA
+metabat1500.115_01474	gene	1107	mtnA			
+metabat1500.115_01474	CDS	1107	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+metabat1500.115_01475	gene	618				
+metabat1500.115_01475	CDS	618				hypothetical protein
+metabat1500.115_01476	gene	990	pdxI			
+metabat1500.115_01476	CDS	990	pdxI	1.1.1.65		Pyridoxine 4-dehydrogenase
+metabat1500.115_01477	gene	483				
+metabat1500.115_01477	CDS	483				hypothetical protein
+metabat1500.115_01478	gene	399				
+metabat1500.115_01478	CDS	399				hypothetical protein
+metabat1500.115_01479	gene	873				
+metabat1500.115_01479	CDS	873				Inward rectifier potassium channel Kirbac3.1
+metabat1500.115_01480	gene	612				
+metabat1500.115_01480	CDS	612				hypothetical protein
+metabat1500.115_01481	gene	1293				
+metabat1500.115_01481	CDS	1293				hypothetical protein
+metabat1500.115_01482	gene	1461				
+metabat1500.115_01482	CDS	1461				hypothetical protein
+metabat1500.115_01483	gene	771				
+metabat1500.115_01483	CDS	771				hypothetical protein
+metabat1500.115_01484	gene	393	hypA			
+metabat1500.115_01484	CDS	393	hypA			Hydrogenase maturation factor HypA
+metabat1500.115_01485	gene	678	hypB			
+metabat1500.115_01485	CDS	678	hypB		COG0378	Hydrogenase maturation factor HypB
+metabat1500.115_01486	gene	1818				
+metabat1500.115_01486	CDS	1818		1.12.99.6	COG0374	Periplasmic [NiFeSe] hydrogenase large subunit
+metabat1500.115_01487	gene	1062				
+metabat1500.115_01487	CDS	1062		1.12.99.6	COG1740	Periplasmic [NiFeSe] hydrogenase small subunit
+metabat1500.115_01488	gene	201				
+metabat1500.115_01488	CDS	201				hypothetical protein
+metabat1500.115_01489	gene	546				
+metabat1500.115_01489	CDS	546				hypothetical protein
+metabat1500.115_01490	gene	375				
+metabat1500.115_01490	CDS	375				hypothetical protein
+metabat1500.115_01491	gene	1221				
+metabat1500.115_01491	CDS	1221				hypothetical protein
+metabat1500.115_01492	gene	648				
+metabat1500.115_01492	CDS	648				hypothetical protein
+metabat1500.115_01493	gene	462				
+metabat1500.115_01493	CDS	462				hypothetical protein
+metabat1500.115_01494	gene	183				
+metabat1500.115_01494	CDS	183				hypothetical protein
+metabat1500.115_01495	gene	1419	glmM			
+metabat1500.115_01495	CDS	1419	glmM			Phosphoglucosamine mutase
+metabat1500.115_01496	gene	642				
+metabat1500.115_01496	CDS	642				hypothetical protein
+metabat1500.115_01497	gene	534				
+metabat1500.115_01497	CDS	534		2.3.1.-	COG1670	Acetyltransferase
+metabat1500.115_01498	gene	825	parA			
+metabat1500.115_01498	CDS	825	parA			Chromosome partitioning protein ParA
+metabat1500.115_01499	gene	840				
+metabat1500.115_01499	CDS	840		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+metabat1500.115_01500	gene	1014	lpxD			
+metabat1500.115_01500	CDS	1014	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+metabat1500.115_01501	gene	411				
+metabat1500.115_01501	CDS	411				hypothetical protein
+metabat1500.115_01502	gene	858				
+metabat1500.115_01502	CDS	858				hypothetical protein
+metabat1500.115_01503	gene	210				
+metabat1500.115_01503	CDS	210				hypothetical protein
+metabat1500.115_01504	gene	1341	glgC			
+metabat1500.115_01504	CDS	1341	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+metabat1500.115_01505	gene	2013	glmS			
+metabat1500.115_01505	CDS	2013	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+metabat1500.115_01506	gene	1704				
+metabat1500.115_01506	CDS	1704				hypothetical protein
+metabat1500.115_01507	gene	1686	xpsE_2			
+metabat1500.115_01507	CDS	1686	xpsE_2		COG2804	Type II secretion system protein E
+metabat1500.115_01508	gene	1290	epsF_2			
+metabat1500.115_01508	CDS	1290	epsF_2		COG1459	Type II secretion system protein F
+metabat1500.115_01509	gene	699				
+metabat1500.115_01509	CDS	699				hypothetical protein
+metabat1500.115_01510	gene	345	yiaD			
+metabat1500.115_01510	CDS	345	yiaD		COG2885	putative lipoprotein YiaD
+metabat1500.115_01511	gene	996				
+metabat1500.115_01511	CDS	996				hypothetical protein
+metabat1500.115_01512	gene	606	metXA_2			
+metabat1500.115_01512	CDS	606	metXA_2	2.3.1.31	COG2021	Homoserine O-acetyltransferase
+metabat1500.115_01513	gene	1590	pepN			
+metabat1500.115_01513	CDS	1590	pepN	3.4.11.2		Aminopeptidase N
+metabat1500.115_01514	gene	480				
+metabat1500.115_01514	CDS	480				hypothetical protein
+metabat1500.115_01515	gene	864	gabR			
+metabat1500.115_01515	CDS	864	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+metabat1500.115_01516	gene	1056				
+metabat1500.115_01516	CDS	1056		1.8.3.7	COG1262	Formylglycine-generating enzyme
+metabat1500.115_01517	gene	675	aqpZ_1			
+metabat1500.115_01517	CDS	675	aqpZ_1			Aquaporin Z
+metabat1500.115_01518	gene	261				
+metabat1500.115_01518	CDS	261				hypothetical protein
+metabat1500.115_01519	gene	864				
+metabat1500.115_01519	CDS	864				hypothetical protein
+metabat1500.115_01520	gene	699	menH			
+metabat1500.115_01520	CDS	699	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+metabat1500.115_01521	gene	201	cysD			
+metabat1500.115_01521	CDS	201	cysD	2.7.7.4	COG0175	Sulfate adenylyltransferase subunit 2
+metabat1500.115_01522	gene	1920	cysNC			
+metabat1500.115_01522	CDS	1920	cysNC		COG0529	Bifunctional enzyme CysN/CysC
+metabat1500.115_01523	gene	438	phnO			
+metabat1500.115_01523	CDS	438	phnO	2.3.1.280		Aminoalkylphosphonate N-acetyltransferase
+metabat1500.115_01524	gene	1020	gabD1			
+metabat1500.115_01524	CDS	1020	gabD1	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)] 1
+metabat1500.115_01525	gene	453				
+metabat1500.115_01525	CDS	453				hypothetical protein
+metabat1500.115_01526	gene	396				
+metabat1500.115_01526	CDS	396				hypothetical protein
+metabat1500.115_01527	gene	1131	mshA_8			
+metabat1500.115_01527	CDS	1131	mshA_8	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+metabat1500.115_01528	gene	378				
+metabat1500.115_01528	CDS	378				hypothetical protein
+metabat1500.115_01529	gene	945				
+metabat1500.115_01529	CDS	945				hypothetical protein
+metabat1500.115_01530	gene	378				
+metabat1500.115_01530	CDS	378				hypothetical protein
+metabat1500.115_01531	gene	546				
+metabat1500.115_01531	CDS	546				hypothetical protein
+metabat1500.115_01532	gene	207				
+metabat1500.115_01532	CDS	207				hypothetical protein
+metabat1500.115_01533	gene	756	fabG2			
+metabat1500.115_01533	CDS	756	fabG2	1.-.-.-		putative oxidoreductase
+metabat1500.115_01534	gene	1221	icmF			
+metabat1500.115_01534	CDS	1221	icmF		COG1703	Fused isobutyryl-CoA mutase
+metabat1500.115_01535	gene	369				
+metabat1500.115_01535	CDS	369				hypothetical protein
+metabat1500.115_01536	gene	522				
+metabat1500.115_01536	CDS	522				hypothetical protein
+metabat1500.115_01537	gene	1281	clpX			
+metabat1500.115_01537	CDS	1281	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+metabat1500.115_01538	gene	702	clpP			
+metabat1500.115_01538	CDS	702	clpP	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+metabat1500.115_01539	gene	1032	tig			
+metabat1500.115_01539	CDS	1032	tig	5.2.1.8		Trigger factor
+metabat1500.115_01540	gene	546				
+metabat1500.115_01540	CDS	546				hypothetical protein
+metabat1500.115_01541	gene	2685				
+metabat1500.115_01541	CDS	2685				hypothetical protein
+metabat1500.115_01542	gene	1857				
+metabat1500.115_01542	CDS	1857				hypothetical protein
+metabat1500.115_01543	gene	147				
+metabat1500.115_01543	CDS	147				hypothetical protein
+metabat1500.115_01544	gene	531				
+metabat1500.115_01544	CDS	531				hypothetical protein
+metabat1500.115_01545	gene	153				
+metabat1500.115_01545	CDS	153				hypothetical protein
+metabat1500.115_01546	gene	336				
+metabat1500.115_01546	CDS	336				hypothetical protein
+metabat1500.115_01547	gene	861				
+metabat1500.115_01547	CDS	861				hypothetical protein
+metabat1500.115_01548	gene	723	scpA			
+metabat1500.115_01548	CDS	723	scpA		COG1354	Segregation and condensation protein A
+metabat1500.115_01549	gene	1113	mrdB			
+metabat1500.115_01549	CDS	1113	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+metabat1500.115_01550	gene	558				
+metabat1500.115_01550	CDS	558				hypothetical protein
+metabat1500.115_01551	gene	876	dacA			
+metabat1500.115_01551	CDS	876	dacA	2.7.7.85		Diadenylate cyclase
+metabat1500.115_01552	gene	852	folP			
+metabat1500.115_01552	CDS	852	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+metabat1500.115_01553	gene	519				
+metabat1500.115_01553	CDS	519				hypothetical protein
+metabat1500.115_01554	gene	366				
+metabat1500.115_01554	CDS	366				hypothetical protein
+metabat1500.115_01555	gene	195				
+metabat1500.115_01555	CDS	195				hypothetical protein
+metabat1500.115_01556	gene	162				
+metabat1500.115_01556	CDS	162				hypothetical protein
+metabat1500.115_01557	gene	951	rfaQ_2			
+metabat1500.115_01557	CDS	951	rfaQ_2	2.-.-.-	COG0859	Lipopolysaccharide core heptosyltransferase RfaQ
+metabat1500.115_01558	gene	813				
+metabat1500.115_01558	CDS	813				hypothetical protein
+metabat1500.115_01559	gene	513				
+metabat1500.115_01559	CDS	513				hypothetical protein
+metabat1500.115_01560	gene	297				
+metabat1500.115_01560	CDS	297				hypothetical protein
+metabat1500.115_01561	gene	504				
+metabat1500.115_01561	CDS	504				hypothetical protein
+metabat1500.115_01562	gene	693	trmD			
+metabat1500.115_01562	CDS	693	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+metabat1500.115_01563	gene	1248	fabF_2			
+metabat1500.115_01563	CDS	1248	fabF_2	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+metabat1500.115_01564	gene	456				
+metabat1500.115_01564	CDS	456				hypothetical protein
+metabat1500.115_01565	gene	192				
+metabat1500.115_01565	CDS	192				hypothetical protein
+metabat1500.115_01566	gene	1173				
+metabat1500.115_01566	CDS	1173				hypothetical protein
+metabat1500.115_01567	gene	564				
+metabat1500.115_01567	CDS	564				hypothetical protein
+metabat1500.115_01568	gene	522				
+metabat1500.115_01568	CDS	522				hypothetical protein
+metabat1500.115_01569	gene	1176				
+metabat1500.115_01569	CDS	1176				hypothetical protein
+metabat1500.115_01570	gene	612				
+metabat1500.115_01570	CDS	612				hypothetical protein
+metabat1500.115_01571	gene	468				
+metabat1500.115_01571	CDS	468				hypothetical protein
+metabat1500.115_01572	gene	1377				
+metabat1500.115_01572	CDS	1377		3.1.-.-	COG1236	Ribonuclease
+metabat1500.115_01573	gene	765	xthA			
+metabat1500.115_01573	CDS	765	xthA	3.1.11.2	COG0708	Exodeoxyribonuclease III
+metabat1500.115_01574	gene	1911				
+metabat1500.115_01574	CDS	1911				hypothetical protein
+metabat1500.115_01575	gene	219	infA_2			
+metabat1500.115_01575	CDS	219	infA_2		COG0361	Translation initiation factor IF-1
+metabat1500.115_01576	gene	324				
+metabat1500.115_01576	CDS	324				hypothetical protein
+metabat1500.115_01577	gene	432				
+metabat1500.115_01577	CDS	432				hypothetical protein
+metabat1500.115_01578	gene	393				
+metabat1500.115_01578	CDS	393				hypothetical protein
+metabat1500.115_01579	gene	1104	pilT_1			
+metabat1500.115_01579	CDS	1104	pilT_1		COG2805	Twitching mobility protein
+metabat1500.115_01580	gene	1167	pilT_2			
+metabat1500.115_01580	CDS	1167	pilT_2		COG2805	Twitching mobility protein
+metabat1500.115_01581	gene	1029	adhA			
+metabat1500.115_01581	CDS	1029	adhA	1.1.1.1	COG1064	putative alcohol dehydrogenase AdhA
+metabat1500.115_01582	gene	2724	mdtB			
+metabat1500.115_01582	CDS	2724	mdtB		COG0841	Multidrug resistance protein MdtB
+metabat1500.115_01583	gene	849				
+metabat1500.115_01583	CDS	849				hypothetical protein
+metabat1500.115_01584	gene	156				
+metabat1500.115_01584	CDS	156				hypothetical protein
+metabat1500.115_01585	gene	516				
+metabat1500.115_01585	CDS	516				hypothetical protein
+metabat1500.115_01586	gene	960				
+metabat1500.115_01586	CDS	960				hypothetical protein
+metabat1500.115_01587	gene	963				
+metabat1500.115_01587	CDS	963				hypothetical protein
+metabat1500.115_01588	gene	834	cmpD			
+metabat1500.115_01588	CDS	834	cmpD	3.6.3.-	COG1116	Bicarbonate transport ATP-binding protein CmpD
+metabat1500.115_01589	gene	768				
+metabat1500.115_01589	CDS	768				hypothetical protein
+metabat1500.115_01590	gene	303	ptsH			
+metabat1500.115_01590	CDS	303	ptsH		COG1925	Phosphocarrier protein HPr
+metabat1500.115_01591	gene	888				
+metabat1500.115_01591	CDS	888				hypothetical protein
+metabat1500.115_01592	gene	966				
+metabat1500.115_01592	CDS	966				hypothetical protein
+metabat1500.115_01593	gene	1188	hisC_2			
+metabat1500.115_01593	CDS	1188	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+metabat1500.115_01594	gene	603				
+metabat1500.115_01594	CDS	603				hypothetical protein
+metabat1500.115_01595	gene	1404	atoC_2			
+metabat1500.115_01595	CDS	1404	atoC_2		COG2204	Regulatory protein AtoC
+metabat1500.115_01596	gene	840	atoS			
+metabat1500.115_01596	CDS	840	atoS	2.7.13.3	COG0642	Signal transduction histidine-protein kinase AtoS
+metabat1500.115_01597	gene	1059	gatA			
+metabat1500.115_01597	CDS	1059	gatA	6.3.5.7		Glutamyl-tRNA(Gln) amidotransferase subunit A
+metabat1500.115_01598	gene	360				
+metabat1500.115_01598	CDS	360				hypothetical protein
+metabat1500.115_01599	gene	219				
+metabat1500.115_01599	CDS	219				hypothetical protein
+metabat1500.115_01600	gene	1473	gatB_2			
+metabat1500.115_01600	CDS	1473	gatB_2	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+metabat1500.115_01601	gene	156				
+metabat1500.115_01601	CDS	156				hypothetical protein
+metabat1500.115_01602	gene	618	rpsD_2			
+metabat1500.115_01602	CDS	618	rpsD_2		COG0522	30S ribosomal protein S4
+metabat1500.115_01603	gene	399	rpsK			
+metabat1500.115_01603	CDS	399	rpsK			30S ribosomal protein S11
+metabat1500.115_01604	gene	384	rpsM_2			
+metabat1500.115_01604	CDS	384	rpsM_2		COG0099	30S ribosomal protein S13
+metabat1500.115_01605	gene	1482	nuoM			
+metabat1500.115_01605	CDS	1482	nuoM	7.1.1.-	COG1008	NADH-quinone oxidoreductase subunit M
+metabat1500.115_01606	gene	1530	ndhB_2			
+metabat1500.115_01606	CDS	1530	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+metabat1500.115_01607	gene	978				
+metabat1500.115_01607	CDS	978		2.5.-.-		Deoxyhypusine synthase-like protein
+metabat1500.115_01608	gene	663	rsmI			
+metabat1500.115_01608	CDS	663	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+metabat1500.115_01609	gene	1377				
+metabat1500.115_01609	CDS	1377				hypothetical protein
+metabat1500.115_01610	gene	1521				
+metabat1500.115_01610	CDS	1521				hypothetical protein
+metabat1500.115_01611	gene	525				
+metabat1500.115_01611	CDS	525				hypothetical protein
+metabat1500.115_01612	gene	258				
+metabat1500.115_01612	CDS	258				hypothetical protein
+metabat1500.115_01613	gene	834	mqnA_2			
+metabat1500.115_01613	CDS	834	mqnA_2	4.2.1.151	COG1427	Chorismate dehydratase
+metabat1500.115_01614	gene	1041				
+metabat1500.115_01614	CDS	1041				hypothetical protein
+metabat1500.115_01615	gene	2289	dpp5_2			
+metabat1500.115_01615	CDS	2289	dpp5_2	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+metabat1500.115_01616	gene	456	icd			
+metabat1500.115_01616	CDS	456	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+metabat1500.115_01617	gene	312				
+metabat1500.115_01617	CDS	312				hypothetical protein
+metabat1500.115_01618	gene	984				
+metabat1500.115_01618	CDS	984				hypothetical protein
+metabat1500.115_01619	gene	777	fabI_3			
+metabat1500.115_01619	CDS	777	fabI_3	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+metabat1500.115_01620	gene	798				
+metabat1500.115_01620	CDS	798				hypothetical protein
+metabat1500.115_01621	gene	987	accA_2			
+metabat1500.115_01621	CDS	987	accA_2	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+metabat1500.115_01622	gene	843				
+metabat1500.115_01622	CDS	843				hypothetical protein
+metabat1500.115_01623	gene	453				
+metabat1500.115_01623	CDS	453				hypothetical protein
+metabat1500.115_01624	gene	435				
+metabat1500.115_01624	CDS	435				hypothetical protein
+metabat1500.115_01625	gene	309				
+metabat1500.115_01625	CDS	309				hypothetical protein
+metabat1500.115_01626	gene	849	mlaE_2			
+metabat1500.115_01626	CDS	849	mlaE_2		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+metabat1500.115_01627	gene	945				
+metabat1500.115_01627	CDS	945		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+metabat1500.115_01628	gene	258				
+metabat1500.115_01628	CDS	258				hypothetical protein
+metabat1500.115_01629	gene	363				
+metabat1500.115_01629	CDS	363				hypothetical protein
+metabat1500.115_01630	gene	1410				
+metabat1500.115_01630	CDS	1410				hypothetical protein
+metabat1500.115_01631	gene	462				
+metabat1500.115_01631	CDS	462				hypothetical protein
+metabat1500.115_01632	gene	888	ahpF			
+metabat1500.115_01632	CDS	888	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+metabat1500.115_01633	gene	555				
+metabat1500.115_01633	CDS	555				hypothetical protein
+metabat1500.115_01634	gene	1248				
+metabat1500.115_01634	CDS	1248				hypothetical protein
+metabat1500.115_01635	gene	288				
+metabat1500.115_01635	CDS	288				hypothetical protein
+metabat1500.115_01636	gene	141				
+metabat1500.115_01636	CDS	141				hypothetical protein
+metabat1500.115_01637	gene	234				
+metabat1500.115_01637	CDS	234				hypothetical protein
+metabat1500.115_01638	gene	450	rcp1			
+metabat1500.115_01638	CDS	450	rcp1			Response regulator rcp1
+metabat1500.115_01639	gene	1128	sasA_4			
+metabat1500.115_01639	CDS	1128	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+metabat1500.115_01640	gene	1233				
+metabat1500.115_01640	CDS	1233				hypothetical protein
+metabat1500.115_01641	gene	363				
+metabat1500.115_01641	CDS	363				hypothetical protein
+metabat1500.115_01642	gene	831				
+metabat1500.115_01642	CDS	831				hypothetical protein
+metabat1500.115_01643	gene	1026	aqpZ_2			
+metabat1500.115_01643	CDS	1026	aqpZ_2			Aquaporin Z
+metabat1500.115_01644	gene	141				
+metabat1500.115_01644	CDS	141				hypothetical protein
+metabat1500.115_01645	gene	615				
+metabat1500.115_01645	CDS	615				hypothetical protein
+metabat1500.115_01646	gene	240				
+metabat1500.115_01646	CDS	240				hypothetical protein
+metabat1500.115_01647	gene	1179				
+metabat1500.115_01647	CDS	1179		1.-.-.-	COG0516	putative oxidoreductase/MSMEI_1564
+metabat1500.115_01648	gene	1254	fabF_3			
+metabat1500.115_01648	CDS	1254	fabF_3	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+metabat1500.115_01649	gene	72				
+metabat1500.115_01649	tRNA	72				tRNA-Gly(tcc)
+metabat1500.115_01650	gene	666				
+metabat1500.115_01650	CDS	666				hypothetical protein
+metabat1500.115_01651	gene	447				
+metabat1500.115_01651	CDS	447				hypothetical protein
+metabat1500.115_01652	gene	126				
+metabat1500.115_01652	CDS	126				hypothetical protein
+metabat1500.115_01653	gene	201				
+metabat1500.115_01653	CDS	201				hypothetical protein
+metabat1500.115_01654	gene	579	pgsA_2			
+metabat1500.115_01654	CDS	579	pgsA_2	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+metabat1500.115_01655	gene	432				
+metabat1500.115_01655	CDS	432				hypothetical protein
+metabat1500.115_01656	gene	1485	gndA_2			
+metabat1500.115_01656	CDS	1485	gndA_2	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+metabat1500.115_01657	gene	1398	dnaE2			
+metabat1500.115_01657	CDS	1398	dnaE2	2.7.7.7	COG0587	Error-prone DNA polymerase
+metabat1500.115_01658	gene	990	pgcA			
+metabat1500.115_01658	CDS	990	pgcA	5.4.2.2		Phosphoglucomutase
+metabat1500.115_01659	gene	282				
+metabat1500.115_01659	CDS	282				hypothetical protein
+metabat1500.115_01660	gene	366				
+metabat1500.115_01660	CDS	366				hypothetical protein
+metabat1500.115_01661	gene	135				
+metabat1500.115_01661	CDS	135				hypothetical protein
+metabat1500.115_01662	gene	3387	arnC_4			
+metabat1500.115_01662	CDS	3387	arnC_4	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+metabat1500.115_01663	gene	210				
+metabat1500.115_01663	CDS	210				hypothetical protein
+metabat1500.115_01664	gene	537				
+metabat1500.115_01664	CDS	537				hypothetical protein
+metabat1500.115_01665	gene	600				
+metabat1500.115_01665	CDS	600				hypothetical protein
+metabat1500.115_01666	gene	282				
+metabat1500.115_01666	CDS	282				hypothetical protein
+metabat1500.115_01667	gene	333				
+metabat1500.115_01667	CDS	333				hypothetical protein
+metabat1500.115_01668	gene	1380				
+metabat1500.115_01668	CDS	1380				hypothetical protein
+metabat1500.115_01669	gene	954				
+metabat1500.115_01669	CDS	954				hypothetical protein
+metabat1500.115_01670	gene	663	mshA_9			
+metabat1500.115_01670	CDS	663	mshA_9	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+metabat1500.115_01671	gene	1251				
+metabat1500.115_01671	CDS	1251				hypothetical protein
+metabat1500.115_01672	gene	447				
+metabat1500.115_01672	CDS	447				hypothetical protein
+metabat1500.115_01673	gene	351				
+metabat1500.115_01673	CDS	351				hypothetical protein
+metabat1500.115_01674	gene	1119	pyk_2			
+metabat1500.115_01674	CDS	1119	pyk_2	2.7.1.40		Pyruvate kinase
+metabat1500.115_01675	gene	156				
+metabat1500.115_01675	CDS	156				hypothetical protein
+metabat1500.115_01676	gene	2100	glgX			
+metabat1500.115_01676	CDS	2100	glgX	3.2.1.-	COG1523	Glycogen operon protein GlgX 
+metabat1500.115_01677	gene	732				
+metabat1500.115_01677	CDS	732				hypothetical protein
+metabat1500.115_01678	gene	171				
+metabat1500.115_01678	CDS	171				hypothetical protein
+metabat1500.115_01679	gene	1605	pckA			
+metabat1500.115_01679	CDS	1605	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+metabat1500.115_01680	gene	165				
+metabat1500.115_01680	CDS	165				hypothetical protein
+metabat1500.115_01681	gene	1566				
+metabat1500.115_01681	CDS	1566				hypothetical protein
+metabat1500.115_01682	gene	327				
+metabat1500.115_01682	CDS	327				hypothetical protein
+metabat1500.115_01683	gene	177				
+metabat1500.115_01683	CDS	177				hypothetical protein
+metabat1500.115_01684	gene	300				
+metabat1500.115_01684	CDS	300				hypothetical protein
+metabat1500.115_01685	gene	681				
+metabat1500.115_01685	CDS	681				hypothetical protein
+metabat1500.115_01686	gene	1386				
+metabat1500.115_01686	CDS	1386				hypothetical protein
+metabat1500.115_01687	gene	135				
+metabat1500.115_01687	CDS	135				hypothetical protein
+metabat1500.115_01688	gene	870				
+metabat1500.115_01688	CDS	870				hypothetical protein
+metabat1500.115_01689	gene	519				
+metabat1500.115_01689	CDS	519				hypothetical protein
+metabat1500.115_01690	gene	936	panE			
+metabat1500.115_01690	CDS	936	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+metabat1500.115_01691	gene	378				
+metabat1500.115_01691	CDS	378				hypothetical protein
+metabat1500.115_01692	gene	942				
+metabat1500.115_01692	CDS	942		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+metabat1500.115_01693	gene	912				
+metabat1500.115_01693	CDS	912				hypothetical protein
+metabat1500.115_01694	gene	837	ogt			
+metabat1500.115_01694	CDS	837	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+metabat1500.115_01695	gene	75				
+metabat1500.115_01695	tRNA	75				tRNA-Arg(tct)
+metabat1500.115_01696	gene	531				
+metabat1500.115_01696	CDS	531		2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+metabat1500.115_01697	gene	1545				
+metabat1500.115_01697	CDS	1545				hypothetical protein
+metabat1500.115_01698	gene	153				
+metabat1500.115_01698	CDS	153				hypothetical protein
+metabat1500.115_01699	gene	219				
+metabat1500.115_01699	CDS	219				hypothetical protein
+metabat1500.115_01700	gene	495				
+metabat1500.115_01700	CDS	495				hypothetical protein
