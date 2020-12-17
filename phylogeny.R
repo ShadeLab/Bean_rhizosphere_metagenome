@@ -375,11 +375,7 @@ MAGtree.plot=MAGtree.plot %<+% mag.markingData +
 #' as template
 
 samtoolsMAG=read.table('data/MAG_samtools_stats.txt', header=T)
-samtoolsAssembly=read.table('data/anvio_samtools_stats.txt', header=T)
-
-head(samtoolsMAG)
-
-names(samtoolsMAG)
+samtoolsAssembly=read.table('data/Assembly_samtools_stats.txt', header=T)
 
 SamMAG.Fig=melt(samtoolsMAG[c(1,40,42)], id.vars = 'Sample', variable.name = 'portion',
      value.name = 'percent') %>%
