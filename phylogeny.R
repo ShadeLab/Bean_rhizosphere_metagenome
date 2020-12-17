@@ -373,36 +373,38 @@ MAGtree.plot=MAGtree.plot %<+% mag.markingData +
   scale_color_manual(values = c('gold', 'transparent')) 
  
 
-MAG.Phyla.nodes <- collapse_nodes("Phylum", MAGtree, mag.taxonomy)
+#' ************************************************************************
+#' Plotting the mapping stats from samtools using MAGs and anvio contigs 
+#' as template
 
-acido_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Acidobacteriota"),]$Node
-actiono_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Actinobacteriota"),]$Node
-bact_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Bacteroidota"),]$Node
-chloro_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Chloroflexota"),]$Node
-methy_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Methylomirabilota"),]$Node
-myxo_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Myxococcota"),]$Node
-gemma_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Gemmatimonadota"),]$Node
-desulfo_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Desulfobacterota_B"),]$Node
-patesc_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Patescibacteria"),]$Node
-plan_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Planctomycetota"),]$Node
-proteo_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Proteobacteria"),]$Node
-ver_node <- MAG.Phyla.nodes[which(MAG.Phyla.nodes$Group == "p__Verrucomicrobiota"),]$Node 
+samtoolsMAG=read.table('data/MAG_samtools_stats.txt', header=T)
+samtoolsAssembly=read.table('data/anvio_samtools_stats.txt', header=T)
 
-pal <- got(9, option = "Arya")
+head(samtoolsMAG)
 
-geom_cladelabel(node=actiono_node, label="Actinobacteriota",align=TRUE, offset=.5)
-  geom_cladelabel(node=bact_node, label="Bacteroidota",align=TRUE, offset=.5) 
-  geom_cladelabel(node=chloro_node, label="Chloroflexota",align=TRUE, offset=.5) +
-  geom_cladelabel(node=plan_node, label="Planctomycetota",align=TRUE, offset=.5) +
-  geom_cladelabel(node=proteo_node, label="Proteobacteria",align=TRUE, offset=.5) +
-  geom_cladelabel(node=ver_node, label="Verrucomicrobiota",align=TRUE, offset=.5)
-  geom_hilight(node=actiono_node, fill=pal[2], alpha=.5) +
-  geom_hilight(node=bact_node, fill=pal[3], alpha=.5) +
-  geom_hilight(node=chloro_node, fill=pal[4], alpha=.5) +
-  geom_hilight(node=methy_node, fill=pal[5], alpha=.5) +
-  geom_hilight(node=plan_node, fill=pal[6], alpha=.5) +
-  geom_hilight(node=gemma_node, fill=pal[7], alpha=.5) +
-  geom_hilight(node=proteo_node, fill=pal[8], alpha=.5) +
-  geom_hilight(node=ver_node, fill=pal[9], alpha=.5) 
+names(samtoolsMAG)
+
+SamMAG.Fig=melt(samtoolsMAG[c(1,40,42)], id.vars = 'Sample', variable.name = 'portion',
+     value.name = 'percent') %>%
+  ggplot(aes(x=Sample, y=percent, fill=factor(portion, 
+                                              levels = c('reads_unmapped_percent',
+                                                         'reads_mapped_percent'))))+
+  geom_bar(stat = 'identity', position = 'stack') +
+  scale_fill_manual(values =c('brown3', 'cadetblue'), ) +
+  theme_bw()+
+  theme(axis.text.x = element_blank(),
+        legend.position = 'top')+
+  labs(y='% reads', fill=NULL)
 
 
+SamAssembly.Fig=melt(samtoolsAssembly[c(1,40,42)], id.vars = 'Sample', variable.name = 'portion',
+                value.name = 'percent') %>%
+  ggplot(aes(x=Sample, y=percent, fill=factor(portion, 
+                                              levels = c('reads_unmapped_percent',
+                                                         'reads_mapped_percent'))))+
+  geom_bar(stat = 'identity', position = 'stack') +
+  scale_fill_manual(values =c('brown3', 'cadetblue'), ) +
+  theme_bw()+
+  theme(axis.text.x = element_blank(),
+        legend.position = 'top')+
+  labs(y='% reads', fill=NULL)
