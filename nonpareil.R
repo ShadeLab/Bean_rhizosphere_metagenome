@@ -46,7 +46,9 @@ nonpareilFig <-ggplot(map_np, aes(y=np_val, x=timeNum, col=time)) +
   geom_point(position = position_jitterdodge())+
   theme(legend.position = c(.3,.84),
         panel.background = element_rect(fill = "transparent",colour = NA))
-  
+
+map.alpha <- read.csv('~/Documents/git/Bean_rhizosphere_metagenome/data/alphaDiversity16S.csv', header=T)
+
 Shannon_16s <- ggplot(map.alpha[map.alpha$variable == 'Shannon' & !(map.alpha$ID %in% PowersoilMRC) & map.alpha$Site == 'MRC' & map.alpha$Compartment=='rhizosphere' & map.alpha$Genotype=='Eclipse',], aes(y=value, x=factor(Timepoint), color=as.factor(Timepoint)))+
   theme_classic()+
   labs(x=NULL, y='Shannon', title='16S rRNA amplicons')+
@@ -61,4 +63,10 @@ np$diversity
 
 detach(map)
 
+Richness_16s <- ggplot(map.alpha[map.alpha$variable == 'Richness' & !(map.alpha$ID %in% PowersoilMRC) & map.alpha$Site == 'MRC' & map.alpha$Compartment=='rhizosphere' & map.alpha$Genotype=='Eclipse',], aes(y=value, x=factor(Timepoint), color=as.factor(Timepoint)))+
+  theme_classic()+
+  labs(x=NULL, y='Richness', title='16S rRNA amplicons')+
+  geom_boxplot(outlier.colour = 'transparent')+
+  geom_point(position = position_jitterdodge()) +
+  theme(legend.position = 'none')
 
